@@ -1,0 +1,1501 @@
+Athlete_ID,Athlete_Name,Gender,Age,Country,Country_Code,Sport,Event,Olympic_Year,Medal,Height_cm,Weight_kg,Team,Coach,Participation_Status,Has_Medal
+1001,Arjun Wilson,Male,21,France,FRA,Gymnastics,Floor,2016,No Medal,173.0,82.0,Team A,Coach E,Participated,0
+1002,Kabir Kim,Female,19,United Kingdom,GBR,Cycling,Road Race,2024,Silver,186.0,82.0,Team B,Coach E,Participated,1
+1003,Ananya Smith,Male,36,Canada,CAN,Swimming,200M Butterfly,2024,No Medal,186.0,85.0,Team D,Coach C,Participated,0
+1004,Ananya Patel,Male,20,Germany,GER,Shooting,25M Pistol,2012,Bronze,186.0,64.0,Team D,Coach B,Participated,1
+1005,Arjun Wilson,Female,36,Brazil,BRA,Gymnastics,Floor,2012,No Medal,200.0,97.0,Team A,Coach C,Participated,0
+1006,Liam Kim,Male,32,India,IND,Shooting,10M Air Rifle,2012,No Medal,168.0,90.0,Team D,Coach A,Participated,0
+1007,Sophia Khan,Female,33,China,CHN,Wrestling,Greco-Roman,2024,No Medal,155.0,55.0,Team C,Coach D,Participated,0
+1008,Kabir Patel,Female,18,United States,USA,Wrestling,Freestyle,2020,Silver,181.0,98.0,Team B,Coach E,Participated,1
+1009,Chen Khan,Male,30,Brazil,BRA,Tennis,Singles,2024,No Medal,175.0,70.0,Team B,Coach A,Participated,0
+1010,Neha Wilson,Female,21,United States,USA,Gymnastics,Floor,2020,Gold,176.0,84.0,Team C,Coach D,Participated,1
+1011,Lucas Singh,Male,33,Brazil,BRA,Swimming,100M Freestyle,2012,No Medal,169.0,50.0,Team B,Coach E,Participated,0
+1012,Yuki Brown,Female,20,Canada,CAN,Gymnastics,Floor,2016,No Medal,194.0,99.0,Team B,Coach B,Participated,0
+1013,Olivia Sharma,Female,18,Japan,JPN,Cycling,Road Race,2020,No Medal,200.0,62.0,Team A,Coach B,Participated,0
+1014,Riya Singh,Male,37,Brazil,BRA,Swimming,100M Freestyle,2024,Bronze,176.0,98.0,Team B,Coach D,Participated,1
+1015,Sophia Singh,Female,30,Germany,GER,Badminton,Doubles,2016,Silver,197.0,50.0,Team D,Coach C,Participated,1
+1016,Ishaan Wilson,Male,22,India,IND,Badminton,Singles,2020,Gold,177.0,100.0,Team C,Coach E,Participated,1
+1017,Olivia Singh,Male,36,India,IND,Cycling,Road Race,2024,No Medal,183.0,71.0,Team B,Coach E,Participated,0
+1018,David Smith,Male,35,China,CHN,Athletics,100M,2016,Silver,153.0,65.0,Team B,Coach C,Participated,1
+1019,Aarav Smith,Female,32,Canada,CAN,Athletics,100M,2016,No Medal,170.0,84.0,Team C,Coach E,Participated,0
+1020,Sophia Singh,Male,28,China,CHN,Wrestling,Greco-Roman,2020,No Medal,154.0,87.0,Team B,Coach C,Participated,0
+1021,Ishaan Khan,Female,33,Japan,JPN,Badminton,Doubles,2024,No Medal,160.0,87.0,Team B,Coach C,Participated,0
+1022,Chen Singh,Male,32,Germany,GER,Gymnastics,Floor,2016,Gold,195.0,46.0,Team A,Coach A,Participated,1
+1023,Ananya Brown,Female,22,India,IND,Boxing,Heavyweight,2020,No Medal,177.0,99.0,Team A,Coach C,Participated,0
+1024,Arjun Brown,Male,18,China,CHN,Athletics,Marathon,2024,No Medal,190.0,50.0,Team A,Coach C,Participated,0
+1025,Vihaan Wilson,Male,25,Australia,AUS,Hockey,Women,2020,No Medal,157.0,55.0,Team D,Coach E,Participated,0
+1026,Emma Sharma,Female,18,Germany,GER,Badminton,Doubles,2012,No Medal,151.0,91.0,Team D,Coach D,Participated,0
+1027,Riya Patel,Male,28,Canada,CAN,Hockey,Women,2016,No Medal,162.0,98.0,Team A,Coach A,Participated,0
+1028,Sophia Wilson,Male,27,China,CHN,Boxing,Heavyweight,2020,Gold,188.0,60.0,Team C,Coach C,Participated,1
+1029,Liam Patel,Male,29,Japan,JPN,Hockey,Women,2012,Gold,161.0,45.0,Team A,Coach C,Participated,1
+1030,Sophia Sharma,Female,27,France,FRA,Swimming,100M Freestyle,2020,No Medal,169.0,85.0,Team D,Coach B,Participated,0
+1031,Yuki Khan,Male,34,India,IND,Boxing,Lightweight,2012,Gold,158.0,78.0,Team A,Coach A,Participated,1
+1032,Lucas Wilson,Male,19,United States,USA,Badminton,Doubles,2012,Gold,190.0,46.0,Team A,Coach D,Participated,1
+1033,Riya Patel,Male,32,Australia,AUS,Boxing,Lightweight,2012,Bronze,181.0,99.0,Team B,Coach C,Participated,1
+1034,Aarav Singh,Female,19,United Kingdom,GBR,Boxing,Heavyweight,2024,No Medal,181.0,62.0,Team D,Coach D,Participated,0
+1035,Ava Sharma,Male,27,Australia,AUS,Swimming,100M Freestyle,2016,No Medal,179.0,49.0,Team A,Coach E,Participated,0
+1036,Olivia Lee,Female,37,Canada,CAN,Swimming,100M Freestyle,2024,Bronze,190.0,77.0,Team A,Coach B,Participated,1
+1037,Neha Khan,Female,29,Brazil,BRA,Athletics,200M,2012,No Medal,174.0,65.0,Team B,Coach A,Participated,0
+1038,Sophia Kim,Female,20,Germany,GER,Boxing,Heavyweight,2016,Gold,173.0,72.0,Team B,Coach C,Participated,1
+1039,Mia Sharma,Male,30,Japan,JPN,Cycling,Track Sprint,2020,No Medal,185.0,80.0,Team D,Coach A,Participated,0
+1040,Noah Brown,Female,27,China,CHN,Hockey,Men,2024,No Medal,166.0,92.0,Team A,Coach B,Participated,0
+1041,Ava Wilson,Male,25,Japan,JPN,Badminton,Singles,2016,No Medal,178.0,66.0,Team C,Coach E,Participated,0
+1042,Sara Patel,Female,18,Japan,JPN,Swimming,200M Butterfly,2012,No Medal,197.0,100.0,Team D,Coach C,Participated,0
+1043,Yuki Patel,Male,20,China,CHN,Tennis,Doubles,2016,No Medal,167.0,60.0,Team A,Coach D,Participated,0
+1044,Yuki Singh,Female,32,India,IND,Shooting,25M Pistol,2012,Gold,165.0,95.0,Team A,Coach A,Participated,1
+1045,Liam Lee,Male,26,United Kingdom,GBR,Badminton,Singles,2024,No Medal,183.0,85.0,Team C,Coach B,Participated,0
+1046,Lucas Brown,Female,28,India,IND,Tennis,Singles,2020,No Medal,191.0,98.0,Team A,Coach A,Participated,0
+1047,Kabir Khan,Male,29,France,FRA,Wrestling,Greco-Roman,2012,Silver,164.0,76.0,Team C,Coach E,Participated,1
+1048,Liam Patel,Male,25,Brazil,BRA,Swimming,100M Freestyle,2016,No Medal,179.0,59.0,Team D,Coach D,Participated,0
+1049,Vihaan Patel,Female,18,China,CHN,Athletics,Marathon,2012,No Medal,188.0,54.0,Team A,Coach B,Participated,0
+1050,Yuki Singh,Male,19,China,CHN,Gymnastics,Floor,2012,No Medal,169.0,87.0,Team A,Coach C,Participated,0
+1051,Ishaan Wilson,Female,24,France,FRA,Swimming,200M Butterfly,2016,No Medal,174.0,67.0,Team C,Coach E,Participated,0
+1052,Ava Sharma,Male,31,Germany,GER,Shooting,10M Air Rifle,2020,No Medal,165.0,96.0,Team B,Coach A,Participated,0
+1053,David Sharma,Male,26,Germany,GER,Tennis,Doubles,2012,Bronze,197.0,90.0,Team B,Coach A,Participated,1
+1054,Mia Singh,Male,22,France,FRA,Shooting,25M Pistol,2016,No Medal,176.0,56.0,Team C,Coach C,Participated,0
+1055,Riya Khan,Female,23,United Kingdom,GBR,Shooting,25M Pistol,2012,Gold,165.0,71.0,Team A,Coach C,Participated,1
+1056,Ava Singh,Male,23,Japan,JPN,Tennis,Singles,2020,Silver,164.0,53.0,Team C,Coach C,Participated,1
+1057,Emma Patel,Female,32,Germany,GER,Tennis,Doubles,2012,Bronze,165.0,56.0,Team D,Coach C,Participated,1
+1058,Vihaan Smith,Male,18,United States,USA,Wrestling,Freestyle,2012,No Medal,180.0,97.0,Team A,Coach B,Participated,0
+1059,Ananya Singh,Female,37,United States,USA,Tennis,Singles,2016,No Medal,166.0,94.0,Team A,Coach C,Participated,0
+1060,Emma Sharma,Female,37,India,IND,Gymnastics,Floor,2016,Bronze,196.0,86.0,Team C,Coach A,Participated,1
+1061,Arjun Khan,Female,21,Brazil,BRA,Wrestling,Freestyle,2020,No Medal,200.0,70.0,Team D,Coach C,Participated,0
+1062,Sara Garcia,Female,31,India,IND,Boxing,Heavyweight,2016,No Medal,176.0,46.0,Team A,Coach D,Participated,0
+1063,Sophia Kim,Female,29,United States,USA,Badminton,Doubles,2012,No Medal,179.0,71.0,Team C,Coach E,Participated,0
+1064,Yuki Lee,Male,20,Germany,GER,Badminton,Singles,2012,Bronze,156.0,69.0,Team D,Coach C,Participated,1
+1065,David Lee,Male,25,France,FRA,Athletics,Marathon,2024,Silver,189.0,70.0,Team B,Coach D,Participated,1
+1066,Riya Sharma,Female,35,China,CHN,Gymnastics,Floor,2024,Bronze,198.0,88.0,Team C,Coach E,Participated,1
+1067,Lucas Wilson,Female,32,France,FRA,Wrestling,Greco-Roman,2016,No Medal,176.0,46.0,Team D,Coach D,Participated,0
+1068,Olivia Smith,Female,32,China,CHN,Swimming,100M Freestyle,2012,No Medal,182.0,77.0,Team A,Coach E,Participated,0
+1069,David Smith,Male,24,India,IND,Cycling,Road Race,2012,No Medal,158.0,76.0,Team C,Coach E,Participated,0
+1070,Emma Singh,Male,22,Germany,GER,Boxing,Lightweight,2020,No Medal,166.0,77.0,Team C,Coach A,Participated,0
+1071,Emma Garcia,Female,30,France,FRA,Wrestling,Freestyle,2024,Silver,160.0,95.0,Team A,Coach C,Participated,1
+1072,Olivia Kim,Male,22,Germany,GER,Hockey,Women,2020,Bronze,173.0,66.0,Team C,Coach C,Participated,1
+1073,Kabir Lee,Male,27,India,IND,Tennis,Doubles,2012,No Medal,189.0,85.0,Team A,Coach A,Participated,0
+1074,Yuki Garcia,Female,35,Germany,GER,Athletics,Marathon,2016,No Medal,164.0,71.0,Team B,Coach A,Participated,0
+1075,Neha Brown,Female,30,Brazil,BRA,Wrestling,Freestyle,2024,Silver,166.0,45.0,Team B,Coach B,Participated,1
+1076,Sophia Lee,Male,25,India,IND,Athletics,100M,2016,No Medal,160.0,48.0,Team D,Coach B,Participated,0
+1077,Liam Smith,Female,27,United Kingdom,GBR,Hockey,Women,2024,Silver,190.0,48.0,Team D,Coach A,Participated,1
+1078,Emma Patel,Male,19,Japan,JPN,Shooting,10M Air Rifle,2020,No Medal,157.0,66.0,Team D,Coach E,Participated,0
+1079,Yuki Sharma,Male,23,Japan,JPN,Boxing,Heavyweight,2024,Silver,166.0,60.0,Team C,Coach E,Participated,1
+1080,Yuki Sharma,Male,18,Canada,CAN,Wrestling,Greco-Roman,2016,No Medal,177.0,91.0,Team B,Coach A,Participated,0
+1081,Ananya Garcia,Male,22,United States,USA,Athletics,100M,2012,No Medal,194.0,46.0,Team A,Coach E,Participated,0
+1082,Arjun Khan,Male,21,Canada,CAN,Gymnastics,Floor,2020,No Medal,165.0,58.0,Team D,Coach A,Participated,0
+1083,Noah Khan,Female,26,Japan,JPN,Badminton,Singles,2024,Bronze,151.0,67.0,Team C,Coach E,Participated,1
+1084,Ishaan Garcia,Female,33,India,IND,Athletics,200M,2016,No Medal,195.0,48.0,Team D,Coach A,Participated,0
+1085,Vihaan Sharma,Female,29,Australia,AUS,Hockey,Men,2020,No Medal,181.0,51.0,Team B,Coach C,Participated,0
+1086,Arjun Singh,Male,35,Brazil,BRA,Wrestling,Freestyle,2024,Silver,200.0,51.0,Team A,Coach C,Participated,1
+1087,Chen Wilson,Male,23,Australia,AUS,Wrestling,Greco-Roman,2020,No Medal,174.0,85.0,Team C,Coach E,Participated,0
+1088,Ananya Singh,Male,32,Canada,CAN,Badminton,Doubles,2016,No Medal,194.0,94.0,Team C,Coach C,Participated,0
+1089,Noah Kim,Male,34,China,CHN,Tennis,Singles,2016,No Medal,172.0,55.0,Team A,Coach B,Participated,0
+1090,Liam Khan,Male,26,China,CHN,Cycling,Road Race,2012,No Medal,162.0,51.0,Team D,Coach D,Participated,0
+1091,Emma Kim,Female,30,Brazil,BRA,Wrestling,Greco-Roman,2016,Gold,150.0,92.0,Team B,Coach B,Participated,1
+1092,Ishaan Khan,Female,25,France,FRA,Swimming,200M Butterfly,2012,No Medal,200.0,70.0,Team D,Coach E,Participated,0
+1093,Ava Smith,Female,19,India,IND,Badminton,Doubles,2012,No Medal,166.0,79.0,Team D,Coach E,Participated,0
+1094,Olivia Wilson,Male,28,Canada,CAN,Wrestling,Greco-Roman,2020,Gold,176.0,92.0,Team A,Coach C,Participated,1
+1095,Arjun Khan,Female,31,France,FRA,Boxing,Heavyweight,2016,Gold,190.0,89.0,Team D,Coach D,Participated,1
+1096,Arjun Patel,Female,33,China,CHN,Wrestling,Freestyle,2024,No Medal,191.0,80.0,Team C,Coach E,Participated,0
+1097,Kabir Brown,Female,30,Germany,GER,Badminton,Doubles,2020,No Medal,193.0,61.0,Team B,Coach C,Participated,0
+1098,Arjun Garcia,Male,22,Brazil,BRA,Gymnastics,Vault,2020,No Medal,169.0,99.0,Team A,Coach A,Participated,0
+1099,Ishaan Kim,Male,22,Australia,AUS,Wrestling,Freestyle,2012,Bronze,164.0,56.0,Team C,Coach B,Participated,1
+1100,Lucas Smith,Female,35,Canada,CAN,Shooting,10M Air Rifle,2024,Gold,157.0,61.0,Team B,Coach D,Participated,1
+1101,Aarav Lee,Female,28,China,CHN,Wrestling,Greco-Roman,2012,No Medal,179.0,89.0,Team B,Coach C,Participated,0
+1102,Noah Smith,Male,34,United Kingdom,GBR,Athletics,100M,2020,Gold,180.0,76.0,Team A,Coach C,Participated,1
+1103,Riya Brown,Female,31,Canada,CAN,Gymnastics,Vault,2024,No Medal,171.0,72.0,Team C,Coach E,Participated,0
+1104,Ishaan Garcia,Male,24,Japan,JPN,Boxing,Heavyweight,2024,No Medal,170.0,90.0,Team D,Coach E,Participated,0
+1105,Aarav Sharma,Female,24,France,FRA,Tennis,Singles,2016,No Medal,180.0,83.0,Team A,Coach B,Participated,0
+1106,Ananya Smith,Male,23,Brazil,BRA,Athletics,Marathon,2020,No Medal,152.0,71.0,Team C,Coach C,Participated,0
+1107,Mia Kim,Female,36,India,IND,Badminton,Doubles,2024,No Medal,153.0,76.0,Team A,Coach A,Participated,0
+1108,Chen Smith,Male,20,Brazil,BRA,Cycling,Road Race,2012,Gold,191.0,75.0,Team B,Coach A,Participated,1
+1109,Sara Patel,Male,32,India,IND,Badminton,Doubles,2012,Bronze,196.0,92.0,Team C,Coach E,Participated,1
+1110,Vihaan Sharma,Female,18,Australia,AUS,Shooting,25M Pistol,2016,No Medal,153.0,45.0,Team D,Coach E,Participated,0
+1111,Lucas Singh,Female,23,Germany,GER,Athletics,200M,2024,No Medal,159.0,96.0,Team D,Coach C,Participated,0
+1112,David Kim,Female,28,Australia,AUS,Tennis,Doubles,2016,Bronze,188.0,91.0,Team D,Coach D,Participated,1
+1113,Aarav Garcia,Female,26,Brazil,BRA,Cycling,Road Race,2016,Bronze,167.0,72.0,Team B,Coach C,Participated,1
+1114,Chen Wilson,Male,33,Germany,GER,Hockey,Women,2024,No Medal,174.0,57.0,Team D,Coach B,Participated,0
+1115,Arjun Wilson,Female,29,France,FRA,Boxing,Lightweight,2024,No Medal,199.0,49.0,Team B,Coach B,Participated,0
+1116,Liam Garcia,Female,36,United States,USA,Wrestling,Freestyle,2020,Bronze,186.0,67.0,Team A,Coach C,Participated,1
+1117,Aarav Garcia,Female,26,China,CHN,Shooting,10M Air Rifle,2016,No Medal,176.0,83.0,Team C,Coach C,Participated,0
+1118,David Lee,Female,26,Brazil,BRA,Cycling,Road Race,2024,No Medal,152.0,66.0,Team D,Coach A,Participated,0
+1119,Arjun Brown,Female,28,United States,USA,Tennis,Doubles,2016,No Medal,186.0,59.0,Team C,Coach B,Participated,0
+1120,Olivia Sharma,Female,35,India,IND,Wrestling,Freestyle,2012,No Medal,151.0,98.0,Team A,Coach B,Participated,0
+1121,Liam Kim,Female,36,Japan,JPN,Gymnastics,Floor,2024,No Medal,178.0,93.0,Team D,Coach B,Participated,0
+1122,Aarav Singh,Male,24,China,CHN,Shooting,10M Air Rifle,2024,No Medal,152.0,55.0,Team A,Coach D,Participated,0
+1123,Noah Garcia,Female,25,United States,USA,Athletics,Marathon,2016,No Medal,180.0,52.0,Team D,Coach B,Participated,0
+1124,Aarav Brown,Female,36,France,FRA,Boxing,Heavyweight,2012,Bronze,168.0,66.0,Team B,Coach E,Participated,1
+1125,Liam Smith,Male,26,Japan,JPN,Athletics,Marathon,2012,No Medal,198.0,57.0,Team D,Coach C,Participated,0
+1126,Liam Lee,Female,18,India,IND,Cycling,Road Race,2016,No Medal,178.0,96.0,Team C,Coach D,Participated,0
+1127,Ananya Lee,Female,23,Japan,JPN,Athletics,200M,2020,Bronze,183.0,94.0,Team B,Coach B,Participated,1
+1128,Aarav Smith,Female,34,United Kingdom,GBR,Badminton,Singles,2012,No Medal,176.0,98.0,Team A,Coach D,Participated,0
+1129,Sara Garcia,Female,19,Australia,AUS,Shooting,10M Air Rifle,2012,Bronze,160.0,89.0,Team A,Coach C,Participated,1
+1130,Vihaan Brown,Male,21,France,FRA,Wrestling,Greco-Roman,2012,No Medal,196.0,71.0,Team B,Coach E,Participated,0
+1131,Chen Sharma,Female,18,United States,USA,Badminton,Singles,2016,No Medal,156.0,89.0,Team D,Coach A,Participated,0
+1132,Ishaan Singh,Male,33,China,CHN,Gymnastics,Floor,2016,Gold,187.0,77.0,Team B,Coach E,Participated,1
+1133,Aarav Khan,Female,31,China,CHN,Shooting,25M Pistol,2020,No Medal,188.0,98.0,Team D,Coach B,Participated,0
+1134,Noah Khan,Female,35,United Kingdom,GBR,Gymnastics,Vault,2012,No Medal,153.0,65.0,Team C,Coach A,Participated,0
+1135,Riya Wilson,Male,18,United States,USA,Hockey,Men,2012,No Medal,164.0,53.0,Team A,Coach E,Participated,0
+1136,Vihaan Kim,Female,21,Canada,CAN,Boxing,Heavyweight,2020,No Medal,166.0,52.0,Team B,Coach A,Participated,0
+1137,Arjun Singh,Female,36,Canada,CAN,Athletics,Marathon,2020,No Medal,184.0,54.0,Team B,Coach A,Participated,0
+1138,Sara Patel,Female,30,Brazil,BRA,Hockey,Women,2020,No Medal,162.0,80.0,Team A,Coach B,Participated,0
+1139,Sophia Kim,Female,30,Japan,JPN,Gymnastics,Floor,2020,No Medal,150.0,67.0,Team B,Coach C,Participated,0
+1140,David Garcia,Male,32,China,CHN,Athletics,100M,2016,No Medal,192.0,48.0,Team D,Coach C,Participated,0
+1141,Emma Wilson,Male,21,Japan,JPN,Gymnastics,Floor,2024,No Medal,197.0,99.0,Team A,Coach A,Participated,0
+1142,Sara Lee,Female,31,Brazil,BRA,Cycling,Road Race,2020,No Medal,200.0,62.0,Team C,Coach C,Participated,0
+1143,Sophia Garcia,Female,18,Canada,CAN,Gymnastics,Vault,2016,No Medal,200.0,92.0,Team D,Coach E,Participated,0
+1144,Noah Garcia,Male,37,United States,USA,Cycling,Road Race,2020,Gold,165.0,65.0,Team D,Coach C,Participated,1
+1145,Mia Wilson,Female,34,Canada,CAN,Hockey,Women,2012,No Medal,196.0,88.0,Team A,Coach E,Participated,0
+1146,Sophia Wilson,Female,36,France,FRA,Wrestling,Freestyle,2012,No Medal,159.0,57.0,Team B,Coach C,Participated,0
+1147,Yuki Lee,Female,21,United States,USA,Gymnastics,Vault,2016,No Medal,191.0,63.0,Team C,Coach E,Participated,0
+1148,Sara Kim,Male,21,France,FRA,Wrestling,Freestyle,2020,Bronze,172.0,81.0,Team A,Coach C,Participated,1
+1149,Aarav Patel,Male,23,United Kingdom,GBR,Cycling,Road Race,2016,Gold,181.0,94.0,Team D,Coach E,Participated,1
+1150,Yuki Smith,Male,18,China,CHN,Swimming,100M Freestyle,2012,No Medal,156.0,49.0,Team C,Coach B,Participated,0
+1151,Emma Smith,Female,36,Australia,AUS,Wrestling,Greco-Roman,2012,Silver,154.0,67.0,Team D,Coach A,Participated,1
+1152,Ananya Kim,Female,23,Japan,JPN,Tennis,Singles,2012,Bronze,170.0,45.0,Team B,Coach D,Participated,1
+1153,Ava Sharma,Female,25,France,FRA,Tennis,Singles,2020,No Medal,155.0,56.0,Team A,Coach C,Participated,0
+1154,Arjun Smith,Male,31,Germany,GER,Hockey,Women,2020,No Medal,172.0,80.0,Team A,Coach C,Participated,0
+1155,Emma Wilson,Male,22,China,CHN,Badminton,Singles,2024,Silver,185.0,73.0,Team D,Coach E,Participated,1
+1156,Kabir Singh,Female,22,Brazil,BRA,Wrestling,Greco-Roman,2016,No Medal,195.0,61.0,Team B,Coach A,Participated,0
+1157,Sophia Sharma,Male,36,Canada,CAN,Hockey,Men,2020,No Medal,176.0,64.0,Team B,Coach A,Participated,0
+1158,Riya Smith,Female,27,Canada,CAN,Swimming,200M Butterfly,2016,No Medal,155.0,59.0,Team C,Coach B,Participated,0
+1159,Aarav Singh,Male,25,Germany,GER,Athletics,200M,2012,No Medal,175.0,67.0,Team D,Coach A,Participated,0
+1160,Liam Lee,Male,30,France,FRA,Tennis,Singles,2024,Bronze,197.0,47.0,Team C,Coach D,Participated,1
+1161,Liam Sharma,Male,36,India,IND,Tennis,Doubles,2020,Silver,188.0,89.0,Team A,Coach D,Participated,1
+1162,Olivia Khan,Male,32,Australia,AUS,Cycling,Road Race,2016,No Medal,171.0,89.0,Team D,Coach E,Participated,0
+1163,Chen Brown,Male,23,Japan,JPN,Badminton,Doubles,2016,Gold,184.0,55.0,Team C,Coach C,Participated,1
+1164,Neha Lee,Female,33,Japan,JPN,Cycling,Road Race,2020,No Medal,192.0,75.0,Team B,Coach B,Participated,0
+1165,Ishaan Wilson,Female,31,Germany,GER,Tennis,Singles,2016,No Medal,198.0,55.0,Team A,Coach C,Participated,0
+1166,Vihaan Brown,Female,27,Brazil,BRA,Athletics,200M,2020,Bronze,162.0,52.0,Team C,Coach B,Participated,1
+1167,Ava Smith,Female,28,India,IND,Hockey,Men,2012,Gold,197.0,81.0,Team C,Coach A,Participated,1
+1168,Aarav Sharma,Male,30,Japan,JPN,Boxing,Heavyweight,2012,Gold,159.0,63.0,Team C,Coach E,Participated,1
+1169,Olivia Garcia,Male,25,China,CHN,Gymnastics,Vault,2012,No Medal,173.0,53.0,Team D,Coach A,Participated,0
+1170,Ananya Brown,Female,37,France,FRA,Wrestling,Greco-Roman,2012,No Medal,187.0,85.0,Team A,Coach D,Participated,0
+1171,Aarav Sharma,Female,37,Japan,JPN,Shooting,10M Air Rifle,2020,No Medal,200.0,77.0,Team A,Coach D,Participated,0
+1172,Ananya Khan,Female,27,China,CHN,Athletics,Marathon,2024,No Medal,150.0,73.0,Team D,Coach E,Participated,0
+1173,Vihaan Garcia,Male,37,United Kingdom,GBR,Badminton,Doubles,2020,No Medal,192.0,64.0,Team C,Coach E,Participated,0
+1174,Lucas Smith,Female,22,Japan,JPN,Athletics,100M,2024,No Medal,192.0,82.0,Team C,Coach A,Participated,0
+1175,Ishaan Patel,Female,26,Japan,JPN,Wrestling,Freestyle,2016,No Medal,191.0,51.0,Team A,Coach E,Participated,0
+1176,Lucas Lee,Male,34,France,FRA,Tennis,Singles,2024,No Medal,185.0,77.0,Team D,Coach E,Participated,0
+1177,Arjun Lee,Male,29,United Kingdom,GBR,Badminton,Singles,2024,Gold,199.0,84.0,Team C,Coach A,Participated,1
+1178,Riya Kim,Male,21,United States,USA,Badminton,Doubles,2020,No Medal,196.0,100.0,Team A,Coach B,Participated,0
+1179,David Garcia,Male,21,Brazil,BRA,Gymnastics,Vault,2020,Gold,172.0,80.0,Team C,Coach B,Participated,1
+1180,Aarav Singh,Female,21,United Kingdom,GBR,Shooting,10M Air Rifle,2016,No Medal,154.0,96.0,Team C,Coach E,Participated,0
+1181,Neha Singh,Female,34,India,IND,Boxing,Heavyweight,2024,Gold,180.0,100.0,Team B,Coach D,Participated,1
+1182,Olivia Garcia,Female,34,United Kingdom,GBR,Cycling,Road Race,2024,No Medal,163.0,64.0,Team C,Coach E,Participated,0
+1183,Noah Kim,Male,33,Germany,GER,Shooting,25M Pistol,2016,No Medal,176.0,59.0,Team C,Coach D,Participated,0
+1184,Olivia Kim,Male,36,Canada,CAN,Boxing,Lightweight,2016,No Medal,183.0,82.0,Team D,Coach E,Participated,0
+1185,Kabir Lee,Female,20,Australia,AUS,Swimming,200M Butterfly,2020,No Medal,169.0,93.0,Team A,Coach C,Participated,0
+1186,Kabir Patel,Female,29,Canada,CAN,Gymnastics,Vault,2020,No Medal,159.0,53.0,Team B,Coach E,Participated,0
+1187,Emma Kim,Female,35,Australia,AUS,Swimming,100M Freestyle,2020,No Medal,192.0,66.0,Team D,Coach C,Participated,0
+1188,Ananya Brown,Male,26,Brazil,BRA,Cycling,Road Race,2024,No Medal,184.0,46.0,Team D,Coach B,Participated,0
+1189,Riya Patel,Male,19,Canada,CAN,Tennis,Doubles,2012,No Medal,158.0,83.0,Team B,Coach C,Participated,0
+1190,Riya Garcia,Male,28,Germany,GER,Hockey,Men,2024,No Medal,197.0,46.0,Team A,Coach A,Participated,0
+1191,Sophia Brown,Female,32,Brazil,BRA,Tennis,Doubles,2016,No Medal,150.0,46.0,Team A,Coach A,Participated,0
+1192,Arjun Garcia,Female,29,China,CHN,Badminton,Singles,2016,No Medal,177.0,67.0,Team C,Coach D,Participated,0
+1193,Chen Singh,Female,35,Australia,AUS,Athletics,Marathon,2012,Gold,167.0,68.0,Team C,Coach B,Participated,1
+1194,David Lee,Female,21,United States,USA,Wrestling,Greco-Roman,2016,No Medal,153.0,79.0,Team B,Coach B,Participated,0
+1195,Kabir Singh,Male,33,Germany,GER,Hockey,Men,2012,No Medal,163.0,85.0,Team A,Coach A,Participated,0
+1196,Sophia Khan,Male,30,India,IND,Cycling,Track Sprint,2016,Bronze,192.0,85.0,Team C,Coach B,Participated,1
+1197,Ava Patel,Male,36,Australia,AUS,Gymnastics,Vault,2020,Bronze,200.0,55.0,Team C,Coach A,Participated,1
+1198,Kabir Lee,Male,28,Brazil,BRA,Gymnastics,Floor,2020,No Medal,193.0,84.0,Team A,Coach D,Participated,0
+1199,Liam Sharma,Male,21,China,CHN,Badminton,Doubles,2024,No Medal,159.0,45.0,Team D,Coach A,Participated,0
+1200,Vihaan Kim,Female,25,France,FRA,Cycling,Track Sprint,2012,No Medal,162.0,71.0,Team A,Coach A,Participated,0
+1201,Ava Lee,Male,34,United States,USA,Gymnastics,Floor,2020,Silver,177.0,45.0,Team D,Coach A,Participated,1
+1202,Emma Lee,Female,18,Japan,JPN,Gymnastics,Floor,2020,No Medal,166.0,62.0,Team A,Coach C,Participated,0
+1203,Chen Garcia,Male,31,Brazil,BRA,Athletics,Marathon,2024,No Medal,197.0,90.0,Team D,Coach D,Participated,0
+1204,Emma Kim,Male,30,Japan,JPN,Badminton,Singles,2024,No Medal,165.0,97.0,Team C,Coach D,Participated,0
+1205,Aarav Singh,Female,33,Brazil,BRA,Hockey,Women,2020,No Medal,182.0,66.0,Team A,Coach D,Participated,0
+1206,Noah Smith,Female,35,United Kingdom,GBR,Hockey,Women,2024,No Medal,192.0,59.0,Team B,Coach B,Participated,0
+1207,Ananya Garcia,Male,25,Canada,CAN,Swimming,200M Butterfly,2020,Bronze,193.0,56.0,Team D,Coach C,Participated,1
+1208,Emma Khan,Female,21,France,FRA,Cycling,Road Race,2024,Silver,173.0,67.0,Team C,Coach D,Participated,1
+1209,Ananya Wilson,Female,22,Brazil,BRA,Swimming,200M Butterfly,2024,No Medal,150.0,88.0,Team C,Coach A,Participated,0
+1210,Vihaan Kim,Female,23,India,IND,Hockey,Men,2012,No Medal,169.0,90.0,Team D,Coach A,Participated,0
+1211,Liam Kim,Female,29,France,FRA,Wrestling,Freestyle,2024,No Medal,152.0,90.0,Team C,Coach C,Participated,0
+1212,David Patel,Female,36,United Kingdom,GBR,Wrestling,Greco-Roman,2024,Silver,173.0,49.0,Team D,Coach D,Participated,1
+1213,Lucas Khan,Male,31,United Kingdom,GBR,Athletics,100M,2016,No Medal,180.0,56.0,Team B,Coach D,Participated,0
+1214,Sophia Singh,Male,21,Australia,AUS,Hockey,Men,2024,No Medal,155.0,59.0,Team A,Coach B,Participated,0
+1215,Mia Kim,Male,22,India,IND,Gymnastics,Vault,2016,No Medal,176.0,97.0,Team C,Coach E,Participated,0
+1216,Liam Wilson,Female,30,Germany,GER,Boxing,Lightweight,2020,No Medal,182.0,71.0,Team C,Coach B,Participated,0
+1217,Olivia Singh,Male,33,Japan,JPN,Badminton,Singles,2020,No Medal,195.0,82.0,Team A,Coach E,Participated,0
+1218,Vihaan Brown,Female,25,United Kingdom,GBR,Swimming,200M Butterfly,2024,No Medal,200.0,73.0,Team D,Coach B,Participated,0
+1219,Ishaan Sharma,Male,22,China,CHN,Wrestling,Freestyle,2024,No Medal,154.0,97.0,Team B,Coach C,Participated,0
+1220,Riya Wilson,Female,21,China,CHN,Wrestling,Freestyle,2024,No Medal,179.0,51.0,Team D,Coach B,Participated,0
+1221,Lucas Brown,Female,25,China,CHN,Athletics,Marathon,2016,Gold,187.0,96.0,Team B,Coach B,Participated,1
+1222,Liam Patel,Female,35,Germany,GER,Cycling,Road Race,2012,No Medal,194.0,50.0,Team A,Coach C,Participated,0
+1223,Liam Singh,Female,29,Canada,CAN,Swimming,100M Freestyle,2020,No Medal,151.0,93.0,Team A,Coach B,Participated,0
+1224,Kabir Kim,Female,27,Australia,AUS,Badminton,Doubles,2012,No Medal,152.0,82.0,Team B,Coach C,Participated,0
+1225,Olivia Lee,Male,21,Brazil,BRA,Gymnastics,Vault,2016,Bronze,200.0,98.0,Team D,Coach D,Participated,1
+1226,Ishaan Khan,Female,22,India,IND,Athletics,100M,2016,No Medal,176.0,81.0,Team A,Coach C,Participated,0
+1227,Emma Smith,Male,21,Brazil,BRA,Athletics,Marathon,2016,No Medal,165.0,52.0,Team A,Coach E,Participated,0
+1228,Chen Patel,Male,22,Japan,JPN,Boxing,Heavyweight,2024,Gold,165.0,91.0,Team B,Coach B,Participated,1
+1229,Aarav Khan,Male,30,China,CHN,Swimming,100M Freestyle,2016,No Medal,189.0,78.0,Team B,Coach E,Participated,0
+1230,Noah Smith,Female,19,Japan,JPN,Hockey,Men,2016,Gold,163.0,84.0,Team A,Coach C,Participated,1
+1231,Kabir Lee,Male,34,India,IND,Cycling,Track Sprint,2020,Silver,193.0,55.0,Team A,Coach A,Participated,1
+1232,Noah Smith,Male,37,Brazil,BRA,Shooting,10M Air Rifle,2020,No Medal,190.0,49.0,Team B,Coach D,Participated,0
+1233,Liam Sharma,Female,32,Australia,AUS,Shooting,10M Air Rifle,2012,No Medal,200.0,96.0,Team A,Coach C,Participated,0
+1234,Chen Patel,Female,33,Japan,JPN,Wrestling,Freestyle,2024,No Medal,186.0,88.0,Team D,Coach A,Participated,0
+1235,Mia Brown,Female,18,United Kingdom,GBR,Wrestling,Greco-Roman,2020,No Medal,169.0,76.0,Team D,Coach B,Participated,0
+1236,Lucas Kim,Male,19,United States,USA,Gymnastics,Floor,2012,No Medal,168.0,66.0,Team B,Coach A,Participated,0
+1237,Neha Garcia,Female,23,France,FRA,Cycling,Road Race,2020,Bronze,164.0,67.0,Team B,Coach B,Participated,1
+1238,Ishaan Patel,Female,32,India,IND,Cycling,Road Race,2016,No Medal,186.0,96.0,Team C,Coach D,Participated,0
+1239,Liam Garcia,Female,27,Brazil,BRA,Swimming,200M Butterfly,2024,Bronze,192.0,90.0,Team C,Coach A,Participated,1
+1240,Lucas Brown,Male,34,United States,USA,Athletics,Marathon,2020,No Medal,159.0,91.0,Team B,Coach B,Participated,0
+1241,Sara Brown,Female,25,France,FRA,Tennis,Singles,2024,Silver,168.0,94.0,Team C,Coach C,Participated,1
+1242,Vihaan Wilson,Male,29,United Kingdom,GBR,Gymnastics,Floor,2020,No Medal,158.0,57.0,Team A,Coach E,Participated,0
+1243,Ananya Brown,Female,27,Germany,GER,Boxing,Heavyweight,2024,No Medal,180.0,57.0,Team C,Coach D,Participated,0
+1244,David Singh,Female,34,United States,USA,Shooting,25M Pistol,2024,Bronze,176.0,85.0,Team A,Coach C,Participated,1
+1245,Liam Smith,Female,26,France,FRA,Cycling,Track Sprint,2020,No Medal,176.0,94.0,Team B,Coach A,Participated,0
+1246,Mia Smith,Female,27,United Kingdom,GBR,Hockey,Men,2024,No Medal,160.0,86.0,Team C,Coach D,Participated,0
+1247,Ananya Lee,Male,35,Germany,GER,Cycling,Track Sprint,2024,No Medal,197.0,78.0,Team A,Coach E,Participated,0
+1248,Sophia Patel,Male,36,Japan,JPN,Athletics,Marathon,2016,No Medal,196.0,62.0,Team A,Coach C,Participated,0
+1249,Neha Khan,Male,37,France,FRA,Athletics,Marathon,2016,No Medal,167.0,90.0,Team C,Coach A,Participated,0
+1250,Yuki Smith,Male,21,Germany,GER,Gymnastics,Floor,2024,Gold,176.0,58.0,Team A,Coach A,Participated,1
+1251,Liam Garcia,Male,28,United States,USA,Hockey,Women,2016,No Medal,183.0,81.0,Team B,Coach A,Participated,0
+1252,Emma Smith,Male,36,France,FRA,Hockey,Women,2020,No Medal,157.0,70.0,Team C,Coach C,Participated,0
+1253,Lucas Kim,Male,32,United Kingdom,GBR,Swimming,200M Butterfly,2012,Silver,162.0,66.0,Team D,Coach B,Participated,1
+1254,Liam Sharma,Female,37,Japan,JPN,Wrestling,Greco-Roman,2020,No Medal,196.0,46.0,Team B,Coach E,Participated,0
+1255,Ananya Garcia,Female,31,Australia,AUS,Gymnastics,Vault,2024,Silver,151.0,96.0,Team D,Coach A,Participated,1
+1256,Neha Smith,Male,34,Brazil,BRA,Gymnastics,Vault,2020,No Medal,186.0,61.0,Team D,Coach D,Participated,0
+1257,Ishaan Patel,Male,36,China,CHN,Badminton,Doubles,2016,Silver,176.0,69.0,Team A,Coach C,Participated,1
+1258,Riya Sharma,Male,25,Brazil,BRA,Gymnastics,Vault,2024,No Medal,163.0,67.0,Team D,Coach E,Participated,0
+1259,Vihaan Singh,Female,23,United States,USA,Tennis,Doubles,2016,No Medal,175.0,86.0,Team A,Coach D,Participated,0
+1260,Kabir Sharma,Male,30,United States,USA,Tennis,Doubles,2012,No Medal,186.0,95.0,Team B,Coach A,Participated,0
+1261,Kabir Sharma,Male,35,India,IND,Athletics,200M,2012,Gold,190.0,81.0,Team B,Coach B,Participated,1
+1262,Ishaan Wilson,Male,30,United Kingdom,GBR,Hockey,Men,2012,No Medal,150.0,49.0,Team C,Coach D,Participated,0
+1263,Aarav Lee,Male,34,Canada,CAN,Cycling,Road Race,2012,No Medal,179.0,58.0,Team C,Coach A,Participated,0
+1264,Emma Brown,Male,27,United States,USA,Swimming,100M Freestyle,2012,Silver,198.0,63.0,Team A,Coach A,Participated,1
+1265,Mia Kim,Male,36,Canada,CAN,Swimming,100M Freestyle,2012,No Medal,191.0,58.0,Team B,Coach D,Participated,0
+1266,Lucas Brown,Female,22,United Kingdom,GBR,Athletics,100M,2016,No Medal,166.0,95.0,Team D,Coach E,Participated,0
+1267,Chen Sharma,Male,28,Japan,JPN,Gymnastics,Vault,2020,Gold,164.0,79.0,Team A,Coach E,Participated,1
+1268,Noah Khan,Male,28,India,IND,Badminton,Singles,2024,No Medal,173.0,49.0,Team A,Coach B,Participated,0
+1269,Mia Smith,Female,23,India,IND,Wrestling,Greco-Roman,2016,No Medal,189.0,73.0,Team C,Coach C,Participated,0
+1270,David Kim,Male,22,Japan,JPN,Athletics,100M,2012,No Medal,191.0,49.0,Team A,Coach C,Participated,0
+1271,Ava Wilson,Male,26,Canada,CAN,Swimming,100M Freestyle,2024,Silver,199.0,73.0,Team A,Coach D,Participated,1
+1272,Kabir Smith,Male,24,Japan,JPN,Gymnastics,Vault,2016,Gold,172.0,87.0,Team C,Coach C,Participated,1
+1273,Vihaan Khan,Male,26,China,CHN,Badminton,Singles,2020,Gold,191.0,50.0,Team C,Coach E,Participated,1
+1274,Emma Garcia,Female,29,Germany,GER,Badminton,Singles,2012,No Medal,160.0,78.0,Team B,Coach B,Participated,0
+1275,Ava Brown,Female,18,Germany,GER,Wrestling,Greco-Roman,2024,Bronze,153.0,51.0,Team A,Coach A,Participated,1
+1276,Ava Singh,Female,23,United States,USA,Shooting,25M Pistol,2016,No Medal,164.0,72.0,Team C,Coach E,Participated,0
+1277,Riya Kim,Female,37,Canada,CAN,Athletics,100M,2016,Bronze,174.0,52.0,Team A,Coach A,Participated,1
+1278,Lucas Lee,Male,20,Brazil,BRA,Shooting,25M Pistol,2024,No Medal,178.0,85.0,Team D,Coach C,Participated,0
+1279,Ava Sharma,Female,35,Canada,CAN,Badminton,Singles,2020,No Medal,191.0,59.0,Team A,Coach C,Participated,0
+1280,Arjun Singh,Male,24,India,IND,Badminton,Singles,2012,No Medal,152.0,63.0,Team D,Coach A,Participated,0
+1281,Kabir Smith,Male,33,Germany,GER,Badminton,Singles,2016,No Medal,173.0,77.0,Team D,Coach B,Participated,0
+1282,Noah Sharma,Male,31,Australia,AUS,Boxing,Heavyweight,2012,Bronze,161.0,66.0,Team B,Coach E,Participated,1
+1283,Sophia Lee,Male,26,Brazil,BRA,Boxing,Heavyweight,2020,No Medal,165.0,80.0,Team A,Coach B,Participated,0
+1284,Lucas Khan,Female,26,China,CHN,Wrestling,Greco-Roman,2012,Silver,186.0,87.0,Team A,Coach D,Participated,1
+1285,Ananya Lee,Male,31,Australia,AUS,Swimming,100M Freestyle,2024,Gold,154.0,78.0,Team B,Coach D,Participated,1
+1286,Riya Khan,Male,20,Canada,CAN,Hockey,Women,2024,No Medal,187.0,61.0,Team C,Coach E,Participated,0
+1287,Ava Patel,Male,28,India,IND,Boxing,Lightweight,2024,No Medal,150.0,73.0,Team C,Coach B,Participated,0
+1288,Sophia Lee,Male,25,Japan,JPN,Cycling,Road Race,2016,No Medal,173.0,92.0,Team C,Coach A,Participated,0
+1289,David Khan,Female,20,China,CHN,Athletics,Marathon,2020,No Medal,180.0,82.0,Team B,Coach D,Participated,0
+1290,Ishaan Brown,Female,35,China,CHN,Athletics,Marathon,2020,No Medal,191.0,58.0,Team B,Coach A,Participated,0
+1291,Aarav Kim,Male,35,United Kingdom,GBR,Tennis,Doubles,2016,Gold,176.0,71.0,Team A,Coach B,Participated,1
+1292,Kabir Sharma,Female,18,Australia,AUS,Wrestling,Freestyle,2020,No Medal,157.0,50.0,Team C,Coach D,Participated,0
+1293,Arjun Brown,Female,23,Germany,GER,Shooting,25M Pistol,2020,Gold,166.0,50.0,Team D,Coach B,Participated,1
+1294,Mia Khan,Male,27,China,CHN,Wrestling,Freestyle,2016,No Medal,195.0,46.0,Team D,Coach D,Participated,0
+1295,Neha Sharma,Female,24,Brazil,BRA,Wrestling,Freestyle,2020,No Medal,187.0,58.0,Team A,Coach A,Participated,0
+1296,Riya Singh,Male,37,Japan,JPN,Wrestling,Freestyle,2012,No Medal,162.0,56.0,Team B,Coach D,Participated,0
+1297,Liam Sharma,Male,37,France,FRA,Gymnastics,Vault,2024,No Medal,170.0,50.0,Team A,Coach B,Participated,0
+1298,Olivia Singh,Male,34,Canada,CAN,Gymnastics,Floor,2020,No Medal,169.0,94.0,Team B,Coach D,Participated,0
+1299,Olivia Wilson,Female,32,France,FRA,Gymnastics,Vault,2016,No Medal,199.0,91.0,Team A,Coach E,Participated,0
+1300,Vihaan Brown,Male,20,Brazil,BRA,Badminton,Singles,2012,No Medal,198.0,87.0,Team A,Coach C,Participated,0
+1301,Chen Kim,Male,31,United States,USA,Badminton,Singles,2016,No Medal,160.0,60.0,Team D,Coach E,Participated,0
+1302,Sophia Singh,Male,25,Australia,AUS,Swimming,100M Freestyle,2016,No Medal,161.0,83.0,Team D,Coach A,Participated,0
+1303,Yuki Singh,Female,22,Japan,JPN,Hockey,Women,2012,Gold,189.0,65.0,Team A,Coach B,Participated,1
+1304,Emma Kim,Female,19,India,IND,Tennis,Doubles,2020,No Medal,152.0,65.0,Team C,Coach D,Participated,0
+1305,Aarav Khan,Male,36,United States,USA,Cycling,Track Sprint,2016,No Medal,198.0,60.0,Team C,Coach C,Participated,0
+1306,Liam Lee,Female,25,France,FRA,Hockey,Women,2016,No Medal,184.0,90.0,Team A,Coach E,Participated,0
+1307,Riya Garcia,Male,29,Brazil,BRA,Shooting,25M Pistol,2020,No Medal,165.0,49.0,Team A,Coach E,Participated,0
+1308,Lucas Khan,Female,27,India,IND,Swimming,200M Butterfly,2020,Bronze,180.0,69.0,Team C,Coach E,Participated,1
+1309,Aarav Patel,Male,24,Brazil,BRA,Swimming,100M Freestyle,2024,No Medal,163.0,68.0,Team D,Coach A,Participated,0
+1310,Liam Wilson,Female,29,United States,USA,Badminton,Doubles,2016,Bronze,156.0,59.0,Team D,Coach A,Participated,1
+1311,Noah Wilson,Female,23,Germany,GER,Cycling,Road Race,2016,No Medal,181.0,71.0,Team B,Coach A,Participated,0
+1312,Vihaan Patel,Female,34,United Kingdom,GBR,Hockey,Men,2016,No Medal,151.0,77.0,Team B,Coach B,Participated,0
+1313,David Brown,Male,37,India,IND,Badminton,Doubles,2020,No Medal,167.0,59.0,Team B,Coach B,Participated,0
+1314,Ananya Patel,Male,37,Japan,JPN,Hockey,Women,2020,No Medal,161.0,100.0,Team D,Coach E,Participated,0
+1315,Arjun Smith,Female,35,India,IND,Athletics,200M,2024,No Medal,193.0,71.0,Team B,Coach B,Participated,0
+1316,Mia Brown,Female,27,France,FRA,Wrestling,Freestyle,2016,No Medal,160.0,85.0,Team D,Coach D,Participated,0
+1317,Ava Wilson,Female,24,Brazil,BRA,Shooting,25M Pistol,2012,No Medal,180.0,82.0,Team D,Coach A,Participated,0
+1318,Sophia Lee,Female,32,Germany,GER,Gymnastics,Vault,2024,No Medal,176.0,80.0,Team C,Coach B,Participated,0
+1319,Sophia Garcia,Male,36,China,CHN,Hockey,Men,2020,No Medal,186.0,88.0,Team A,Coach B,Participated,0
+1320,Lucas Singh,Female,26,Germany,GER,Athletics,Marathon,2012,No Medal,173.0,78.0,Team C,Coach C,Participated,0
+1321,Sophia Smith,Female,29,India,IND,Cycling,Track Sprint,2012,No Medal,176.0,79.0,Team A,Coach B,Participated,0
+1322,Kabir Patel,Male,19,China,CHN,Wrestling,Freestyle,2012,Silver,177.0,61.0,Team B,Coach D,Participated,1
+1323,Sophia Khan,Male,20,Brazil,BRA,Wrestling,Freestyle,2012,No Medal,190.0,100.0,Team B,Coach A,Participated,0
+1324,Ananya Smith,Female,32,Germany,GER,Athletics,100M,2012,No Medal,160.0,51.0,Team D,Coach C,Participated,0
+1325,Ava Sharma,Female,23,Australia,AUS,Cycling,Track Sprint,2012,No Medal,160.0,56.0,Team D,Coach E,Participated,0
+1326,Aarav Kim,Male,28,Brazil,BRA,Tennis,Singles,2024,No Medal,192.0,70.0,Team B,Coach D,Participated,0
+1327,Yuki Sharma,Female,29,Canada,CAN,Badminton,Singles,2016,No Medal,176.0,90.0,Team C,Coach D,Participated,0
+1328,David Sharma,Male,36,Japan,JPN,Wrestling,Greco-Roman,2024,No Medal,194.0,65.0,Team C,Coach A,Participated,0
+1329,Arjun Kim,Male,31,China,CHN,Shooting,10M Air Rifle,2012,No Medal,168.0,82.0,Team D,Coach C,Participated,0
+1330,Emma Smith,Female,32,Brazil,BRA,Swimming,200M Butterfly,2020,No Medal,191.0,68.0,Team C,Coach B,Participated,0
+1331,Emma Singh,Male,28,United Kingdom,GBR,Hockey,Women,2020,No Medal,175.0,88.0,Team A,Coach E,Participated,0
+1332,Sophia Patel,Male,26,Germany,GER,Hockey,Men,2016,No Medal,182.0,71.0,Team D,Coach E,Participated,0
+1333,David Lee,Male,22,Australia,AUS,Shooting,10M Air Rifle,2016,No Medal,191.0,97.0,Team B,Coach D,Participated,0
+1334,Kabir Lee,Male,37,Australia,AUS,Wrestling,Greco-Roman,2012,No Medal,169.0,94.0,Team D,Coach D,Participated,0
+1335,Lucas Singh,Male,34,France,FRA,Gymnastics,Floor,2016,Bronze,162.0,61.0,Team D,Coach D,Participated,1
+1336,Chen Singh,Male,36,United Kingdom,GBR,Shooting,25M Pistol,2024,No Medal,171.0,55.0,Team C,Coach C,Participated,0
+1337,Noah Patel,Female,32,Germany,GER,Cycling,Road Race,2024,No Medal,157.0,63.0,Team B,Coach E,Participated,0
+1338,Liam Brown,Male,25,Japan,JPN,Badminton,Doubles,2016,No Medal,195.0,71.0,Team A,Coach C,Participated,0
+1339,Aarav Brown,Female,19,United Kingdom,GBR,Swimming,100M Freestyle,2020,Gold,177.0,50.0,Team B,Coach A,Participated,1
+1340,Kabir Smith,Female,24,China,CHN,Tennis,Singles,2024,No Medal,157.0,62.0,Team A,Coach A,Participated,0
+1341,Emma Wilson,Female,22,United States,USA,Tennis,Doubles,2024,No Medal,177.0,71.0,Team B,Coach C,Participated,0
+1342,Olivia Brown,Male,35,Germany,GER,Gymnastics,Floor,2020,No Medal,159.0,55.0,Team A,Coach E,Participated,0
+1343,Aarav Sharma,Male,25,Brazil,BRA,Shooting,25M Pistol,2012,No Medal,177.0,53.0,Team D,Coach E,Participated,0
+1344,Vihaan Patel,Female,19,Germany,GER,Cycling,Track Sprint,2012,No Medal,178.0,77.0,Team C,Coach A,Participated,0
+1345,Arjun Wilson,Female,32,France,FRA,Gymnastics,Floor,2016,No Medal,165.0,88.0,Team A,Coach D,Participated,0
+1346,Vihaan Garcia,Male,19,India,IND,Swimming,100M Freestyle,2024,Bronze,156.0,78.0,Team C,Coach D,Participated,1
+1347,Kabir Khan,Female,21,Brazil,BRA,Swimming,100M Freestyle,2020,Gold,162.0,71.0,Team B,Coach A,Participated,1
+1348,Arjun Smith,Female,19,France,FRA,Cycling,Track Sprint,2020,Gold,184.0,57.0,Team B,Coach A,Participated,1
+1349,Sara Singh,Male,22,Australia,AUS,Shooting,25M Pistol,2012,Gold,159.0,49.0,Team A,Coach C,Participated,1
+1350,Emma Garcia,Female,23,Japan,JPN,Wrestling,Freestyle,2016,No Medal,194.0,98.0,Team A,Coach B,Participated,0
+1351,Neha Brown,Female,21,Japan,JPN,Swimming,200M Butterfly,2012,No Medal,157.0,96.0,Team C,Coach E,Participated,0
+1352,Liam Wilson,Male,24,United Kingdom,GBR,Gymnastics,Vault,2020,No Medal,180.0,91.0,Team B,Coach E,Participated,0
+1353,Ananya Sharma,Female,35,France,FRA,Athletics,200M,2016,No Medal,168.0,62.0,Team D,Coach E,Participated,0
+1354,Vihaan Brown,Female,33,France,FRA,Boxing,Heavyweight,2020,No Medal,170.0,91.0,Team A,Coach C,Participated,0
+1355,Emma Garcia,Female,18,France,FRA,Wrestling,Freestyle,2016,No Medal,167.0,80.0,Team C,Coach C,Participated,0
+1356,Olivia Patel,Female,26,China,CHN,Shooting,10M Air Rifle,2020,No Medal,181.0,47.0,Team D,Coach B,Participated,0
+1357,Olivia Brown,Female,19,China,CHN,Gymnastics,Floor,2016,No Medal,193.0,99.0,Team B,Coach C,Participated,0
+1358,Lucas Wilson,Female,30,United States,USA,Hockey,Men,2012,No Medal,188.0,61.0,Team C,Coach C,Participated,0
+1359,Riya Sharma,Male,36,United Kingdom,GBR,Badminton,Singles,2016,No Medal,193.0,81.0,Team D,Coach E,Participated,0
+1360,Noah Wilson,Female,37,United States,USA,Tennis,Doubles,2012,Gold,155.0,77.0,Team B,Coach A,Participated,1
+1361,Mia Patel,Female,28,Japan,JPN,Gymnastics,Vault,2024,No Medal,187.0,60.0,Team D,Coach D,Participated,0
+1362,David Kim,Male,23,France,FRA,Athletics,100M,2020,No Medal,199.0,83.0,Team D,Coach A,Participated,0
+1363,Arjun Smith,Female,20,Japan,JPN,Boxing,Heavyweight,2020,No Medal,176.0,68.0,Team B,Coach A,Participated,0
+1364,Chen Patel,Male,25,United States,USA,Hockey,Women,2020,No Medal,174.0,67.0,Team A,Coach C,Participated,0
+1365,Ishaan Garcia,Male,23,China,CHN,Hockey,Women,2024,No Medal,176.0,46.0,Team C,Coach D,Participated,0
+1366,Lucas Lee,Male,29,China,CHN,Boxing,Lightweight,2024,No Medal,176.0,48.0,Team D,Coach B,Participated,0
+1367,Ananya Brown,Male,34,United States,USA,Hockey,Men,2024,No Medal,158.0,89.0,Team A,Coach B,Participated,0
+1368,Chen Kim,Female,36,Australia,AUS,Boxing,Heavyweight,2024,No Medal,164.0,87.0,Team D,Coach E,Participated,0
+1369,David Sharma,Male,36,United States,USA,Badminton,Singles,2012,Silver,194.0,77.0,Team B,Coach D,Participated,1
+1370,Ananya Patel,Male,28,Canada,CAN,Swimming,200M Butterfly,2012,Bronze,190.0,66.0,Team A,Coach B,Participated,1
+1371,Arjun Patel,Female,32,Australia,AUS,Boxing,Heavyweight,2016,No Medal,188.0,95.0,Team C,Coach A,Participated,0
+1372,Neha Khan,Female,35,United Kingdom,GBR,Hockey,Women,2020,No Medal,179.0,69.0,Team B,Coach B,Participated,0
+1373,Riya Singh,Female,29,India,IND,Boxing,Heavyweight,2024,Bronze,179.0,77.0,Team B,Coach B,Participated,1
+1374,Neha Khan,Male,23,France,FRA,Gymnastics,Vault,2020,Silver,180.0,77.0,Team C,Coach C,Participated,1
+1375,Sara Patel,Male,28,Australia,AUS,Swimming,200M Butterfly,2016,No Medal,176.0,96.0,Team C,Coach A,Participated,0
+1376,Mia Patel,Female,21,France,FRA,Cycling,Track Sprint,2024,No Medal,159.0,71.0,Team C,Coach B,Participated,0
+1377,Ananya Singh,Male,36,United Kingdom,GBR,Swimming,100M Freestyle,2024,Gold,184.0,57.0,Team A,Coach E,Participated,1
+1378,Liam Kim,Male,25,Japan,JPN,Swimming,200M Butterfly,2020,No Medal,186.0,56.0,Team B,Coach C,Participated,0
+1379,Vihaan Patel,Male,25,India,IND,Hockey,Men,2020,No Medal,163.0,50.0,Team D,Coach B,Participated,0
+1380,Kabir Sharma,Male,21,France,FRA,Gymnastics,Floor,2020,Silver,171.0,92.0,Team A,Coach C,Participated,1
+1381,Liam Khan,Female,20,Canada,CAN,Cycling,Track Sprint,2020,No Medal,189.0,96.0,Team B,Coach D,Participated,0
+1382,Lucas Kim,Male,25,India,IND,Cycling,Road Race,2012,No Medal,185.0,77.0,Team C,Coach D,Participated,0
+1383,Liam Khan,Female,24,Brazil,BRA,Badminton,Singles,2016,No Medal,159.0,71.0,Team C,Coach A,Participated,0
+1384,Liam Brown,Female,35,United States,USA,Badminton,Singles,2012,Bronze,194.0,96.0,Team C,Coach B,Participated,1
+1385,Ishaan Smith,Female,34,Canada,CAN,Tennis,Doubles,2016,No Medal,179.0,64.0,Team C,Coach D,Participated,0
+1386,Emma Smith,Female,36,Canada,CAN,Cycling,Track Sprint,2020,No Medal,152.0,86.0,Team B,Coach E,Participated,0
+1387,Emma Patel,Female,21,France,FRA,Hockey,Men,2024,Silver,185.0,46.0,Team A,Coach A,Participated,1
+1388,Aarav Khan,Male,29,Australia,AUS,Swimming,200M Butterfly,2012,No Medal,158.0,71.0,Team B,Coach E,Participated,0
+1389,Mia Singh,Female,26,China,CHN,Hockey,Men,2020,Bronze,187.0,60.0,Team A,Coach A,Participated,1
+1390,Riya Kim,Female,26,United States,USA,Swimming,200M Butterfly,2020,No Medal,193.0,76.0,Team C,Coach E,Participated,0
+1391,Kabir Garcia,Female,21,Canada,CAN,Swimming,100M Freestyle,2016,No Medal,170.0,77.0,Team D,Coach D,Participated,0
+1392,Neha Wilson,Male,18,China,CHN,Boxing,Lightweight,2024,No Medal,155.0,61.0,Team D,Coach B,Participated,0
+1393,Yuki Khan,Female,19,United States,USA,Swimming,200M Butterfly,2024,Bronze,162.0,70.0,Team D,Coach E,Participated,1
+1394,Yuki Garcia,Male,35,France,FRA,Cycling,Road Race,2020,No Medal,179.0,47.0,Team C,Coach D,Participated,0
+1395,Ananya Wilson,Male,23,Australia,AUS,Shooting,25M Pistol,2016,No Medal,160.0,50.0,Team B,Coach E,Participated,0
+1396,Emma Patel,Male,30,Australia,AUS,Wrestling,Greco-Roman,2012,No Medal,150.0,72.0,Team B,Coach D,Participated,0
+1397,Lucas Khan,Male,36,India,IND,Boxing,Lightweight,2012,No Medal,192.0,77.0,Team A,Coach E,Participated,0
+1398,Chen Singh,Female,26,France,FRA,Shooting,10M Air Rifle,2024,Silver,172.0,70.0,Team B,Coach C,Participated,1
+1399,Olivia Wilson,Female,21,India,IND,Tennis,Doubles,2024,No Medal,152.0,66.0,Team D,Coach D,Participated,0
+1400,Ishaan Kim,Male,23,United Kingdom,GBR,Shooting,25M Pistol,2024,No Medal,157.0,60.0,Team C,Coach B,Participated,0
+1401,Ananya Sharma,Male,23,Brazil,BRA,Gymnastics,Vault,2024,No Medal,178.0,49.0,Team B,Coach B,Participated,0
+1402,Liam Singh,Female,31,France,FRA,Athletics,Marathon,2016,Bronze,175.0,48.0,Team B,Coach C,Participated,1
+1403,Mia Singh,Female,33,United States,USA,Athletics,100M,2024,No Medal,173.0,98.0,Team A,Coach D,Participated,0
+1404,Sophia Smith,Female,33,United States,USA,Hockey,Women,2012,No Medal,196.0,72.0,Team D,Coach E,Participated,0
+1405,Kabir Garcia,Female,36,Brazil,BRA,Boxing,Lightweight,2016,No Medal,179.0,69.0,Team D,Coach E,Participated,0
+1406,Sara Lee,Male,37,Brazil,BRA,Athletics,200M,2016,No Medal,196.0,75.0,Team C,Coach A,Participated,0
+1407,Kabir Khan,Male,25,China,CHN,Wrestling,Freestyle,2012,No Medal,197.0,90.0,Team B,Coach D,Participated,0
+1408,Lucas Lee,Male,35,Germany,GER,Hockey,Women,2016,Silver,199.0,71.0,Team A,Coach D,Participated,1
+1409,Neha Khan,Male,22,Germany,GER,Hockey,Men,2024,No Medal,169.0,79.0,Team A,Coach B,Participated,0
+1410,Vihaan Brown,Female,21,Japan,JPN,Badminton,Doubles,2016,No Medal,199.0,56.0,Team B,Coach C,Participated,0
+1411,Emma Kim,Male,35,United Kingdom,GBR,Cycling,Road Race,2012,No Medal,161.0,53.0,Team B,Coach C,Participated,0
+1412,Liam Singh,Male,35,Germany,GER,Athletics,200M,2012,Silver,160.0,73.0,Team A,Coach D,Participated,1
+1413,Vihaan Khan,Female,32,Japan,JPN,Swimming,100M Freestyle,2024,No Medal,157.0,46.0,Team C,Coach B,Participated,0
+1414,Liam Smith,Female,24,Australia,AUS,Cycling,Road Race,2024,No Medal,177.0,65.0,Team A,Coach A,Participated,0
+1415,Mia Brown,Female,33,United Kingdom,GBR,Shooting,10M Air Rifle,2016,No Medal,166.0,70.0,Team A,Coach D,Participated,0
+1416,Chen Smith,Female,30,France,FRA,Cycling,Track Sprint,2020,No Medal,192.0,54.0,Team D,Coach E,Participated,0
+1417,Yuki Sharma,Male,31,China,CHN,Tennis,Singles,2024,No Medal,176.0,96.0,Team A,Coach D,Participated,0
+1418,Kabir Brown,Female,30,United States,USA,Cycling,Road Race,2020,Silver,162.0,71.0,Team D,Coach A,Participated,1
+1419,Sara Singh,Female,31,Australia,AUS,Wrestling,Freestyle,2020,No Medal,192.0,67.0,Team C,Coach D,Participated,0
+1420,Ava Kim,Male,34,Brazil,BRA,Gymnastics,Vault,2016,Gold,163.0,87.0,Team D,Coach C,Participated,1
+1421,Arjun Lee,Male,24,Canada,CAN,Shooting,25M Pistol,2016,Gold,194.0,50.0,Team C,Coach D,Participated,1
+1422,Noah Sharma,Male,30,India,IND,Wrestling,Freestyle,2016,Gold,190.0,91.0,Team D,Coach C,Participated,1
+1423,Liam Garcia,Female,26,Canada,CAN,Badminton,Doubles,2012,Gold,184.0,60.0,Team A,Coach D,Participated,1
+1424,Sara Patel,Female,27,Australia,AUS,Cycling,Track Sprint,2012,No Medal,163.0,91.0,Team A,Coach E,Participated,0
+1425,Noah Singh,Female,24,Canada,CAN,Athletics,Marathon,2016,No Medal,177.0,95.0,Team C,Coach D,Participated,0
+1426,Neha Singh,Male,37,Australia,AUS,Athletics,Marathon,2020,Bronze,192.0,99.0,Team D,Coach C,Participated,1
+1427,Riya Kim,Male,22,Australia,AUS,Athletics,100M,2020,No Medal,161.0,71.0,Team C,Coach E,Participated,0
+1428,Liam Wilson,Female,28,Brazil,BRA,Cycling,Track Sprint,2016,No Medal,166.0,87.0,Team D,Coach C,Participated,0
+1429,Yuki Brown,Female,22,Australia,AUS,Gymnastics,Floor,2012,Bronze,163.0,68.0,Team D,Coach D,Participated,1
+1430,Vihaan Garcia,Male,31,Canada,CAN,Boxing,Heavyweight,2020,No Medal,189.0,95.0,Team A,Coach B,Participated,0
+1431,Yuki Patel,Male,22,India,IND,Wrestling,Freestyle,2016,Bronze,184.0,88.0,Team D,Coach E,Participated,1
+1432,Vihaan Smith,Male,26,India,IND,Shooting,10M Air Rifle,2016,No Medal,172.0,52.0,Team D,Coach B,Participated,0
+1433,Ava Smith,Female,33,United Kingdom,GBR,Boxing,Lightweight,2016,No Medal,171.0,95.0,Team B,Coach E,Participated,0
+1434,Kabir Kim,Male,21,Brazil,BRA,Hockey,Men,2024,No Medal,171.0,54.0,Team A,Coach E,Participated,0
+1435,Lucas Singh,Male,26,France,FRA,Athletics,200M,2020,No Medal,171.0,64.0,Team D,Coach B,Participated,0
+1436,Vihaan Kim,Female,22,Canada,CAN,Swimming,100M Freestyle,2012,No Medal,151.0,78.0,Team D,Coach E,Participated,0
+1437,Riya Patel,Female,25,Australia,AUS,Boxing,Lightweight,2020,Silver,159.0,46.0,Team A,Coach D,Participated,1
+1438,Ishaan Singh,Male,36,Canada,CAN,Cycling,Road Race,2024,No Medal,196.0,100.0,Team B,Coach E,Participated,0
+1439,Ishaan Singh,Male,29,Australia,AUS,Cycling,Track Sprint,2016,Silver,186.0,51.0,Team A,Coach A,Participated,1
+1440,Vihaan Khan,Male,23,Germany,GER,Gymnastics,Floor,2024,Bronze,152.0,50.0,Team C,Coach B,Participated,1
+1441,Olivia Wilson,Female,24,Brazil,BRA,Badminton,Doubles,2016,Silver,171.0,52.0,Team A,Coach C,Participated,1
+1442,Mia Kim,Female,19,Brazil,BRA,Tennis,Singles,2024,No Medal,158.0,66.0,Team B,Coach D,Participated,0
+1443,Arjun Singh,Male,18,Australia,AUS,Boxing,Heavyweight,2016,No Medal,170.0,91.0,Team A,Coach B,Participated,0
+1444,Noah Sharma,Female,25,Australia,AUS,Athletics,Marathon,2024,No Medal,192.0,60.0,Team A,Coach B,Participated,0
+1445,Lucas Lee,Male,19,United States,USA,Badminton,Doubles,2012,No Medal,177.0,91.0,Team A,Coach D,Participated,0
+1446,Ishaan Kim,Male,25,Canada,CAN,Cycling,Road Race,2020,No Medal,178.0,66.0,Team A,Coach C,Participated,0
+1447,David Lee,Female,34,United States,USA,Tennis,Singles,2016,Bronze,171.0,98.0,Team C,Coach C,Participated,1
+1448,Neha Brown,Male,26,Brazil,BRA,Tennis,Doubles,2020,No Medal,194.0,73.0,Team B,Coach D,Participated,0
+1449,Neha Garcia,Male,19,Brazil,BRA,Boxing,Heavyweight,2024,No Medal,177.0,97.0,Team C,Coach B,Participated,0
+1450,David Patel,Female,22,Brazil,BRA,Badminton,Doubles,2016,Gold,161.0,86.0,Team A,Coach C,Participated,1
+1451,Chen Singh,Male,28,United States,USA,Swimming,100M Freestyle,2012,No Medal,188.0,60.0,Team A,Coach A,Participated,0
+1452,Sara Khan,Female,24,Canada,CAN,Badminton,Doubles,2020,Gold,165.0,76.0,Team A,Coach D,Participated,1
+1453,David Garcia,Female,27,United States,USA,Gymnastics,Vault,2020,No Medal,167.0,62.0,Team B,Coach D,Participated,0
+1454,Yuki Wilson,Female,27,Japan,JPN,Gymnastics,Vault,2016,No Medal,161.0,81.0,Team D,Coach E,Participated,0
+1455,Arjun Sharma,Male,28,India,IND,Shooting,10M Air Rifle,2016,No Medal,159.0,46.0,Team D,Coach B,Participated,0
+1456,Lucas Lee,Female,32,Germany,GER,Hockey,Women,2020,Silver,175.0,56.0,Team A,Coach E,Participated,1
+1457,Chen Wilson,Female,36,United States,USA,Gymnastics,Vault,2012,No Medal,157.0,81.0,Team A,Coach A,Participated,0
+1458,Neha Brown,Male,21,Australia,AUS,Badminton,Doubles,2020,No Medal,173.0,67.0,Team C,Coach C,Participated,0
+1459,Olivia Wilson,Male,30,Germany,GER,Hockey,Men,2012,No Medal,193.0,100.0,Team C,Coach A,Participated,0
+1460,Yuki Brown,Male,35,India,IND,Wrestling,Greco-Roman,2016,Gold,184.0,56.0,Team D,Coach E,Participated,1
+1461,Kabir Lee,Female,30,India,IND,Athletics,100M,2024,Bronze,184.0,94.0,Team C,Coach A,Participated,1
+1462,Ava Sharma,Female,29,Australia,AUS,Wrestling,Greco-Roman,2012,No Medal,177.0,53.0,Team D,Coach E,Participated,0
+1463,Sophia Garcia,Female,36,India,IND,Hockey,Men,2020,No Medal,151.0,86.0,Team B,Coach C,Participated,0
+1464,Chen Singh,Male,36,Brazil,BRA,Shooting,10M Air Rifle,2024,No Medal,169.0,78.0,Team A,Coach D,Participated,0
+1465,Riya Patel,Female,25,China,CHN,Swimming,200M Butterfly,2020,Gold,165.0,59.0,Team D,Coach E,Participated,1
+1466,Liam Khan,Male,19,Brazil,BRA,Boxing,Lightweight,2024,No Medal,156.0,74.0,Team B,Coach B,Participated,0
+1467,Ishaan Garcia,Female,18,United Kingdom,GBR,Boxing,Heavyweight,2020,No Medal,187.0,67.0,Team C,Coach C,Participated,0
+1468,Arjun Singh,Female,35,India,IND,Badminton,Singles,2020,No Medal,196.0,65.0,Team C,Coach C,Participated,0
+1469,Emma Wilson,Male,29,United States,USA,Hockey,Men,2020,No Medal,154.0,81.0,Team D,Coach A,Participated,0
+1470,Sara Sharma,Female,25,India,IND,Boxing,Heavyweight,2020,No Medal,185.0,90.0,Team A,Coach B,Participated,0
+1471,Ananya Wilson,Female,26,Brazil,BRA,Swimming,200M Butterfly,2016,No Medal,183.0,66.0,Team A,Coach A,Participated,0
+1472,Lucas Garcia,Male,23,China,CHN,Hockey,Men,2016,No Medal,176.0,71.0,Team C,Coach D,Participated,0
+1473,Aarav Kim,Female,29,India,IND,Tennis,Singles,2016,No Medal,170.0,46.0,Team A,Coach B,Participated,0
+1474,Sara Smith,Male,28,Japan,JPN,Swimming,100M Freestyle,2020,Silver,177.0,65.0,Team D,Coach D,Participated,1
+1475,Ava Smith,Female,20,United States,USA,Badminton,Singles,2024,No Medal,197.0,60.0,Team D,Coach D,Participated,0
+1476,Lucas Brown,Male,35,Brazil,BRA,Badminton,Doubles,2016,Bronze,156.0,83.0,Team D,Coach D,Participated,1
+1477,Neha Patel,Female,25,France,FRA,Hockey,Women,2024,No Medal,172.0,98.0,Team A,Coach D,Participated,0
+1478,Aarav Wilson,Male,22,Canada,CAN,Swimming,100M Freestyle,2020,No Medal,162.0,93.0,Team B,Coach A,Participated,0
+1479,Liam Sharma,Female,37,Canada,CAN,Wrestling,Greco-Roman,2024,Gold,195.0,71.0,Team C,Coach A,Participated,1
+1480,Ananya Singh,Female,28,China,CHN,Tennis,Doubles,2012,No Medal,186.0,62.0,Team A,Coach A,Participated,0
+1481,Ishaan Singh,Male,20,Canada,CAN,Shooting,10M Air Rifle,2024,No Medal,200.0,52.0,Team B,Coach A,Participated,0
+1482,Sara Kim,Male,23,Canada,CAN,Gymnastics,Floor,2016,No Medal,183.0,94.0,Team B,Coach C,Participated,0
+1483,Neha Wilson,Male,33,India,IND,Gymnastics,Vault,2024,No Medal,162.0,71.0,Team B,Coach C,Participated,0
+1484,Mia Kim,Male,30,France,FRA,Athletics,200M,2012,No Medal,154.0,50.0,Team B,Coach A,Participated,0
+1485,Sophia Patel,Female,26,United Kingdom,GBR,Badminton,Singles,2020,No Medal,172.0,54.0,Team D,Coach A,Participated,0
+1486,Liam Kim,Male,36,Canada,CAN,Boxing,Lightweight,2012,Bronze,187.0,95.0,Team A,Coach B,Participated,1
+1487,Aarav Wilson,Female,26,China,CHN,Badminton,Singles,2016,No Medal,173.0,69.0,Team D,Coach C,Participated,0
+1488,Yuki Brown,Male,37,Germany,GER,Gymnastics,Vault,2024,Silver,176.0,87.0,Team B,Coach A,Participated,1
+1489,Aarav Garcia,Male,23,Canada,CAN,Hockey,Women,2012,No Medal,189.0,79.0,Team B,Coach E,Participated,0
+1490,Olivia Smith,Male,24,United States,USA,Boxing,Lightweight,2020,Silver,186.0,100.0,Team D,Coach E,Participated,1
+1491,Mia Smith,Male,31,Japan,JPN,Swimming,200M Butterfly,2016,Bronze,200.0,78.0,Team D,Coach E,Participated,1
+1492,Sophia Smith,Male,33,Japan,JPN,Badminton,Singles,2012,Bronze,172.0,89.0,Team A,Coach E,Participated,1
+1493,Kabir Kim,Male,31,United States,USA,Tennis,Singles,2012,No Medal,183.0,66.0,Team C,Coach B,Participated,0
+1494,Kabir Khan,Female,33,United Kingdom,GBR,Wrestling,Freestyle,2024,No Medal,164.0,92.0,Team C,Coach D,Participated,0
+1495,Aarav Singh,Male,23,Brazil,BRA,Athletics,200M,2024,No Medal,184.0,98.0,Team D,Coach C,Participated,0
+1496,David Lee,Female,32,Canada,CAN,Shooting,25M Pistol,2020,No Medal,151.0,85.0,Team D,Coach D,Participated,0
+1497,Riya Garcia,Male,25,China,CHN,Tennis,Singles,2016,Silver,175.0,66.0,Team C,Coach A,Participated,1
+1498,Ava Brown,Male,30,Australia,AUS,Badminton,Singles,2024,No Medal,182.0,68.0,Team A,Coach B,Participated,0
+1499,Emma Smith,Female,21,France,FRA,Shooting,10M Air Rifle,2020,No Medal,199.0,51.0,Team C,Coach B,Participated,0
+1500,Riya Kim,Male,33,India,IND,Shooting,10M Air Rifle,2020,No Medal,188.0,54.0,Team A,Coach C,Participated,0
+1501,Ananya Patel,Male,22,Australia,AUS,Tennis,Singles,2020,Gold,189.0,77.0,Team C,Coach C,Participated,1
+1502,Sophia Brown,Male,32,Brazil,BRA,Athletics,200M,2024,Gold,159.0,61.0,Team B,Coach A,Participated,1
+1503,Ananya Lee,Female,22,Germany,GER,Gymnastics,Vault,2016,No Medal,176.0,70.0,Team B,Coach A,Participated,0
+1504,Arjun Khan,Male,34,India,IND,Wrestling,Freestyle,2024,No Medal,172.0,51.0,Team D,Coach C,Participated,0
+1505,Ishaan Garcia,Female,19,United States,USA,Swimming,200M Butterfly,2012,Silver,165.0,61.0,Team D,Coach B,Participated,1
+1506,Neha Sharma,Male,37,United States,USA,Tennis,Doubles,2020,Bronze,158.0,84.0,Team C,Coach B,Participated,1
+1507,Chen Kim,Male,18,Germany,GER,Swimming,100M Freestyle,2016,No Medal,161.0,83.0,Team B,Coach A,Participated,0
+1508,Sophia Wilson,Male,30,Australia,AUS,Swimming,100M Freestyle,2020,Bronze,172.0,75.0,Team D,Coach D,Participated,1
+1509,Ananya Sharma,Female,36,United Kingdom,GBR,Tennis,Doubles,2024,No Medal,170.0,82.0,Team D,Coach A,Participated,0
+1510,Aarav Wilson,Female,25,Australia,AUS,Boxing,Lightweight,2020,Silver,174.0,93.0,Team B,Coach C,Participated,1
+1511,Liam Garcia,Female,37,India,IND,Swimming,100M Freestyle,2012,No Medal,178.0,61.0,Team A,Coach B,Participated,0
+1512,Sara Singh,Female,33,India,IND,Hockey,Women,2012,No Medal,185.0,89.0,Team D,Coach D,Participated,0
+1513,Arjun Kim,Male,18,Germany,GER,Athletics,200M,2020,No Medal,182.0,80.0,Team D,Coach E,Participated,0
+1514,Yuki Sharma,Male,37,India,IND,Swimming,100M Freestyle,2012,No Medal,159.0,47.0,Team C,Coach D,Participated,0
+1515,Sara Garcia,Male,18,China,CHN,Cycling,Track Sprint,2020,Bronze,157.0,49.0,Team B,Coach C,Participated,1
+1516,Riya Lee,Male,21,India,IND,Badminton,Doubles,2020,No Medal,154.0,95.0,Team B,Coach E,Participated,0
+1517,Liam Patel,Female,32,Canada,CAN,Badminton,Doubles,2024,No Medal,186.0,62.0,Team C,Coach D,Participated,0
+1518,Emma Brown,Female,21,Brazil,BRA,Swimming,200M Butterfly,2024,No Medal,155.0,51.0,Team B,Coach E,Participated,0
+1519,Neha Brown,Male,27,United States,USA,Tennis,Singles,2020,No Medal,157.0,81.0,Team D,Coach A,Participated,0
+1520,Kabir Brown,Male,32,Germany,GER,Boxing,Lightweight,2020,Silver,157.0,86.0,Team A,Coach D,Participated,1
+1521,Sara Brown,Male,33,Canada,CAN,Gymnastics,Vault,2012,Gold,177.0,79.0,Team D,Coach C,Participated,1
+1522,David Garcia,Male,26,Germany,GER,Wrestling,Freestyle,2024,Gold,188.0,77.0,Team B,Coach C,Participated,1
+1523,Arjun Patel,Female,30,United Kingdom,GBR,Boxing,Lightweight,2016,No Medal,177.0,64.0,Team A,Coach E,Participated,0
+1524,Olivia Wilson,Male,33,Brazil,BRA,Tennis,Singles,2016,Gold,150.0,57.0,Team C,Coach B,Participated,1
+1525,Chen Lee,Male,28,Canada,CAN,Gymnastics,Floor,2012,No Medal,154.0,65.0,Team A,Coach D,Participated,0
+1526,Olivia Khan,Female,29,United Kingdom,GBR,Gymnastics,Floor,2024,No Medal,154.0,79.0,Team B,Coach B,Participated,0
+1527,Vihaan Khan,Male,22,France,FRA,Badminton,Singles,2024,No Medal,195.0,47.0,Team D,Coach D,Participated,0
+1528,Vihaan Wilson,Female,24,Canada,CAN,Gymnastics,Vault,2020,No Medal,195.0,53.0,Team B,Coach C,Participated,0
+1529,Ishaan Brown,Female,33,Germany,GER,Cycling,Road Race,2024,No Medal,176.0,85.0,Team A,Coach C,Participated,0
+1530,David Lee,Female,28,China,CHN,Swimming,200M Butterfly,2012,No Medal,164.0,98.0,Team A,Coach D,Participated,0
+1531,Ava Garcia,Female,21,United States,USA,Cycling,Track Sprint,2020,No Medal,190.0,49.0,Team A,Coach B,Participated,0
+1532,Olivia Singh,Female,23,Canada,CAN,Badminton,Singles,2020,Bronze,177.0,46.0,Team D,Coach B,Participated,1
+1533,Riya Smith,Male,26,Canada,CAN,Cycling,Road Race,2012,No Medal,177.0,81.0,Team B,Coach B,Participated,0
+1534,Ava Wilson,Male,24,India,IND,Hockey,Women,2012,Silver,174.0,56.0,Team A,Coach E,Participated,1
+1535,Noah Khan,Female,35,United States,USA,Shooting,25M Pistol,2012,No Medal,152.0,71.0,Team C,Coach B,Participated,0
+1536,Chen Sharma,Male,22,Canada,CAN,Cycling,Road Race,2016,No Medal,197.0,99.0,Team A,Coach E,Participated,0
+1537,Ava Sharma,Male,24,India,IND,Cycling,Road Race,2012,No Medal,180.0,50.0,Team D,Coach B,Participated,0
+1538,Mia Kim,Male,27,United Kingdom,GBR,Cycling,Track Sprint,2020,Silver,179.0,88.0,Team D,Coach A,Participated,1
+1539,Aarav Singh,Male,37,Germany,GER,Swimming,100M Freestyle,2012,No Medal,187.0,74.0,Team A,Coach B,Participated,0
+1540,Arjun Sharma,Male,36,Canada,CAN,Shooting,10M Air Rifle,2020,No Medal,164.0,50.0,Team A,Coach E,Participated,0
+1541,Ishaan Singh,Male,20,China,CHN,Cycling,Track Sprint,2020,No Medal,184.0,75.0,Team D,Coach B,Participated,0
+1542,Noah Kim,Female,34,Brazil,BRA,Shooting,10M Air Rifle,2024,Bronze,196.0,60.0,Team B,Coach D,Participated,1
+1543,Ava Sharma,Male,24,Germany,GER,Cycling,Track Sprint,2016,No Medal,172.0,63.0,Team C,Coach B,Participated,0
+1544,Yuki Garcia,Male,23,India,IND,Swimming,100M Freestyle,2012,No Medal,192.0,64.0,Team A,Coach E,Participated,0
+1545,David Lee,Female,37,Australia,AUS,Swimming,200M Butterfly,2012,No Medal,183.0,56.0,Team C,Coach D,Participated,0
+1546,David Khan,Male,26,Canada,CAN,Hockey,Men,2012,Bronze,180.0,49.0,Team C,Coach C,Participated,1
+1547,Vihaan Sharma,Female,23,China,CHN,Hockey,Men,2016,Bronze,162.0,93.0,Team C,Coach D,Participated,1
+1548,Ananya Singh,Male,20,Canada,CAN,Swimming,200M Butterfly,2020,No Medal,165.0,81.0,Team A,Coach C,Participated,0
+1549,Olivia Smith,Female,29,United Kingdom,GBR,Swimming,200M Butterfly,2016,No Medal,168.0,77.0,Team B,Coach C,Participated,0
+1550,Arjun Garcia,Female,18,Canada,CAN,Athletics,100M,2020,Bronze,180.0,77.0,Team D,Coach B,Participated,1
+1551,Olivia Sharma,Female,26,Brazil,BRA,Badminton,Singles,2024,No Medal,167.0,80.0,Team C,Coach E,Participated,0
+1552,Ava Lee,Female,27,United States,USA,Hockey,Women,2016,Silver,166.0,90.0,Team A,Coach E,Participated,1
+1553,Noah Kim,Male,23,France,FRA,Wrestling,Greco-Roman,2020,No Medal,197.0,78.0,Team D,Coach B,Participated,0
+1554,Sara Lee,Female,34,United States,USA,Gymnastics,Vault,2020,No Medal,150.0,73.0,Team D,Coach B,Participated,0
+1555,Neha Brown,Male,34,United Kingdom,GBR,Athletics,200M,2012,No Medal,177.0,68.0,Team A,Coach A,Participated,0
+1556,Kabir Wilson,Male,24,United States,USA,Boxing,Heavyweight,2012,Gold,198.0,90.0,Team B,Coach C,Participated,1
+1557,Lucas Kim,Female,23,Germany,GER,Wrestling,Freestyle,2016,No Medal,158.0,50.0,Team C,Coach B,Participated,0
+1558,Vihaan Kim,Female,35,Canada,CAN,Gymnastics,Vault,2020,No Medal,174.0,77.0,Team A,Coach B,Participated,0
+1559,Olivia Smith,Female,21,Australia,AUS,Tennis,Singles,2020,No Medal,180.0,62.0,Team C,Coach C,Participated,0
+1560,Kabir Lee,Male,29,Canada,CAN,Badminton,Singles,2016,No Medal,151.0,99.0,Team B,Coach E,Participated,0
+1561,Sara Lee,Male,21,Australia,AUS,Athletics,Marathon,2024,No Medal,182.0,66.0,Team B,Coach E,Participated,0
+1562,Vihaan Smith,Male,29,France,FRA,Boxing,Lightweight,2020,Silver,164.0,53.0,Team D,Coach B,Participated,1
+1563,David Lee,Female,19,Japan,JPN,Cycling,Track Sprint,2020,No Medal,171.0,84.0,Team B,Coach E,Participated,0
+1564,Neha Patel,Female,34,India,IND,Wrestling,Greco-Roman,2012,No Medal,182.0,90.0,Team A,Coach A,Participated,0
+1565,Liam Garcia,Female,24,Australia,AUS,Cycling,Road Race,2016,No Medal,181.0,63.0,Team C,Coach D,Participated,0
+1566,Ava Kim,Female,31,Germany,GER,Hockey,Men,2016,No Medal,178.0,67.0,Team C,Coach B,Participated,0
+1567,Ananya Singh,Female,33,Japan,JPN,Athletics,100M,2020,No Medal,158.0,90.0,Team A,Coach B,Participated,0
+1568,Neha Sharma,Male,18,Japan,JPN,Boxing,Heavyweight,2012,No Medal,185.0,59.0,Team B,Coach B,Participated,0
+1569,Chen Smith,Male,24,Japan,JPN,Badminton,Singles,2016,Gold,162.0,99.0,Team B,Coach A,Participated,1
+1570,Aarav Wilson,Male,27,United States,USA,Cycling,Track Sprint,2024,No Medal,171.0,92.0,Team C,Coach B,Participated,0
+1571,Vihaan Kim,Female,32,China,CHN,Swimming,100M Freestyle,2012,No Medal,196.0,61.0,Team D,Coach C,Participated,0
+1572,Sara Garcia,Female,34,China,CHN,Shooting,10M Air Rifle,2012,No Medal,158.0,86.0,Team B,Coach E,Participated,0
+1573,Sophia Sharma,Male,25,Japan,JPN,Shooting,25M Pistol,2012,No Medal,169.0,96.0,Team B,Coach A,Participated,0
+1574,David Singh,Male,20,China,CHN,Cycling,Track Sprint,2016,No Medal,172.0,99.0,Team B,Coach E,Participated,0
+1575,Emma Kim,Male,26,Japan,JPN,Tennis,Singles,2012,No Medal,181.0,94.0,Team C,Coach E,Participated,0
+1576,Arjun Smith,Male,34,France,FRA,Swimming,200M Butterfly,2016,No Medal,187.0,95.0,Team B,Coach B,Participated,0
+1577,Chen Lee,Male,30,Germany,GER,Cycling,Road Race,2016,No Medal,177.0,71.0,Team A,Coach C,Participated,0
+1578,Yuki Smith,Male,24,Canada,CAN,Tennis,Doubles,2016,Bronze,193.0,57.0,Team A,Coach A,Participated,1
+1579,Chen Wilson,Female,29,France,FRA,Tennis,Singles,2012,Silver,176.0,90.0,Team D,Coach A,Participated,1
+1580,Yuki Kim,Male,26,United States,USA,Cycling,Road Race,2012,No Medal,176.0,92.0,Team B,Coach B,Participated,0
+1581,Arjun Smith,Male,29,United States,USA,Boxing,Heavyweight,2020,Gold,189.0,98.0,Team C,Coach B,Participated,1
+1582,David Wilson,Female,31,India,IND,Athletics,100M,2024,No Medal,161.0,81.0,Team D,Coach E,Participated,0
+1583,Ananya Singh,Female,29,United States,USA,Swimming,100M Freestyle,2024,No Medal,185.0,75.0,Team B,Coach A,Participated,0
+1584,Vihaan Khan,Female,28,Japan,JPN,Tennis,Doubles,2016,No Medal,166.0,71.0,Team C,Coach B,Participated,0
+1585,Vihaan Wilson,Female,24,France,FRA,Shooting,25M Pistol,2016,No Medal,158.0,82.0,Team D,Coach C,Participated,0
+1586,Riya Patel,Female,28,Australia,AUS,Athletics,Marathon,2012,Bronze,200.0,45.0,Team C,Coach D,Participated,1
+1587,Noah Lee,Male,25,Germany,GER,Hockey,Women,2012,Bronze,200.0,65.0,Team D,Coach A,Participated,1
+1588,Ishaan Garcia,Female,34,Canada,CAN,Shooting,25M Pistol,2016,No Medal,188.0,55.0,Team B,Coach C,Participated,0
+1589,Aarav Patel,Male,20,United Kingdom,GBR,Gymnastics,Vault,2012,No Medal,169.0,88.0,Team D,Coach D,Participated,0
+1590,Mia Kim,Female,36,United States,USA,Wrestling,Freestyle,2012,No Medal,158.0,51.0,Team B,Coach D,Participated,0
+1591,Lucas Kim,Male,34,Japan,JPN,Wrestling,Greco-Roman,2024,No Medal,199.0,57.0,Team A,Coach B,Participated,0
+1592,Vihaan Brown,Female,24,France,FRA,Tennis,Singles,2020,Gold,187.0,83.0,Team A,Coach E,Participated,1
+1593,Vihaan Kim,Male,29,Canada,CAN,Athletics,Marathon,2020,No Medal,164.0,54.0,Team D,Coach C,Participated,0
+1594,Chen Khan,Female,26,United Kingdom,GBR,Gymnastics,Vault,2016,No Medal,178.0,90.0,Team B,Coach A,Participated,0
+1595,Arjun Garcia,Female,22,China,CHN,Badminton,Doubles,2012,No Medal,181.0,53.0,Team A,Coach E,Participated,0
+1596,Neha Sharma,Male,25,Brazil,BRA,Swimming,200M Butterfly,2024,Gold,185.0,62.0,Team A,Coach D,Participated,1
+1597,Neha Khan,Female,21,Canada,CAN,Hockey,Women,2012,Bronze,159.0,97.0,Team B,Coach A,Participated,1
+1598,Noah Khan,Female,27,Germany,GER,Gymnastics,Floor,2020,No Medal,193.0,89.0,Team D,Coach D,Participated,0
+1599,Kabir Wilson,Male,21,China,CHN,Tennis,Doubles,2020,No Medal,196.0,71.0,Team B,Coach E,Participated,0
+1600,Noah Lee,Male,23,India,IND,Shooting,25M Pistol,2020,Gold,164.0,76.0,Team A,Coach D,Participated,1
+1601,Aarav Patel,Female,33,France,FRA,Shooting,25M Pistol,2020,No Medal,176.0,84.0,Team A,Coach B,Participated,0
+1602,Emma Khan,Female,37,Germany,GER,Shooting,10M Air Rifle,2016,Gold,168.0,75.0,Team C,Coach B,Participated,1
+1603,Liam Kim,Female,34,Canada,CAN,Cycling,Road Race,2016,No Medal,176.0,88.0,Team C,Coach D,Participated,0
+1604,Neha Sharma,Female,27,China,CHN,Swimming,200M Butterfly,2012,No Medal,158.0,55.0,Team A,Coach C,Participated,0
+1605,Arjun Kim,Male,27,India,IND,Gymnastics,Vault,2016,Bronze,173.0,82.0,Team D,Coach E,Participated,1
+1606,Neha Singh,Female,25,Australia,AUS,Shooting,25M Pistol,2016,No Medal,156.0,70.0,Team D,Coach B,Participated,0
+1607,Aarav Lee,Female,19,Canada,CAN,Athletics,200M,2024,No Medal,169.0,71.0,Team A,Coach B,Participated,0
+1608,Mia Singh,Male,28,Canada,CAN,Tennis,Doubles,2024,Silver,180.0,81.0,Team D,Coach A,Participated,1
+1609,David Kim,Male,19,Germany,GER,Swimming,200M Butterfly,2020,No Medal,198.0,79.0,Team D,Coach A,Participated,0
+1610,Chen Lee,Female,24,United Kingdom,GBR,Shooting,25M Pistol,2024,Silver,188.0,76.0,Team B,Coach B,Participated,1
+1611,Sara Garcia,Male,27,France,FRA,Wrestling,Freestyle,2020,No Medal,188.0,88.0,Team B,Coach A,Participated,0
+1612,Kabir Khan,Female,33,Canada,CAN,Boxing,Lightweight,2020,Gold,174.0,69.0,Team C,Coach B,Participated,1
+1613,Arjun Wilson,Female,34,India,IND,Cycling,Road Race,2016,Bronze,191.0,80.0,Team C,Coach A,Participated,1
+1614,Olivia Kim,Female,26,China,CHN,Hockey,Women,2016,No Medal,161.0,48.0,Team D,Coach B,Participated,0
+1615,Sara Khan,Male,35,United States,USA,Athletics,Marathon,2024,No Medal,176.0,72.0,Team B,Coach A,Participated,0
+1616,Neha Singh,Male,24,France,FRA,Tennis,Singles,2024,No Medal,169.0,57.0,Team C,Coach A,Participated,0
+1617,Chen Lee,Female,27,Germany,GER,Gymnastics,Floor,2012,No Medal,152.0,72.0,Team C,Coach B,Participated,0
+1618,Vihaan Smith,Female,29,France,FRA,Swimming,100M Freestyle,2024,No Medal,152.0,93.0,Team C,Coach D,Participated,0
+1619,Sophia Patel,Male,20,Germany,GER,Tennis,Doubles,2012,No Medal,172.0,95.0,Team D,Coach B,Participated,0
+1620,Liam Garcia,Female,26,Brazil,BRA,Wrestling,Freestyle,2016,Bronze,175.0,74.0,Team C,Coach E,Participated,1
+1621,Yuki Khan,Male,33,Japan,JPN,Shooting,10M Air Rifle,2024,No Medal,197.0,61.0,Team C,Coach A,Participated,0
+1622,Ava Singh,Male,31,United States,USA,Hockey,Men,2020,No Medal,156.0,100.0,Team D,Coach E,Participated,0
+1623,Kabir Patel,Male,32,United Kingdom,GBR,Athletics,Marathon,2012,No Medal,160.0,50.0,Team C,Coach B,Participated,0
+1624,Ananya Wilson,Male,28,India,IND,Cycling,Road Race,2012,Silver,179.0,71.0,Team A,Coach B,Participated,1
+1625,Ishaan Wilson,Female,28,Brazil,BRA,Cycling,Road Race,2016,No Medal,189.0,49.0,Team A,Coach C,Participated,0
+1626,Neha Khan,Female,19,Canada,CAN,Cycling,Road Race,2016,No Medal,166.0,51.0,Team C,Coach B,Participated,0
+1627,Olivia Brown,Female,27,Canada,CAN,Swimming,200M Butterfly,2012,Silver,198.0,54.0,Team B,Coach E,Participated,1
+1628,Mia Smith,Female,28,Germany,GER,Athletics,200M,2012,No Medal,185.0,63.0,Team D,Coach B,Participated,0
+1629,Chen Smith,Female,28,France,FRA,Wrestling,Freestyle,2020,Gold,174.0,71.0,Team C,Coach A,Participated,1
+1630,Neha Brown,Female,22,Australia,AUS,Athletics,Marathon,2020,No Medal,183.0,89.0,Team D,Coach D,Participated,0
+1631,Ava Kim,Female,27,India,IND,Tennis,Doubles,2012,No Medal,162.0,92.0,Team B,Coach C,Participated,0
+1632,Arjun Singh,Male,34,India,IND,Badminton,Doubles,2012,No Medal,184.0,52.0,Team C,Coach B,Participated,0
+1633,Liam Singh,Male,35,China,CHN,Shooting,10M Air Rifle,2016,Silver,177.0,89.0,Team D,Coach B,Participated,1
+1634,Vihaan Patel,Female,31,Canada,CAN,Hockey,Women,2016,Silver,196.0,51.0,Team D,Coach D,Participated,1
+1635,Vihaan Kim,Female,33,Germany,GER,Tennis,Singles,2020,No Medal,183.0,77.0,Team D,Coach D,Participated,0
+1636,Sophia Garcia,Male,24,France,FRA,Shooting,10M Air Rifle,2020,Silver,200.0,65.0,Team A,Coach E,Participated,1
+1637,Vihaan Kim,Female,19,China,CHN,Badminton,Doubles,2012,No Medal,198.0,62.0,Team C,Coach D,Participated,0
+1638,Lucas Brown,Female,23,United States,USA,Gymnastics,Vault,2012,Bronze,159.0,67.0,Team A,Coach E,Participated,1
+1639,Lucas Khan,Male,22,France,FRA,Cycling,Track Sprint,2016,No Medal,198.0,93.0,Team B,Coach C,Participated,0
+1640,Noah Kim,Male,26,Germany,GER,Gymnastics,Floor,2016,Bronze,176.0,53.0,Team C,Coach A,Participated,1
+1641,Chen Smith,Male,33,United Kingdom,GBR,Athletics,Marathon,2024,No Medal,171.0,46.0,Team C,Coach D,Participated,0
+1642,Ava Khan,Male,26,France,FRA,Swimming,100M Freestyle,2012,No Medal,199.0,66.0,Team D,Coach D,Participated,0
+1643,Sara Smith,Male,18,Brazil,BRA,Tennis,Doubles,2016,No Medal,171.0,64.0,Team D,Coach B,Participated,0
+1644,Liam Patel,Female,26,China,CHN,Tennis,Singles,2016,Gold,179.0,70.0,Team D,Coach C,Participated,1
+1645,Sara Sharma,Male,25,India,IND,Hockey,Men,2020,Silver,174.0,75.0,Team B,Coach A,Participated,1
+1646,Riya Garcia,Female,19,France,FRA,Hockey,Men,2020,No Medal,170.0,57.0,Team B,Coach C,Participated,0
+1647,Lucas Wilson,Male,32,Germany,GER,Badminton,Doubles,2024,No Medal,157.0,97.0,Team C,Coach E,Participated,0
+1648,Arjun Garcia,Male,23,France,FRA,Cycling,Track Sprint,2012,No Medal,166.0,87.0,Team D,Coach D,Participated,0
+1649,Chen Singh,Female,19,Australia,AUS,Boxing,Lightweight,2020,No Medal,152.0,100.0,Team D,Coach B,Participated,0
+1650,Ishaan Patel,Male,18,India,IND,Shooting,10M Air Rifle,2020,No Medal,168.0,45.0,Team C,Coach A,Participated,0
+1651,Arjun Patel,Male,29,United States,USA,Shooting,25M Pistol,2012,No Medal,164.0,97.0,Team B,Coach D,Participated,0
+1652,Olivia Wilson,Female,31,India,IND,Gymnastics,Vault,2016,No Medal,175.0,68.0,Team D,Coach E,Participated,0
+1653,Lucas Brown,Male,29,China,CHN,Gymnastics,Vault,2016,No Medal,182.0,55.0,Team D,Coach E,Participated,0
+1654,Vihaan Brown,Male,31,United States,USA,Badminton,Singles,2012,No Medal,198.0,59.0,Team D,Coach C,Participated,0
+1655,Liam Sharma,Female,29,France,FRA,Athletics,200M,2024,No Medal,163.0,98.0,Team C,Coach D,Participated,0
+1656,Sophia Khan,Male,18,Australia,AUS,Tennis,Doubles,2012,No Medal,176.0,53.0,Team A,Coach D,Participated,0
+1657,Vihaan Kim,Female,34,Germany,GER,Athletics,200M,2012,No Medal,164.0,92.0,Team D,Coach C,Participated,0
+1658,Emma Brown,Female,33,India,IND,Wrestling,Freestyle,2012,No Medal,160.0,95.0,Team A,Coach E,Participated,0
+1659,Ava Kim,Female,23,Germany,GER,Swimming,200M Butterfly,2016,No Medal,193.0,50.0,Team D,Coach E,Participated,0
+1660,Ananya Lee,Female,37,China,CHN,Cycling,Track Sprint,2016,Gold,152.0,78.0,Team D,Coach B,Participated,1
+1661,Lucas Smith,Male,32,France,FRA,Swimming,100M Freestyle,2016,No Medal,156.0,90.0,Team C,Coach A,Participated,0
+1662,Ishaan Patel,Female,20,Japan,JPN,Tennis,Doubles,2012,Bronze,158.0,59.0,Team D,Coach E,Participated,1
+1663,Yuki Smith,Female,32,United Kingdom,GBR,Wrestling,Greco-Roman,2024,Gold,172.0,69.0,Team B,Coach D,Participated,1
+1664,Liam Brown,Female,31,France,FRA,Badminton,Doubles,2024,No Medal,163.0,58.0,Team C,Coach D,Participated,0
+1665,Ananya Singh,Male,18,Germany,GER,Wrestling,Greco-Roman,2020,No Medal,192.0,73.0,Team D,Coach B,Participated,0
+1666,Noah Lee,Female,35,France,FRA,Swimming,200M Butterfly,2024,No Medal,179.0,86.0,Team B,Coach C,Participated,0
+1667,Vihaan Garcia,Female,22,Australia,AUS,Shooting,10M Air Rifle,2016,No Medal,190.0,67.0,Team B,Coach C,Participated,0
+1668,Lucas Singh,Male,34,Germany,GER,Gymnastics,Vault,2024,No Medal,180.0,57.0,Team D,Coach C,Participated,0
+1669,Mia Garcia,Female,24,France,FRA,Wrestling,Greco-Roman,2016,No Medal,179.0,85.0,Team D,Coach D,Participated,0
+1670,Kabir Patel,Male,26,United Kingdom,GBR,Tennis,Singles,2016,No Medal,192.0,90.0,Team B,Coach C,Participated,0
+1671,Arjun Lee,Male,25,Canada,CAN,Boxing,Lightweight,2016,Silver,190.0,67.0,Team D,Coach E,Participated,1
+1672,Kabir Lee,Male,18,Japan,JPN,Wrestling,Greco-Roman,2024,No Medal,185.0,80.0,Team A,Coach E,Participated,0
+1673,Kabir Wilson,Male,29,France,FRA,Wrestling,Greco-Roman,2012,Silver,181.0,57.0,Team D,Coach E,Participated,1
+1674,Ava Singh,Female,24,France,FRA,Wrestling,Greco-Roman,2020,Bronze,159.0,46.0,Team D,Coach E,Participated,1
+1675,Emma Khan,Male,25,United States,USA,Wrestling,Freestyle,2012,No Medal,162.0,48.0,Team B,Coach E,Participated,0
+1676,Ananya Lee,Female,23,France,FRA,Tennis,Doubles,2020,Gold,198.0,79.0,Team A,Coach E,Participated,1
+1677,Ishaan Khan,Female,31,Australia,AUS,Athletics,200M,2016,No Medal,191.0,54.0,Team A,Coach B,Participated,0
+1678,Noah Smith,Male,23,France,FRA,Hockey,Women,2024,No Medal,166.0,85.0,Team B,Coach C,Participated,0
+1679,Chen Wilson,Female,21,Canada,CAN,Boxing,Lightweight,2024,Gold,163.0,71.0,Team B,Coach D,Participated,1
+1680,Chen Khan,Male,26,United States,USA,Tennis,Doubles,2024,Silver,179.0,60.0,Team A,Coach C,Participated,1
+1681,Ishaan Khan,Female,31,Canada,CAN,Tennis,Singles,2012,No Medal,159.0,90.0,Team A,Coach E,Participated,0
+1682,Mia Lee,Female,37,Australia,AUS,Tennis,Doubles,2020,No Medal,180.0,52.0,Team A,Coach E,Participated,0
+1683,Mia Kim,Male,24,Japan,JPN,Cycling,Track Sprint,2024,No Medal,193.0,99.0,Team A,Coach D,Participated,0
+1684,Sophia Kim,Female,23,United Kingdom,GBR,Badminton,Singles,2020,No Medal,200.0,57.0,Team C,Coach E,Participated,0
+1685,Ava Brown,Male,33,Australia,AUS,Tennis,Doubles,2012,No Medal,169.0,46.0,Team C,Coach E,Participated,0
+1686,Noah Brown,Female,34,India,IND,Athletics,Marathon,2012,Silver,155.0,90.0,Team A,Coach A,Participated,1
+1687,Olivia Patel,Female,36,Canada,CAN,Tennis,Doubles,2020,No Medal,157.0,62.0,Team D,Coach C,Participated,0
+1688,Sara Brown,Male,26,China,CHN,Shooting,25M Pistol,2024,Gold,161.0,98.0,Team C,Coach A,Participated,1
+1689,Liam Brown,Female,27,Canada,CAN,Boxing,Heavyweight,2020,No Medal,195.0,51.0,Team B,Coach C,Participated,0
+1690,Aarav Lee,Female,35,India,IND,Hockey,Men,2024,No Medal,176.0,46.0,Team B,Coach A,Participated,0
+1691,Mia Smith,Female,23,United States,USA,Shooting,25M Pistol,2012,No Medal,193.0,59.0,Team D,Coach A,Participated,0
+1692,Emma Garcia,Female,35,United Kingdom,GBR,Hockey,Men,2020,No Medal,188.0,69.0,Team D,Coach B,Participated,0
+1693,Kabir Wilson,Female,21,France,FRA,Cycling,Road Race,2024,No Medal,154.0,80.0,Team D,Coach A,Participated,0
+1694,David Garcia,Female,21,Canada,CAN,Hockey,Women,2012,No Medal,161.0,89.0,Team A,Coach B,Participated,0
+1695,Mia Brown,Female,37,Australia,AUS,Hockey,Women,2012,No Medal,157.0,80.0,Team D,Coach A,Participated,0
+1696,Liam Khan,Male,28,India,IND,Boxing,Heavyweight,2020,No Medal,193.0,89.0,Team A,Coach E,Participated,0
+1697,Emma Garcia,Male,36,China,CHN,Boxing,Lightweight,2012,Silver,176.0,70.0,Team C,Coach C,Participated,1
+1698,Ava Khan,Female,24,United Kingdom,GBR,Athletics,200M,2020,No Medal,171.0,50.0,Team D,Coach D,Participated,0
+1699,Kabir Wilson,Female,27,Australia,AUS,Tennis,Singles,2012,No Medal,168.0,56.0,Team A,Coach B,Participated,0
+1700,Vihaan Wilson,Female,31,India,IND,Wrestling,Freestyle,2024,Silver,151.0,82.0,Team C,Coach C,Participated,1
+1701,Emma Patel,Male,31,Germany,GER,Badminton,Doubles,2024,Silver,199.0,45.0,Team B,Coach A,Participated,1
+1702,Noah Sharma,Male,19,France,FRA,Cycling,Track Sprint,2016,No Medal,160.0,78.0,Team C,Coach B,Participated,0
+1703,Arjun Lee,Male,28,United Kingdom,GBR,Tennis,Doubles,2016,Bronze,192.0,86.0,Team A,Coach C,Participated,1
+1704,Mia Wilson,Female,35,Germany,GER,Cycling,Road Race,2020,No Medal,181.0,77.0,Team B,Coach B,Participated,0
+1705,Liam Wilson,Male,28,United States,USA,Boxing,Lightweight,2020,Silver,182.0,55.0,Team B,Coach C,Participated,1
+1706,Kabir Khan,Male,36,Australia,AUS,Badminton,Doubles,2012,Bronze,200.0,49.0,Team B,Coach D,Participated,1
+1707,Chen Singh,Female,26,Canada,CAN,Tennis,Singles,2024,Bronze,186.0,56.0,Team B,Coach D,Participated,1
+1708,Lucas Kim,Female,21,India,IND,Gymnastics,Floor,2020,Bronze,187.0,50.0,Team D,Coach B,Participated,1
+1709,Lucas Wilson,Male,32,Australia,AUS,Hockey,Men,2020,No Medal,178.0,82.0,Team D,Coach D,Participated,0
+1710,Emma Sharma,Female,28,Australia,AUS,Wrestling,Freestyle,2012,No Medal,177.0,46.0,Team C,Coach D,Participated,0
+1711,Sara Wilson,Female,34,Japan,JPN,Tennis,Singles,2016,Silver,179.0,67.0,Team A,Coach B,Participated,1
+1712,Mia Kim,Male,30,Brazil,BRA,Shooting,10M Air Rifle,2012,No Medal,191.0,69.0,Team D,Coach D,Participated,0
+1713,Mia Garcia,Male,32,France,FRA,Boxing,Heavyweight,2024,No Medal,175.0,59.0,Team A,Coach B,Participated,0
+1714,David Khan,Male,28,Australia,AUS,Hockey,Women,2024,No Medal,174.0,84.0,Team D,Coach C,Participated,0
+1715,Lucas Singh,Male,37,Germany,GER,Cycling,Track Sprint,2012,No Medal,177.0,70.0,Team D,Coach D,Participated,0
+1716,Sara Wilson,Male,30,Japan,JPN,Tennis,Doubles,2020,Bronze,173.0,70.0,Team D,Coach E,Participated,1
+1717,Chen Brown,Male,28,India,IND,Cycling,Track Sprint,2024,Silver,174.0,61.0,Team C,Coach A,Participated,1
+1718,Yuki Patel,Female,32,United States,USA,Hockey,Men,2020,No Medal,197.0,95.0,Team B,Coach C,Participated,0
+1719,Liam Brown,Female,30,Australia,AUS,Boxing,Heavyweight,2020,No Medal,190.0,80.0,Team B,Coach A,Participated,0
+1720,Vihaan Smith,Female,29,China,CHN,Athletics,200M,2024,No Medal,171.0,71.0,Team A,Coach D,Participated,0
+1721,Yuki Khan,Female,18,India,IND,Cycling,Road Race,2024,Bronze,196.0,64.0,Team C,Coach E,Participated,1
+1722,Mia Lee,Female,19,United States,USA,Athletics,Marathon,2020,No Medal,182.0,99.0,Team C,Coach C,Participated,0
+1723,Mia Smith,Female,37,Germany,GER,Hockey,Women,2012,Bronze,150.0,96.0,Team C,Coach B,Participated,1
+1724,Mia Garcia,Male,34,Brazil,BRA,Swimming,100M Freestyle,2024,No Medal,168.0,77.0,Team C,Coach A,Participated,0
+1725,Aarav Smith,Male,20,Japan,JPN,Shooting,25M Pistol,2020,No Medal,165.0,50.0,Team D,Coach E,Participated,0
+1726,Yuki Garcia,Male,36,United Kingdom,GBR,Tennis,Doubles,2012,Silver,193.0,90.0,Team A,Coach C,Participated,1
+1727,David Kim,Male,26,United States,USA,Gymnastics,Floor,2020,No Medal,179.0,49.0,Team B,Coach E,Participated,0
+1728,Neha Singh,Male,25,India,IND,Cycling,Track Sprint,2016,No Medal,164.0,61.0,Team B,Coach C,Participated,0
+1729,Sara Patel,Male,25,China,CHN,Boxing,Heavyweight,2016,No Medal,164.0,89.0,Team D,Coach B,Participated,0
+1730,Yuki Patel,Male,21,Japan,JPN,Gymnastics,Vault,2012,Bronze,188.0,61.0,Team B,Coach B,Participated,1
+1731,Ananya Sharma,Male,29,United Kingdom,GBR,Tennis,Singles,2016,No Medal,173.0,89.0,Team C,Coach D,Participated,0
+1732,Ava Lee,Female,24,Canada,CAN,Hockey,Women,2020,No Medal,197.0,74.0,Team B,Coach D,Participated,0
+1733,Sophia Khan,Male,25,France,FRA,Athletics,100M,2024,No Medal,158.0,46.0,Team C,Coach A,Participated,0
+1734,Emma Kim,Male,33,Germany,GER,Gymnastics,Floor,2020,Silver,154.0,66.0,Team D,Coach E,Participated,1
+1735,Yuki Patel,Female,20,Germany,GER,Boxing,Lightweight,2012,No Medal,150.0,77.0,Team A,Coach B,Participated,0
+1736,Olivia Brown,Male,21,Canada,CAN,Athletics,200M,2020,No Medal,162.0,54.0,Team A,Coach C,Participated,0
+1737,Noah Lee,Female,33,China,CHN,Swimming,100M Freestyle,2024,No Medal,183.0,86.0,Team B,Coach B,Participated,0
+1738,Sara Wilson,Female,28,China,CHN,Swimming,200M Butterfly,2016,Bronze,160.0,45.0,Team B,Coach A,Participated,1
+1739,David Sharma,Female,21,India,IND,Tennis,Singles,2016,No Medal,152.0,46.0,Team C,Coach C,Participated,0
+1740,Lucas Singh,Male,26,Japan,JPN,Badminton,Singles,2024,No Medal,157.0,71.0,Team A,Coach D,Participated,0
+1741,Emma Khan,Male,18,Japan,JPN,Shooting,10M Air Rifle,2016,No Medal,164.0,99.0,Team B,Coach D,Participated,0
+1742,Sara Garcia,Female,25,Brazil,BRA,Wrestling,Greco-Roman,2012,No Medal,160.0,99.0,Team A,Coach E,Participated,0
+1743,Vihaan Garcia,Female,27,Australia,AUS,Wrestling,Greco-Roman,2020,No Medal,153.0,60.0,Team B,Coach E,Participated,0
+1744,Emma Garcia,Male,35,France,FRA,Boxing,Lightweight,2024,Gold,176.0,94.0,Team D,Coach B,Participated,1
+1745,Arjun Khan,Female,19,India,IND,Athletics,Marathon,2020,No Medal,165.0,63.0,Team C,Coach B,Participated,0
+1746,Chen Kim,Female,34,China,CHN,Shooting,25M Pistol,2012,No Medal,188.0,56.0,Team C,Coach C,Participated,0
+1747,Mia Patel,Female,33,France,FRA,Shooting,10M Air Rifle,2012,No Medal,156.0,86.0,Team A,Coach B,Participated,0
+1748,Arjun Lee,Male,36,India,IND,Cycling,Track Sprint,2016,No Medal,158.0,79.0,Team C,Coach D,Participated,0
+1749,Ananya Brown,Male,18,United States,USA,Badminton,Doubles,2016,No Medal,196.0,53.0,Team B,Coach E,Participated,0
+1750,Aarav Garcia,Male,36,Japan,JPN,Tennis,Singles,2016,No Medal,188.0,61.0,Team D,Coach A,Participated,0
+1751,Arjun Brown,Male,36,United States,USA,Swimming,100M Freestyle,2024,No Medal,188.0,99.0,Team C,Coach E,Participated,0
+1752,Emma Patel,Female,36,Australia,AUS,Cycling,Track Sprint,2012,No Medal,150.0,57.0,Team C,Coach A,Participated,0
+1753,Olivia Garcia,Male,20,India,IND,Athletics,100M,2012,No Medal,194.0,58.0,Team B,Coach B,Participated,0
+1754,Noah Wilson,Female,32,Australia,AUS,Tennis,Doubles,2012,Gold,166.0,87.0,Team C,Coach E,Participated,1
+1755,Yuki Garcia,Female,37,Brazil,BRA,Boxing,Heavyweight,2016,No Medal,188.0,80.0,Team B,Coach A,Participated,0
+1756,Yuki Lee,Male,25,France,FRA,Cycling,Track Sprint,2024,No Medal,192.0,52.0,Team D,Coach E,Participated,0
+1757,Vihaan Brown,Male,26,Japan,JPN,Hockey,Women,2012,No Medal,162.0,94.0,Team A,Coach E,Participated,0
+1758,Noah Kim,Female,23,Canada,CAN,Badminton,Singles,2016,Gold,178.0,48.0,Team A,Coach C,Participated,1
+1759,Noah Smith,Male,21,United Kingdom,GBR,Gymnastics,Floor,2016,Silver,150.0,98.0,Team B,Coach C,Participated,1
+1760,Liam Kim,Female,36,Germany,GER,Boxing,Lightweight,2020,No Medal,166.0,90.0,Team B,Coach E,Participated,0
+1761,Riya Smith,Male,35,Canada,CAN,Swimming,100M Freestyle,2012,No Medal,179.0,72.0,Team A,Coach C,Participated,0
+1762,Sophia Khan,Female,31,Brazil,BRA,Athletics,100M,2020,No Medal,155.0,71.0,Team B,Coach E,Participated,0
+1763,Vihaan Garcia,Male,27,France,FRA,Hockey,Men,2016,No Medal,180.0,65.0,Team B,Coach B,Participated,0
+1764,Chen Khan,Female,32,Australia,AUS,Badminton,Doubles,2024,No Medal,152.0,97.0,Team D,Coach E,Participated,0
+1765,Noah Brown,Male,22,United Kingdom,GBR,Athletics,100M,2012,No Medal,178.0,93.0,Team A,Coach D,Participated,0
+1766,Emma Singh,Female,32,Germany,GER,Gymnastics,Vault,2012,No Medal,154.0,94.0,Team D,Coach A,Participated,0
+1767,Noah Khan,Female,19,Canada,CAN,Badminton,Doubles,2020,Gold,157.0,54.0,Team B,Coach B,Participated,1
+1768,Yuki Patel,Female,25,Japan,JPN,Hockey,Men,2016,No Medal,184.0,54.0,Team B,Coach D,Participated,0
+1769,Olivia Sharma,Female,28,France,FRA,Boxing,Heavyweight,2024,Bronze,176.0,75.0,Team D,Coach E,Participated,1
+1770,Neha Wilson,Female,24,Germany,GER,Gymnastics,Floor,2024,Silver,176.0,66.0,Team C,Coach D,Participated,1
+1771,Olivia Garcia,Male,27,Australia,AUS,Gymnastics,Floor,2024,Gold,166.0,50.0,Team B,Coach B,Participated,1
+1772,Lucas Brown,Male,31,Japan,JPN,Wrestling,Freestyle,2024,Gold,155.0,71.0,Team A,Coach B,Participated,1
+1773,Sophia Brown,Female,23,Japan,JPN,Hockey,Men,2016,No Medal,188.0,62.0,Team D,Coach E,Participated,0
+1774,Ananya Kim,Female,32,Canada,CAN,Gymnastics,Floor,2020,No Medal,196.0,57.0,Team D,Coach D,Participated,0
+1775,Sophia Brown,Female,29,Canada,CAN,Shooting,25M Pistol,2020,No Medal,195.0,88.0,Team B,Coach C,Participated,0
+1776,Neha Kim,Female,26,Australia,AUS,Hockey,Men,2020,Silver,199.0,67.0,Team C,Coach C,Participated,1
+1777,Chen Patel,Female,27,France,FRA,Wrestling,Greco-Roman,2012,No Medal,176.0,87.0,Team B,Coach B,Participated,0
+1778,Neha Khan,Female,22,Brazil,BRA,Athletics,200M,2020,No Medal,167.0,47.0,Team C,Coach A,Participated,0
+1779,Kabir Sharma,Female,19,Australia,AUS,Gymnastics,Floor,2020,No Medal,176.0,95.0,Team D,Coach D,Participated,0
+1780,Emma Patel,Male,21,United Kingdom,GBR,Cycling,Road Race,2012,No Medal,163.0,52.0,Team C,Coach B,Participated,0
+1781,Noah Garcia,Male,25,Australia,AUS,Swimming,100M Freestyle,2024,Gold,178.0,99.0,Team A,Coach E,Participated,1
+1782,Neha Lee,Female,20,Brazil,BRA,Hockey,Men,2016,Bronze,163.0,50.0,Team B,Coach B,Participated,1
+1783,Ananya Kim,Female,33,Brazil,BRA,Swimming,100M Freestyle,2012,Gold,160.0,90.0,Team C,Coach C,Participated,1
+1784,Noah Singh,Male,37,Canada,CAN,Swimming,200M Butterfly,2020,Silver,185.0,57.0,Team B,Coach A,Participated,1
+1785,Yuki Patel,Male,28,Canada,CAN,Gymnastics,Floor,2012,Bronze,182.0,71.0,Team D,Coach C,Participated,1
+1786,Yuki Kim,Female,22,Germany,GER,Hockey,Men,2024,Bronze,182.0,95.0,Team D,Coach B,Participated,1
+1787,Sophia Brown,Female,25,United Kingdom,GBR,Cycling,Road Race,2012,Bronze,150.0,69.0,Team D,Coach B,Participated,1
+1788,Ava Khan,Female,27,France,FRA,Wrestling,Greco-Roman,2020,No Medal,176.0,47.0,Team B,Coach E,Participated,0
+1789,Chen Singh,Male,32,Brazil,BRA,Badminton,Doubles,2020,No Medal,150.0,58.0,Team A,Coach C,Participated,0
+1790,Riya Wilson,Male,26,United Kingdom,GBR,Swimming,100M Freestyle,2016,Silver,176.0,50.0,Team D,Coach C,Participated,1
+1791,Chen Wilson,Female,23,Japan,JPN,Shooting,10M Air Rifle,2012,No Medal,176.0,48.0,Team C,Coach C,Participated,0
+1792,Sara Khan,Female,36,United States,USA,Shooting,25M Pistol,2012,Bronze,187.0,88.0,Team B,Coach C,Participated,1
+1793,Olivia Kim,Female,36,United Kingdom,GBR,Tennis,Doubles,2024,Bronze,181.0,65.0,Team A,Coach B,Participated,1
+1794,Aarav Smith,Male,31,Brazil,BRA,Athletics,200M,2020,No Medal,190.0,53.0,Team B,Coach D,Participated,0
+1795,Kabir Singh,Female,30,India,IND,Gymnastics,Vault,2020,Silver,198.0,66.0,Team B,Coach C,Participated,1
+1796,Sophia Singh,Female,25,Germany,GER,Badminton,Doubles,2020,No Medal,171.0,87.0,Team A,Coach D,Participated,0
+1797,Sophia Patel,Female,25,United Kingdom,GBR,Tennis,Singles,2020,No Medal,161.0,83.0,Team A,Coach C,Participated,0
+1798,Ananya Kim,Male,26,India,IND,Hockey,Men,2024,No Medal,160.0,58.0,Team A,Coach D,Participated,0
+1799,Chen Patel,Male,22,India,IND,Cycling,Road Race,2020,No Medal,170.0,91.0,Team A,Coach A,Participated,0
+1800,Sara Kim,Female,20,United Kingdom,GBR,Wrestling,Greco-Roman,2016,No Medal,191.0,48.0,Team D,Coach D,Participated,0
+1801,Ava Singh,Female,26,Japan,JPN,Hockey,Women,2024,No Medal,150.0,93.0,Team C,Coach A,Participated,0
+1802,Ishaan Kim,Female,37,Brazil,BRA,Swimming,200M Butterfly,2016,No Medal,159.0,90.0,Team D,Coach A,Participated,0
+1803,Aarav Garcia,Male,32,Canada,CAN,Boxing,Heavyweight,2020,No Medal,191.0,54.0,Team A,Coach E,Participated,0
+1804,Kabir Singh,Male,28,Canada,CAN,Cycling,Road Race,2012,No Medal,169.0,57.0,Team C,Coach A,Participated,0
+1805,Noah Smith,Male,32,China,CHN,Swimming,200M Butterfly,2012,No Medal,154.0,97.0,Team A,Coach D,Participated,0
+1806,Mia Sharma,Female,30,United Kingdom,GBR,Swimming,100M Freestyle,2020,Silver,194.0,84.0,Team D,Coach B,Participated,1
+1807,Yuki Patel,Male,24,France,FRA,Tennis,Singles,2012,No Medal,178.0,78.0,Team A,Coach B,Participated,0
+1808,Olivia Smith,Female,18,Australia,AUS,Badminton,Singles,2020,No Medal,152.0,45.0,Team A,Coach B,Participated,0
+1809,Yuki Smith,Female,19,Canada,CAN,Athletics,Marathon,2016,No Medal,192.0,96.0,Team D,Coach C,Participated,0
+1810,Yuki Smith,Male,19,Japan,JPN,Athletics,Marathon,2024,Bronze,150.0,93.0,Team B,Coach C,Participated,1
+1811,Mia Kim,Male,29,Canada,CAN,Hockey,Men,2024,Bronze,155.0,75.0,Team D,Coach A,Participated,1
+1812,Aarav Singh,Female,26,Japan,JPN,Wrestling,Greco-Roman,2012,No Medal,157.0,64.0,Team C,Coach C,Participated,0
+1813,Liam Smith,Male,37,France,FRA,Hockey,Men,2024,No Medal,177.0,84.0,Team D,Coach A,Participated,0
+1814,Sara Kim,Female,30,Canada,CAN,Gymnastics,Floor,2016,No Medal,172.0,53.0,Team B,Coach A,Participated,0
+1815,Aarav Garcia,Male,34,Canada,CAN,Gymnastics,Vault,2016,No Medal,157.0,85.0,Team C,Coach D,Participated,0
+1816,Chen Wilson,Female,21,Brazil,BRA,Athletics,200M,2016,No Medal,198.0,49.0,Team C,Coach D,Participated,0
+1817,Neha Khan,Male,23,Germany,GER,Gymnastics,Floor,2020,Bronze,197.0,93.0,Team B,Coach C,Participated,1
+1818,Sara Patel,Male,35,Brazil,BRA,Shooting,25M Pistol,2020,Gold,164.0,60.0,Team C,Coach C,Participated,1
+1819,Noah Sharma,Male,25,India,IND,Wrestling,Freestyle,2016,Bronze,182.0,94.0,Team B,Coach C,Participated,1
+1820,Sara Lee,Male,28,China,CHN,Swimming,100M Freestyle,2020,No Medal,185.0,68.0,Team D,Coach B,Participated,0
+1821,Sophia Singh,Male,31,Brazil,BRA,Hockey,Men,2012,No Medal,179.0,85.0,Team B,Coach D,Participated,0
+1822,Sara Kim,Male,24,India,IND,Boxing,Lightweight,2012,No Medal,163.0,65.0,Team B,Coach E,Participated,0
+1823,Noah Wilson,Male,19,Australia,AUS,Swimming,100M Freestyle,2020,No Medal,185.0,90.0,Team B,Coach C,Participated,0
+1824,Chen Khan,Female,32,Canada,CAN,Gymnastics,Vault,2012,No Medal,166.0,99.0,Team C,Coach B,Participated,0
+1825,Sophia Brown,Female,34,Canada,CAN,Shooting,10M Air Rifle,2024,No Medal,153.0,76.0,Team C,Coach E,Participated,0
+1826,Chen Garcia,Male,24,India,IND,Tennis,Singles,2016,Silver,158.0,92.0,Team C,Coach D,Participated,1
+1827,Emma Sharma,Female,26,China,CHN,Athletics,200M,2012,Silver,181.0,90.0,Team A,Coach A,Participated,1
+1828,Lucas Sharma,Female,31,China,CHN,Hockey,Men,2024,Bronze,190.0,56.0,Team B,Coach B,Participated,1
+1829,Olivia Sharma,Female,27,Japan,JPN,Swimming,200M Butterfly,2016,Silver,176.0,49.0,Team A,Coach D,Participated,1
+1830,Aarav Lee,Male,19,Brazil,BRA,Badminton,Doubles,2020,No Medal,184.0,50.0,Team B,Coach A,Participated,0
+1831,Ananya Khan,Male,32,China,CHN,Shooting,10M Air Rifle,2024,No Medal,159.0,45.0,Team C,Coach D,Participated,0
+1832,Ava Patel,Male,28,France,FRA,Boxing,Lightweight,2012,No Medal,181.0,80.0,Team B,Coach A,Participated,0
+1833,Kabir Garcia,Female,29,United States,USA,Hockey,Men,2020,Silver,194.0,69.0,Team B,Coach E,Participated,1
+1834,Mia Wilson,Male,34,United Kingdom,GBR,Hockey,Women,2024,No Medal,160.0,54.0,Team A,Coach D,Participated,0
+1835,Ava Khan,Female,24,Brazil,BRA,Wrestling,Greco-Roman,2024,Silver,170.0,54.0,Team A,Coach A,Participated,1
+1836,Liam Singh,Male,26,Canada,CAN,Hockey,Women,2016,Bronze,176.0,70.0,Team A,Coach A,Participated,1
+1837,Sara Lee,Male,34,Japan,JPN,Gymnastics,Floor,2024,No Medal,159.0,79.0,Team B,Coach A,Participated,0
+1838,Neha Wilson,Female,26,China,CHN,Tennis,Singles,2020,No Medal,195.0,88.0,Team A,Coach C,Participated,0
+1839,Sophia Kim,Female,26,India,IND,Shooting,25M Pistol,2016,No Medal,195.0,53.0,Team C,Coach A,Participated,0
+1840,Sophia Kim,Male,26,Australia,AUS,Hockey,Women,2012,No Medal,187.0,53.0,Team D,Coach B,Participated,0
+1841,Sara Wilson,Male,19,Australia,AUS,Swimming,200M Butterfly,2020,No Medal,151.0,92.0,Team B,Coach D,Participated,0
+1842,Arjun Smith,Female,34,United Kingdom,GBR,Badminton,Singles,2020,No Medal,195.0,97.0,Team A,Coach A,Participated,0
+1843,Mia Garcia,Male,34,Canada,CAN,Wrestling,Freestyle,2016,No Medal,198.0,68.0,Team B,Coach A,Participated,0
+1844,Arjun Smith,Male,22,India,IND,Wrestling,Freestyle,2012,Silver,191.0,48.0,Team D,Coach B,Participated,1
+1845,Riya Lee,Male,37,France,FRA,Swimming,100M Freestyle,2020,Gold,156.0,47.0,Team D,Coach B,Participated,1
+1846,Mia Kim,Male,30,United States,USA,Athletics,Marathon,2012,No Medal,175.0,97.0,Team D,Coach E,Participated,0
+1847,Lucas Singh,Male,33,France,FRA,Tennis,Doubles,2020,Silver,158.0,54.0,Team C,Coach A,Participated,1
+1848,Mia Wilson,Male,37,Canada,CAN,Athletics,100M,2024,Bronze,162.0,81.0,Team A,Coach A,Participated,1
+1849,Chen Patel,Female,24,United Kingdom,GBR,Tennis,Doubles,2012,No Medal,151.0,82.0,Team B,Coach D,Participated,0
+1850,Sophia Singh,Female,23,Japan,JPN,Athletics,100M,2012,No Medal,161.0,64.0,Team D,Coach E,Participated,0
+1851,Neha Kim,Female,25,India,IND,Wrestling,Greco-Roman,2020,No Medal,176.0,96.0,Team D,Coach A,Participated,0
+1852,Noah Khan,Female,36,India,IND,Tennis,Singles,2016,No Medal,177.0,66.0,Team B,Coach B,Participated,0
+1853,Sophia Singh,Female,29,Germany,GER,Boxing,Heavyweight,2024,No Medal,199.0,53.0,Team C,Coach D,Participated,0
+1854,Sara Khan,Male,34,Australia,AUS,Cycling,Road Race,2024,Gold,173.0,71.0,Team D,Coach D,Participated,1
+1855,Yuki Khan,Female,21,United Kingdom,GBR,Boxing,Lightweight,2016,Bronze,200.0,87.0,Team B,Coach C,Participated,1
+1856,Ava Patel,Male,35,United States,USA,Boxing,Lightweight,2020,No Medal,168.0,83.0,Team C,Coach E,Participated,0
+1857,Riya Khan,Female,18,Canada,CAN,Athletics,Marathon,2016,Gold,166.0,74.0,Team D,Coach B,Participated,1
+1858,Neha Singh,Male,21,Australia,AUS,Tennis,Doubles,2020,No Medal,152.0,75.0,Team D,Coach E,Participated,0
+1859,Chen Sharma,Male,26,France,FRA,Badminton,Singles,2012,Silver,160.0,86.0,Team A,Coach C,Participated,1
+1860,Ananya Singh,Male,24,Japan,JPN,Athletics,Marathon,2020,No Medal,188.0,68.0,Team A,Coach C,Participated,0
+1861,Sophia Wilson,Male,18,France,FRA,Wrestling,Freestyle,2012,No Medal,167.0,89.0,Team B,Coach C,Participated,0
+1862,Neha Sharma,Female,26,India,IND,Shooting,25M Pistol,2016,No Medal,153.0,82.0,Team D,Coach D,Participated,0
+1863,Aarav Singh,Female,29,Japan,JPN,Tennis,Singles,2024,No Medal,186.0,71.0,Team D,Coach D,Participated,0
+1864,Sara Singh,Female,19,Canada,CAN,Gymnastics,Floor,2020,No Medal,186.0,55.0,Team A,Coach E,Participated,0
+1865,Kabir Patel,Female,28,United Kingdom,GBR,Swimming,100M Freestyle,2012,Silver,186.0,60.0,Team C,Coach C,Participated,1
+1866,Ava Brown,Female,29,China,CHN,Boxing,Lightweight,2012,No Medal,200.0,57.0,Team D,Coach B,Participated,0
+1867,Ananya Garcia,Male,19,United States,USA,Badminton,Singles,2020,Gold,199.0,63.0,Team A,Coach D,Participated,1
+1868,Sara Singh,Female,24,United States,USA,Badminton,Singles,2020,Bronze,168.0,46.0,Team A,Coach C,Participated,1
+1869,David Wilson,Female,36,United Kingdom,GBR,Wrestling,Greco-Roman,2024,No Medal,154.0,55.0,Team A,Coach A,Participated,0
+1870,Vihaan Sharma,Male,31,Australia,AUS,Athletics,200M,2012,Bronze,171.0,87.0,Team A,Coach D,Participated,1
+1871,Ishaan Kim,Male,33,Japan,JPN,Gymnastics,Floor,2020,Gold,180.0,88.0,Team C,Coach B,Participated,1
+1872,Yuki Lee,Female,29,United Kingdom,GBR,Swimming,200M Butterfly,2012,No Medal,176.0,78.0,Team B,Coach A,Participated,0
+1873,Noah Garcia,Male,34,United Kingdom,GBR,Shooting,25M Pistol,2020,No Medal,155.0,70.0,Team D,Coach A,Participated,0
+1874,Mia Brown,Female,30,Germany,GER,Swimming,200M Butterfly,2012,No Medal,169.0,63.0,Team D,Coach B,Participated,0
+1875,Chen Sharma,Male,24,Germany,GER,Hockey,Women,2020,Gold,176.0,88.0,Team B,Coach D,Participated,1
+1876,Riya Garcia,Male,37,United States,USA,Gymnastics,Floor,2016,No Medal,165.0,75.0,Team B,Coach E,Participated,0
+1877,Riya Singh,Male,34,Australia,AUS,Gymnastics,Floor,2024,Bronze,166.0,82.0,Team B,Coach E,Participated,1
+1878,Ananya Kim,Female,18,China,CHN,Boxing,Heavyweight,2012,Silver,193.0,56.0,Team B,Coach B,Participated,1
+1879,Emma Patel,Female,28,China,CHN,Gymnastics,Vault,2024,No Medal,198.0,95.0,Team B,Coach D,Participated,0
+1880,Olivia Smith,Male,23,India,IND,Badminton,Doubles,2024,No Medal,162.0,83.0,Team A,Coach A,Participated,0
+1881,Kabir Singh,Female,18,China,CHN,Badminton,Doubles,2024,No Medal,168.0,54.0,Team C,Coach B,Participated,0
+1882,Aarav Sharma,Female,28,Australia,AUS,Athletics,Marathon,2020,No Medal,169.0,71.0,Team C,Coach C,Participated,0
+1883,Ava Khan,Male,36,Japan,JPN,Swimming,200M Butterfly,2024,No Medal,177.0,46.0,Team B,Coach A,Participated,0
+1884,Vihaan Garcia,Male,24,Japan,JPN,Tennis,Doubles,2012,Silver,163.0,63.0,Team A,Coach E,Participated,1
+1885,Neha Garcia,Male,31,Canada,CAN,Cycling,Road Race,2016,No Medal,179.0,79.0,Team A,Coach A,Participated,0
+1886,Emma Lee,Male,18,France,FRA,Swimming,100M Freestyle,2024,No Medal,154.0,74.0,Team C,Coach C,Participated,0
+1887,Olivia Khan,Male,19,United Kingdom,GBR,Gymnastics,Floor,2016,No Medal,158.0,68.0,Team B,Coach C,Participated,0
+1888,Vihaan Sharma,Male,20,China,CHN,Hockey,Women,2020,No Medal,159.0,62.0,Team B,Coach C,Participated,0
+1889,David Patel,Female,29,Japan,JPN,Shooting,10M Air Rifle,2024,No Medal,171.0,88.0,Team B,Coach C,Participated,0
+1890,Ava Wilson,Female,23,Brazil,BRA,Tennis,Doubles,2016,No Medal,185.0,93.0,Team C,Coach B,Participated,0
+1891,Vihaan Brown,Female,32,Germany,GER,Badminton,Singles,2016,Silver,172.0,68.0,Team D,Coach B,Participated,1
+1892,Kabir Singh,Female,31,Japan,JPN,Hockey,Women,2024,No Medal,159.0,49.0,Team A,Coach A,Participated,0
+1893,Ava Singh,Female,30,India,IND,Gymnastics,Floor,2024,Silver,185.0,84.0,Team A,Coach E,Participated,1
+1894,Vihaan Sharma,Female,27,Japan,JPN,Badminton,Singles,2012,No Medal,197.0,68.0,Team C,Coach B,Participated,0
+1895,Ishaan Smith,Female,35,France,FRA,Cycling,Road Race,2016,Bronze,169.0,59.0,Team A,Coach E,Participated,1
+1896,Liam Garcia,Female,21,United Kingdom,GBR,Boxing,Heavyweight,2024,No Medal,196.0,89.0,Team C,Coach E,Participated,0
+1897,Liam Smith,Male,19,United States,USA,Cycling,Track Sprint,2024,No Medal,183.0,45.0,Team C,Coach A,Participated,0
+1898,David Brown,Female,37,India,IND,Wrestling,Greco-Roman,2016,No Medal,180.0,58.0,Team C,Coach A,Participated,0
+1899,Ananya Smith,Male,27,France,FRA,Wrestling,Greco-Roman,2012,No Medal,200.0,65.0,Team A,Coach D,Participated,0
+1900,Neha Singh,Female,36,Australia,AUS,Shooting,25M Pistol,2020,No Medal,162.0,49.0,Team A,Coach D,Participated,0
+1901,Olivia Khan,Female,34,India,IND,Gymnastics,Floor,2012,No Medal,183.0,70.0,Team C,Coach B,Participated,0
+1902,Aarav Lee,Female,29,China,CHN,Cycling,Track Sprint,2020,Bronze,194.0,51.0,Team A,Coach C,Participated,1
+1903,Liam Smith,Female,34,Germany,GER,Tennis,Doubles,2016,No Medal,182.0,93.0,Team A,Coach B,Participated,0
+1904,Aarav Brown,Male,37,Canada,CAN,Gymnastics,Floor,2024,No Medal,164.0,92.0,Team A,Coach B,Participated,0
+1905,Liam Wilson,Male,32,Japan,JPN,Badminton,Singles,2016,Silver,180.0,71.0,Team C,Coach D,Participated,1
+1906,Arjun Sharma,Male,25,France,FRA,Boxing,Lightweight,2016,No Medal,184.0,86.0,Team A,Coach A,Participated,0
+1907,Yuki Brown,Female,20,China,CHN,Cycling,Track Sprint,2016,No Medal,178.0,50.0,Team D,Coach E,Participated,0
+1908,Mia Patel,Female,20,India,IND,Badminton,Doubles,2012,No Medal,188.0,91.0,Team B,Coach C,Participated,0
+1909,Vihaan Kim,Male,34,United Kingdom,GBR,Boxing,Heavyweight,2012,Silver,188.0,52.0,Team D,Coach D,Participated,1
+1910,Lucas Khan,Female,26,India,IND,Athletics,200M,2012,Bronze,196.0,64.0,Team A,Coach C,Participated,1
+1911,Vihaan Kim,Male,18,France,FRA,Boxing,Heavyweight,2012,No Medal,154.0,89.0,Team A,Coach E,Participated,0
+1912,Sophia Singh,Female,32,Japan,JPN,Hockey,Women,2020,No Medal,197.0,71.0,Team D,Coach D,Participated,0
+1913,Arjun Garcia,Female,24,China,CHN,Swimming,100M Freestyle,2024,No Medal,174.0,83.0,Team A,Coach D,Participated,0
+1914,Vihaan Kim,Female,29,China,CHN,Tennis,Doubles,2012,No Medal,161.0,50.0,Team C,Coach D,Participated,0
+1915,Yuki Khan,Male,21,Japan,JPN,Shooting,25M Pistol,2012,No Medal,169.0,56.0,Team D,Coach E,Participated,0
+1916,Liam Garcia,Female,29,China,CHN,Wrestling,Freestyle,2016,Gold,165.0,47.0,Team B,Coach E,Participated,1
+1917,David Brown,Female,30,Germany,GER,Wrestling,Freestyle,2012,No Medal,163.0,89.0,Team B,Coach A,Participated,0
+1918,Aarav Smith,Female,35,India,IND,Athletics,200M,2024,Gold,187.0,50.0,Team C,Coach E,Participated,1
+1919,Emma Smith,Female,34,Germany,GER,Athletics,Marathon,2024,No Medal,162.0,51.0,Team C,Coach E,Participated,0
+1920,Neha Singh,Male,20,Japan,JPN,Wrestling,Greco-Roman,2024,Bronze,177.0,93.0,Team B,Coach A,Participated,1
+1921,Riya Singh,Male,35,Germany,GER,Swimming,200M Butterfly,2020,Silver,184.0,86.0,Team A,Coach C,Participated,1
+1922,Noah Singh,Male,33,United States,USA,Athletics,100M,2024,Gold,181.0,48.0,Team C,Coach D,Participated,1
+1923,Aarav Khan,Female,23,Australia,AUS,Cycling,Track Sprint,2016,Gold,174.0,51.0,Team B,Coach B,Participated,1
+1924,Chen Singh,Male,27,United States,USA,Shooting,10M Air Rifle,2016,No Medal,196.0,53.0,Team C,Coach D,Participated,0
+1925,David Kim,Male,25,France,FRA,Badminton,Doubles,2016,No Medal,182.0,51.0,Team C,Coach B,Participated,0
+1926,Emma Sharma,Female,33,Australia,AUS,Shooting,10M Air Rifle,2024,Bronze,181.0,63.0,Team C,Coach A,Participated,1
+1927,Aarav Smith,Male,30,Brazil,BRA,Wrestling,Freestyle,2024,No Medal,195.0,55.0,Team D,Coach A,Participated,0
+1928,Emma Singh,Male,24,United States,USA,Gymnastics,Floor,2012,No Medal,184.0,53.0,Team D,Coach A,Participated,0
+1929,Lucas Singh,Male,34,Australia,AUS,Badminton,Doubles,2020,No Medal,188.0,64.0,Team D,Coach E,Participated,0
+1930,Arjun Patel,Male,20,France,FRA,Hockey,Women,2012,No Medal,187.0,71.0,Team D,Coach E,Participated,0
+1931,Lucas Garcia,Male,18,Canada,CAN,Athletics,200M,2020,No Medal,169.0,92.0,Team D,Coach A,Participated,0
+1932,Emma Smith,Male,25,United Kingdom,GBR,Boxing,Lightweight,2016,No Medal,199.0,59.0,Team B,Coach E,Participated,0
+1933,Aarav Khan,Female,31,China,CHN,Shooting,25M Pistol,2020,No Medal,176.0,71.0,Team D,Coach D,Participated,0
+1934,Sophia Khan,Female,33,United Kingdom,GBR,Swimming,200M Butterfly,2020,Gold,176.0,86.0,Team A,Coach A,Participated,1
+1935,Noah Garcia,Female,32,Australia,AUS,Athletics,Marathon,2024,Silver,182.0,61.0,Team D,Coach C,Participated,1
+1936,Ishaan Wilson,Female,31,Germany,GER,Boxing,Heavyweight,2012,No Medal,158.0,90.0,Team D,Coach C,Participated,0
+1937,Sara Garcia,Male,18,China,CHN,Swimming,100M Freestyle,2024,No Medal,159.0,98.0,Team D,Coach A,Participated,0
+1938,Riya Wilson,Female,33,India,IND,Shooting,25M Pistol,2012,No Medal,179.0,95.0,Team B,Coach E,Participated,0
+1939,Chen Brown,Female,23,France,FRA,Tennis,Doubles,2024,Silver,176.0,78.0,Team B,Coach D,Participated,1
+1940,Ananya Wilson,Female,21,Australia,AUS,Swimming,200M Butterfly,2012,No Medal,151.0,78.0,Team A,Coach E,Participated,0
+1941,Ishaan Sharma,Female,18,Germany,GER,Cycling,Road Race,2024,No Medal,162.0,79.0,Team C,Coach D,Participated,0
+1942,Chen Sharma,Male,18,Canada,CAN,Tennis,Doubles,2024,Silver,162.0,83.0,Team D,Coach B,Participated,1
+1943,Chen Lee,Female,26,Australia,AUS,Swimming,100M Freestyle,2016,No Medal,165.0,48.0,Team C,Coach E,Participated,0
+1944,Liam Sharma,Female,26,Australia,AUS,Wrestling,Freestyle,2016,No Medal,177.0,67.0,Team C,Coach A,Participated,0
+1945,Riya Singh,Female,19,Japan,JPN,Hockey,Women,2012,No Medal,176.0,94.0,Team C,Coach E,Participated,0
+1946,Lucas Smith,Male,23,India,IND,Swimming,200M Butterfly,2016,Silver,162.0,73.0,Team D,Coach C,Participated,1
+1947,Vihaan Garcia,Female,37,France,FRA,Wrestling,Freestyle,2024,No Medal,169.0,70.0,Team D,Coach B,Participated,0
+1948,Neha Khan,Male,27,United States,USA,Swimming,200M Butterfly,2016,Bronze,150.0,69.0,Team D,Coach E,Participated,1
+1949,Vihaan Patel,Male,30,India,IND,Badminton,Singles,2016,No Medal,154.0,66.0,Team D,Coach E,Participated,0
+1950,Yuki Patel,Male,28,India,IND,Hockey,Women,2016,No Medal,171.0,67.0,Team B,Coach B,Participated,0
+1951,Neha Kim,Male,24,United Kingdom,GBR,Gymnastics,Floor,2016,No Medal,170.0,79.0,Team B,Coach A,Participated,0
+1952,Olivia Kim,Female,34,Canada,CAN,Badminton,Singles,2020,Silver,152.0,82.0,Team B,Coach C,Participated,1
+1953,Sara Garcia,Male,34,Australia,AUS,Shooting,25M Pistol,2020,No Medal,163.0,66.0,Team C,Coach D,Participated,0
+1954,Ishaan Singh,Female,30,India,IND,Athletics,Marathon,2016,Silver,188.0,69.0,Team B,Coach D,Participated,1
+1955,Noah Patel,Female,37,Canada,CAN,Boxing,Lightweight,2016,No Medal,199.0,48.0,Team B,Coach D,Participated,0
+1956,Arjun Patel,Female,32,Japan,JPN,Boxing,Heavyweight,2016,No Medal,156.0,45.0,Team A,Coach B,Participated,0
+1957,Mia Brown,Female,26,Canada,CAN,Hockey,Men,2012,No Medal,162.0,94.0,Team D,Coach A,Participated,0
+1958,Lucas Patel,Female,24,Brazil,BRA,Tennis,Singles,2020,Gold,159.0,75.0,Team A,Coach C,Participated,1
+1959,Kabir Patel,Male,23,United Kingdom,GBR,Cycling,Track Sprint,2016,Bronze,153.0,73.0,Team D,Coach D,Participated,1
+1960,Kabir Garcia,Female,26,United Kingdom,GBR,Boxing,Lightweight,2012,No Medal,188.0,50.0,Team A,Coach E,Participated,0
+1961,Kabir Patel,Female,30,Japan,JPN,Badminton,Doubles,2012,No Medal,200.0,68.0,Team C,Coach D,Participated,0
+1962,Ava Sharma,Female,26,United States,USA,Shooting,10M Air Rifle,2024,Gold,189.0,57.0,Team B,Coach C,Participated,1
+1963,Ava Wilson,Male,36,Canada,CAN,Hockey,Women,2016,No Medal,170.0,57.0,Team A,Coach D,Participated,0
+1964,Sophia Garcia,Female,30,United States,USA,Badminton,Singles,2020,Bronze,187.0,75.0,Team C,Coach B,Participated,1
+1965,Ananya Brown,Female,23,India,IND,Wrestling,Freestyle,2016,No Medal,176.0,64.0,Team C,Coach B,Participated,0
+1966,Sara Kim,Female,31,India,IND,Shooting,10M Air Rifle,2012,Gold,167.0,85.0,Team C,Coach A,Participated,1
+1967,Emma Garcia,Female,20,Japan,JPN,Athletics,Marathon,2012,Gold,178.0,46.0,Team D,Coach B,Participated,1
+1968,Kabir Kim,Female,19,Japan,JPN,Badminton,Singles,2020,No Medal,152.0,54.0,Team D,Coach E,Participated,0
+1969,Ava Singh,Female,31,France,FRA,Athletics,Marathon,2016,No Medal,164.0,54.0,Team B,Coach E,Participated,0
+1970,Chen Patel,Male,20,United States,USA,Wrestling,Greco-Roman,2012,No Medal,175.0,72.0,Team A,Coach A,Participated,0
+1971,Kabir Khan,Male,19,China,CHN,Wrestling,Greco-Roman,2020,Gold,172.0,54.0,Team C,Coach E,Participated,1
+1972,Yuki Garcia,Male,21,China,CHN,Tennis,Singles,2012,No Medal,192.0,53.0,Team B,Coach D,Participated,0
+1973,Neha Sharma,Male,19,Australia,AUS,Shooting,25M Pistol,2020,Bronze,177.0,53.0,Team A,Coach C,Participated,1
+1974,Ava Khan,Male,29,India,IND,Cycling,Road Race,2020,No Medal,179.0,49.0,Team C,Coach C,Participated,0
+1975,Mia Singh,Female,25,Japan,JPN,Boxing,Lightweight,2024,Bronze,170.0,79.0,Team C,Coach E,Participated,1
+1976,Ava Lee,Female,18,China,CHN,Shooting,10M Air Rifle,2020,Silver,165.0,72.0,Team C,Coach A,Participated,1
+1977,Liam Sharma,Male,18,Australia,AUS,Gymnastics,Vault,2016,No Medal,188.0,77.0,Team A,Coach D,Participated,0
+1978,Aarav Kim,Male,22,Japan,JPN,Cycling,Track Sprint,2024,Gold,195.0,82.0,Team A,Coach B,Participated,1
+1979,Olivia Kim,Male,26,Brazil,BRA,Athletics,100M,2012,No Medal,188.0,61.0,Team D,Coach B,Participated,0
+1980,Liam Smith,Female,24,France,FRA,Shooting,25M Pistol,2024,No Medal,196.0,87.0,Team D,Coach A,Participated,0
+1981,Ananya Garcia,Female,22,Japan,JPN,Gymnastics,Floor,2016,No Medal,193.0,98.0,Team C,Coach B,Participated,0
+1982,Lucas Lee,Female,28,China,CHN,Hockey,Women,2020,No Medal,173.0,95.0,Team C,Coach C,Participated,0
+1983,Chen Kim,Female,33,China,CHN,Swimming,100M Freestyle,2020,No Medal,171.0,82.0,Team A,Coach B,Participated,0
+1984,Ava Singh,Female,36,Australia,AUS,Boxing,Heavyweight,2020,Bronze,181.0,90.0,Team C,Coach A,Participated,1
+1985,Ananya Patel,Male,33,Germany,GER,Cycling,Track Sprint,2020,No Medal,198.0,80.0,Team B,Coach C,Participated,0
+1986,Arjun Singh,Female,34,Japan,JPN,Hockey,Men,2024,No Medal,189.0,89.0,Team C,Coach E,Participated,0
+1987,Kabir Kim,Female,34,Brazil,BRA,Tennis,Singles,2024,No Medal,154.0,99.0,Team D,Coach C,Participated,0
+1988,Aarav Smith,Female,34,United States,USA,Hockey,Women,2020,No Medal,188.0,62.0,Team C,Coach C,Participated,0
+1989,David Garcia,Female,22,Canada,CAN,Shooting,10M Air Rifle,2016,Bronze,188.0,56.0,Team C,Coach C,Participated,1
+1990,Liam Wilson,Female,33,Australia,AUS,Gymnastics,Vault,2012,No Medal,190.0,80.0,Team B,Coach B,Participated,0
+1991,Ananya Garcia,Female,35,China,CHN,Wrestling,Greco-Roman,2024,Silver,186.0,61.0,Team B,Coach C,Participated,1
+1992,Riya Singh,Female,33,India,IND,Boxing,Heavyweight,2012,Bronze,179.0,83.0,Team C,Coach E,Participated,1
+1993,Aarav Lee,Male,24,United Kingdom,GBR,Swimming,200M Butterfly,2020,Silver,169.0,77.0,Team A,Coach C,Participated,1
+1994,Olivia Smith,Female,31,France,FRA,Swimming,200M Butterfly,2016,No Medal,150.0,84.0,Team A,Coach A,Participated,0
+1995,Aarav Patel,Male,19,United Kingdom,GBR,Athletics,Marathon,2024,No Medal,165.0,71.0,Team A,Coach C,Participated,0
+1996,Ishaan Patel,Female,34,Canada,CAN,Badminton,Singles,2012,No Medal,167.0,71.0,Team A,Coach A,Participated,0
+1997,Ava Garcia,Male,20,United States,USA,Boxing,Lightweight,2012,No Medal,181.0,85.0,Team A,Coach E,Participated,0
+1998,Aarav Brown,Male,19,Canada,CAN,Hockey,Men,2024,No Medal,172.0,88.0,Team C,Coach C,Participated,0
+1999,Neha Singh,Female,32,Japan,JPN,Athletics,200M,2024,No Medal,155.0,49.0,Team A,Coach B,Participated,0
+2000,Neha Khan,Male,23,United States,USA,Hockey,Men,2020,No Medal,153.0,55.0,Team C,Coach C,Participated,0
+2001,Chen Brown,Female,22,Australia,AUS,Gymnastics,Floor,2020,No Medal,173.0,86.0,Team B,Coach B,Participated,0
+2002,Sara Wilson,Female,22,Germany,GER,Cycling,Road Race,2016,No Medal,192.0,98.0,Team B,Coach B,Participated,0
+2003,Arjun Patel,Female,30,Canada,CAN,Hockey,Men,2024,No Medal,181.0,72.0,Team A,Coach B,Participated,0
+2004,Kabir Lee,Female,19,United Kingdom,GBR,Shooting,10M Air Rifle,2012,No Medal,180.0,64.0,Team A,Coach E,Participated,0
+2005,Ananya Wilson,Female,24,Germany,GER,Wrestling,Freestyle,2024,No Medal,155.0,46.0,Team C,Coach D,Participated,0
+2006,Emma Lee,Female,33,Australia,AUS,Tennis,Doubles,2012,No Medal,195.0,74.0,Team A,Coach A,Participated,0
+2007,Neha Garcia,Female,23,United States,USA,Cycling,Road Race,2024,No Medal,170.0,72.0,Team D,Coach C,Participated,0
+2008,Aarav Sharma,Male,28,Canada,CAN,Shooting,10M Air Rifle,2016,No Medal,163.0,97.0,Team B,Coach E,Participated,0
+2009,Aarav Wilson,Male,28,India,IND,Badminton,Singles,2024,No Medal,190.0,90.0,Team B,Coach C,Participated,0
+2010,Vihaan Brown,Female,25,Canada,CAN,Athletics,200M,2020,Silver,192.0,67.0,Team C,Coach D,Participated,1
+2011,Sophia Wilson,Male,23,United Kingdom,GBR,Badminton,Singles,2012,No Medal,151.0,49.0,Team B,Coach D,Participated,0
+2012,David Singh,Female,28,Brazil,BRA,Tennis,Singles,2024,No Medal,153.0,94.0,Team A,Coach C,Participated,0
+2013,Sara Patel,Female,34,United States,USA,Swimming,200M Butterfly,2024,No Medal,169.0,70.0,Team B,Coach A,Participated,0
+2014,Ananya Wilson,Female,29,Canada,CAN,Hockey,Men,2020,No Medal,197.0,89.0,Team C,Coach A,Participated,0
+2015,Noah Patel,Female,26,India,IND,Badminton,Doubles,2016,No Medal,175.0,63.0,Team A,Coach B,Participated,0
+2016,Riya Garcia,Female,35,India,IND,Hockey,Men,2016,No Medal,181.0,74.0,Team D,Coach E,Participated,0
+2017,Ava Patel,Female,30,France,FRA,Boxing,Lightweight,2024,No Medal,179.0,64.0,Team C,Coach E,Participated,0
+2018,Ava Patel,Male,34,France,FRA,Hockey,Women,2024,No Medal,187.0,71.0,Team B,Coach B,Participated,0
+2019,Sara Patel,Female,24,China,CHN,Swimming,100M Freestyle,2020,No Medal,189.0,55.0,Team B,Coach D,Participated,0
+2020,Riya Smith,Male,30,France,FRA,Athletics,Marathon,2012,No Medal,187.0,87.0,Team C,Coach C,Participated,0
+2021,Vihaan Smith,Female,31,Canada,CAN,Boxing,Lightweight,2012,No Medal,170.0,52.0,Team B,Coach B,Participated,0
+2022,Kabir Khan,Male,28,United Kingdom,GBR,Badminton,Doubles,2012,No Medal,185.0,79.0,Team C,Coach D,Participated,0
+2023,Ava Lee,Male,31,United States,USA,Gymnastics,Vault,2016,No Medal,169.0,72.0,Team B,Coach B,Participated,0
+2024,Aarav Lee,Female,23,Germany,GER,Boxing,Heavyweight,2024,Bronze,171.0,96.0,Team B,Coach D,Participated,1
+2025,Aarav Kim,Female,32,Australia,AUS,Hockey,Men,2012,Silver,166.0,50.0,Team B,Coach B,Participated,1
+2026,Yuki Singh,Female,28,Canada,CAN,Shooting,25M Pistol,2020,Bronze,182.0,50.0,Team A,Coach D,Participated,1
+2027,Yuki Singh,Female,26,United Kingdom,GBR,Hockey,Women,2020,Silver,174.0,71.0,Team C,Coach B,Participated,1
+2028,Ava Kim,Female,22,India,IND,Athletics,100M,2024,No Medal,158.0,92.0,Team C,Coach E,Participated,0
+2029,Olivia Khan,Female,21,Canada,CAN,Swimming,200M Butterfly,2024,Gold,199.0,91.0,Team D,Coach E,Participated,1
+2030,Ishaan Khan,Female,23,Germany,GER,Tennis,Doubles,2020,No Medal,187.0,90.0,Team D,Coach C,Participated,0
+2031,Kabir Smith,Male,30,India,IND,Hockey,Women,2016,No Medal,176.0,88.0,Team C,Coach A,Participated,0
+2032,Neha Wilson,Male,31,Australia,AUS,Cycling,Track Sprint,2020,No Medal,173.0,77.0,Team D,Coach A,Participated,0
+2033,Mia Brown,Female,36,France,FRA,Hockey,Women,2020,Bronze,193.0,85.0,Team A,Coach C,Participated,1
+2034,Chen Smith,Male,18,Canada,CAN,Swimming,200M Butterfly,2012,Bronze,187.0,54.0,Team C,Coach E,Participated,1
+2035,Vihaan Patel,Male,37,Australia,AUS,Gymnastics,Floor,2012,No Medal,159.0,98.0,Team D,Coach D,Participated,0
+2036,Sara Patel,Female,30,China,CHN,Shooting,10M Air Rifle,2012,No Medal,195.0,48.0,Team B,Coach C,Participated,0
+2037,Chen Kim,Female,18,Japan,JPN,Badminton,Singles,2016,Silver,197.0,75.0,Team D,Coach D,Participated,1
+2038,Neha Kim,Male,35,Brazil,BRA,Gymnastics,Vault,2024,No Medal,178.0,48.0,Team A,Coach B,Participated,0
+2039,Mia Singh,Female,25,China,CHN,Boxing,Lightweight,2024,No Medal,174.0,85.0,Team C,Coach A,Participated,0
+2040,Sophia Brown,Female,37,United Kingdom,GBR,Hockey,Men,2024,No Medal,168.0,50.0,Team B,Coach A,Participated,0
+2041,Olivia Lee,Male,23,Japan,JPN,Athletics,100M,2016,Gold,158.0,62.0,Team A,Coach E,Participated,1
+2042,Lucas Wilson,Female,36,China,CHN,Hockey,Women,2012,No Medal,164.0,91.0,Team D,Coach C,Participated,0
+2043,Yuki Sharma,Female,28,China,CHN,Cycling,Road Race,2012,No Medal,181.0,64.0,Team B,Coach C,Participated,0
+2044,Aarav Patel,Female,31,Germany,GER,Athletics,Marathon,2016,No Medal,158.0,97.0,Team A,Coach B,Participated,0
+2045,Yuki Singh,Male,20,Australia,AUS,Athletics,200M,2024,No Medal,176.0,60.0,Team D,Coach B,Participated,0
+2046,Ava Khan,Female,25,Germany,GER,Gymnastics,Floor,2016,Bronze,197.0,73.0,Team D,Coach A,Participated,1
+2047,Olivia Patel,Male,23,United Kingdom,GBR,Hockey,Women,2020,No Medal,164.0,82.0,Team D,Coach E,Participated,0
+2048,Riya Smith,Male,31,United States,USA,Hockey,Men,2012,No Medal,176.0,57.0,Team B,Coach E,Participated,0
+2049,Vihaan Garcia,Female,34,Germany,GER,Swimming,200M Butterfly,2016,No Medal,159.0,81.0,Team D,Coach A,Participated,0
+2050,Emma Smith,Male,19,Germany,GER,Wrestling,Freestyle,2016,No Medal,199.0,96.0,Team C,Coach A,Participated,0
+2051,Vihaan Smith,Female,23,Germany,GER,Gymnastics,Floor,2012,No Medal,191.0,56.0,Team B,Coach D,Participated,0
+2052,Ava Smith,Female,34,United Kingdom,GBR,Cycling,Track Sprint,2016,No Medal,200.0,80.0,Team D,Coach B,Participated,0
+2053,Kabir Sharma,Female,25,India,IND,Cycling,Track Sprint,2012,No Medal,197.0,57.0,Team A,Coach E,Participated,0
+2054,Kabir Garcia,Female,28,China,CHN,Gymnastics,Floor,2020,Silver,177.0,85.0,Team A,Coach B,Participated,1
+2055,David Smith,Male,29,India,IND,Cycling,Track Sprint,2020,No Medal,184.0,67.0,Team A,Coach B,Participated,0
+2056,Chen Garcia,Male,36,United States,USA,Boxing,Lightweight,2016,No Medal,180.0,77.0,Team D,Coach E,Participated,0
+2057,Arjun Wilson,Male,36,United Kingdom,GBR,Boxing,Heavyweight,2016,No Medal,153.0,75.0,Team B,Coach B,Participated,0
+2058,Ava Smith,Female,29,Germany,GER,Badminton,Doubles,2012,No Medal,181.0,56.0,Team B,Coach C,Participated,0
+2059,Kabir Singh,Male,32,China,CHN,Tennis,Doubles,2020,No Medal,194.0,95.0,Team C,Coach C,Participated,0
+2060,Lucas Smith,Male,18,France,FRA,Hockey,Women,2016,Silver,169.0,64.0,Team A,Coach E,Participated,1
+2061,Aarav Kim,Male,26,Australia,AUS,Athletics,Marathon,2020,No Medal,182.0,81.0,Team B,Coach D,Participated,0
+2062,Riya Smith,Female,34,India,IND,Swimming,200M Butterfly,2016,No Medal,176.0,98.0,Team A,Coach A,Participated,0
+2063,Emma Singh,Female,36,India,IND,Tennis,Singles,2024,Gold,150.0,78.0,Team B,Coach B,Participated,1
+2064,Neha Garcia,Female,29,France,FRA,Boxing,Heavyweight,2024,Bronze,151.0,47.0,Team C,Coach E,Participated,1
+2065,Ishaan Patel,Male,22,United States,USA,Tennis,Doubles,2012,No Medal,182.0,100.0,Team B,Coach A,Participated,0
+2066,Arjun Singh,Male,36,Germany,GER,Shooting,10M Air Rifle,2020,No Medal,200.0,61.0,Team B,Coach D,Participated,0
+2067,Liam Wilson,Female,22,France,FRA,Boxing,Lightweight,2024,No Medal,197.0,64.0,Team D,Coach A,Participated,0
+2068,Chen Kim,Female,27,Australia,AUS,Cycling,Track Sprint,2020,Silver,171.0,69.0,Team C,Coach C,Participated,1
+2069,Riya Wilson,Female,28,Canada,CAN,Badminton,Singles,2012,Bronze,161.0,46.0,Team D,Coach E,Participated,1
+2070,Lucas Garcia,Male,20,France,FRA,Badminton,Doubles,2020,No Medal,198.0,91.0,Team C,Coach D,Participated,0
+2071,Ava Brown,Male,21,Germany,GER,Tennis,Singles,2016,No Medal,162.0,87.0,Team A,Coach C,Participated,0
+2072,Noah Patel,Male,30,United States,USA,Shooting,25M Pistol,2012,No Medal,181.0,59.0,Team A,Coach B,Participated,0
+2073,Ava Singh,Female,26,France,FRA,Boxing,Heavyweight,2020,No Medal,187.0,50.0,Team C,Coach E,Participated,0
+2074,Olivia Wilson,Male,30,Japan,JPN,Hockey,Men,2024,No Medal,164.0,68.0,Team D,Coach A,Participated,0
+2075,Riya Singh,Female,27,United States,USA,Gymnastics,Vault,2012,No Medal,191.0,64.0,Team C,Coach C,Participated,0
+2076,Arjun Wilson,Male,33,Japan,JPN,Tennis,Singles,2024,No Medal,159.0,78.0,Team B,Coach C,Participated,0
+2077,Olivia Brown,Female,36,Australia,AUS,Gymnastics,Floor,2024,No Medal,170.0,65.0,Team D,Coach B,Participated,0
+2078,Arjun Garcia,Male,29,France,FRA,Badminton,Doubles,2012,Bronze,191.0,76.0,Team A,Coach A,Participated,1
+2079,Yuki Sharma,Male,24,United Kingdom,GBR,Gymnastics,Vault,2016,No Medal,179.0,83.0,Team C,Coach C,Participated,0
+2080,Riya Patel,Male,26,United Kingdom,GBR,Cycling,Track Sprint,2020,No Medal,187.0,69.0,Team A,Coach E,Participated,0
+2081,Sara Lee,Female,31,France,FRA,Gymnastics,Vault,2020,No Medal,169.0,48.0,Team C,Coach A,Participated,0
+2082,Olivia Brown,Female,25,Germany,GER,Badminton,Singles,2024,No Medal,153.0,47.0,Team A,Coach D,Participated,0
+2083,Noah Smith,Male,33,China,CHN,Tennis,Singles,2020,Gold,179.0,87.0,Team D,Coach C,Participated,1
+2084,Sophia Lee,Female,27,Japan,JPN,Tennis,Doubles,2024,No Medal,154.0,83.0,Team C,Coach A,Participated,0
+2085,Vihaan Patel,Female,34,Germany,GER,Shooting,25M Pistol,2024,No Medal,164.0,77.0,Team D,Coach D,Participated,0
+2086,Sophia Patel,Male,31,India,IND,Wrestling,Greco-Roman,2012,No Medal,157.0,58.0,Team D,Coach C,Participated,0
+2087,Chen Wilson,Female,20,Brazil,BRA,Badminton,Doubles,2020,Silver,156.0,89.0,Team B,Coach E,Participated,1
+2088,Sophia Garcia,Female,29,Australia,AUS,Cycling,Track Sprint,2016,Gold,177.0,96.0,Team A,Coach E,Participated,1
+2089,Vihaan Lee,Female,28,France,FRA,Shooting,25M Pistol,2016,No Medal,166.0,88.0,Team B,Coach C,Participated,0
+2090,Kabir Sharma,Male,23,Japan,JPN,Hockey,Men,2020,No Medal,154.0,100.0,Team B,Coach C,Participated,0
+2091,Kabir Lee,Male,19,United States,USA,Cycling,Track Sprint,2012,Bronze,176.0,73.0,Team C,Coach D,Participated,1
+2092,Ava Smith,Male,32,Japan,JPN,Boxing,Heavyweight,2012,No Medal,193.0,86.0,Team D,Coach E,Participated,0
+2093,Yuki Brown,Male,19,Brazil,BRA,Athletics,Marathon,2012,No Medal,197.0,61.0,Team B,Coach B,Participated,0
+2094,Ananya Garcia,Male,18,Canada,CAN,Gymnastics,Floor,2012,No Medal,179.0,50.0,Team A,Coach A,Participated,0
+2095,Yuki Singh,Male,30,Canada,CAN,Cycling,Track Sprint,2012,No Medal,198.0,70.0,Team A,Coach E,Participated,0
+2096,Riya Wilson,Female,35,China,CHN,Shooting,25M Pistol,2012,Silver,158.0,71.0,Team A,Coach B,Participated,1
+2097,Riya Patel,Male,24,Japan,JPN,Athletics,100M,2016,No Medal,175.0,60.0,Team B,Coach B,Participated,0
+2098,Emma Patel,Male,20,China,CHN,Hockey,Women,2020,Silver,160.0,49.0,Team D,Coach B,Participated,1
+2099,Vihaan Garcia,Female,32,Australia,AUS,Wrestling,Freestyle,2024,Bronze,182.0,59.0,Team D,Coach E,Participated,1
+2100,Sophia Smith,Female,32,India,IND,Badminton,Singles,2020,Bronze,169.0,82.0,Team C,Coach A,Participated,1
+2101,Arjun Garcia,Male,36,Japan,JPN,Boxing,Lightweight,2020,No Medal,165.0,67.0,Team B,Coach D,Participated,0
+2102,Yuki Singh,Female,20,United States,USA,Hockey,Men,2024,No Medal,154.0,49.0,Team A,Coach B,Participated,0
+2103,Emma Wilson,Female,29,Canada,CAN,Tennis,Singles,2020,No Medal,161.0,70.0,Team D,Coach C,Participated,0
+2104,Riya Kim,Female,26,Japan,JPN,Boxing,Lightweight,2024,No Medal,150.0,70.0,Team A,Coach C,Participated,0
+2105,David Patel,Male,31,United States,USA,Boxing,Lightweight,2024,No Medal,199.0,53.0,Team A,Coach B,Participated,0
+2106,Chen Garcia,Male,25,Canada,CAN,Athletics,200M,2016,No Medal,172.0,61.0,Team D,Coach D,Participated,0
+2107,Mia Kim,Female,31,Japan,JPN,Shooting,10M Air Rifle,2020,Silver,160.0,79.0,Team A,Coach A,Participated,1
+2108,Sara Sharma,Female,26,United States,USA,Wrestling,Greco-Roman,2020,No Medal,160.0,71.0,Team D,Coach C,Participated,0
+2109,Ishaan Brown,Female,23,Japan,JPN,Shooting,25M Pistol,2012,No Medal,159.0,82.0,Team B,Coach C,Participated,0
+2110,Yuki Brown,Female,35,Japan,JPN,Swimming,100M Freestyle,2024,No Medal,150.0,91.0,Team D,Coach C,Participated,0
+2111,Lucas Singh,Female,21,Japan,JPN,Badminton,Doubles,2024,No Medal,198.0,67.0,Team A,Coach D,Participated,0
+2112,Chen Smith,Female,26,Japan,JPN,Boxing,Lightweight,2020,No Medal,153.0,88.0,Team A,Coach D,Participated,0
+2113,Noah Khan,Female,21,Canada,CAN,Badminton,Singles,2024,No Medal,179.0,61.0,Team C,Coach C,Participated,0
+2114,Sophia Singh,Female,22,China,CHN,Cycling,Road Race,2016,No Medal,175.0,97.0,Team B,Coach B,Participated,0
+2115,Mia Patel,Female,21,United Kingdom,GBR,Cycling,Track Sprint,2024,No Medal,185.0,91.0,Team D,Coach D,Participated,0
+2116,Emma Singh,Female,32,France,FRA,Swimming,100M Freestyle,2020,No Medal,185.0,65.0,Team C,Coach C,Participated,0
+2117,Ishaan Patel,Female,30,Japan,JPN,Wrestling,Greco-Roman,2012,No Medal,173.0,49.0,Team D,Coach B,Participated,0
+2118,Ishaan Smith,Female,28,Japan,JPN,Badminton,Singles,2016,No Medal,176.0,63.0,Team A,Coach E,Participated,0
+2119,Chen Lee,Female,29,United States,USA,Wrestling,Freestyle,2020,No Medal,167.0,49.0,Team B,Coach B,Participated,0
+2120,Kabir Patel,Female,30,Brazil,BRA,Badminton,Singles,2012,No Medal,199.0,63.0,Team D,Coach D,Participated,0
+2121,Ananya Garcia,Male,20,China,CHN,Gymnastics,Floor,2016,No Medal,174.0,80.0,Team B,Coach B,Participated,0
+2122,Ananya Khan,Male,26,Japan,JPN,Badminton,Singles,2016,Silver,168.0,57.0,Team D,Coach E,Participated,1
+2123,Olivia Singh,Female,37,Japan,JPN,Cycling,Track Sprint,2020,No Medal,199.0,73.0,Team A,Coach C,Participated,0
+2124,Sara Khan,Male,27,United Kingdom,GBR,Tennis,Singles,2016,No Medal,150.0,56.0,Team A,Coach E,Participated,0
+2125,Ava Khan,Male,23,Brazil,BRA,Wrestling,Freestyle,2016,Bronze,193.0,80.0,Team C,Coach A,Participated,1
+2126,Chen Sharma,Female,36,Australia,AUS,Shooting,25M Pistol,2012,Bronze,168.0,90.0,Team B,Coach D,Participated,1
+2127,Yuki Smith,Female,24,Germany,GER,Hockey,Women,2016,No Medal,168.0,56.0,Team A,Coach E,Participated,0
+2128,Ava Brown,Female,29,Australia,AUS,Boxing,Heavyweight,2024,No Medal,188.0,74.0,Team C,Coach C,Participated,0
+2129,Olivia Brown,Female,37,France,FRA,Swimming,200M Butterfly,2016,No Medal,158.0,58.0,Team B,Coach E,Participated,0
+2130,Kabir Smith,Female,22,Australia,AUS,Badminton,Doubles,2012,No Medal,158.0,96.0,Team A,Coach C,Participated,0
+2131,Sara Khan,Male,34,Brazil,BRA,Boxing,Heavyweight,2020,Bronze,193.0,68.0,Team B,Coach E,Participated,1
+2132,Lucas Smith,Female,35,France,FRA,Hockey,Men,2020,Bronze,193.0,84.0,Team A,Coach D,Participated,1
+2133,Ava Khan,Male,26,Australia,AUS,Wrestling,Greco-Roman,2016,Gold,176.0,75.0,Team C,Coach A,Participated,1
+2134,Ava Sharma,Male,22,Australia,AUS,Wrestling,Freestyle,2016,No Medal,159.0,78.0,Team A,Coach E,Participated,0
+2135,Kabir Kim,Female,29,Australia,AUS,Wrestling,Greco-Roman,2020,Silver,167.0,47.0,Team D,Coach D,Participated,1
+2136,Chen Garcia,Male,27,Australia,AUS,Boxing,Lightweight,2016,No Medal,169.0,54.0,Team D,Coach B,Participated,0
+2137,Lucas Sharma,Female,28,United States,USA,Cycling,Track Sprint,2016,Bronze,190.0,64.0,Team D,Coach D,Participated,1
+2138,Yuki Garcia,Male,28,China,CHN,Gymnastics,Floor,2012,Bronze,162.0,66.0,Team D,Coach D,Participated,1
+2139,Chen Brown,Male,37,France,FRA,Hockey,Men,2016,No Medal,161.0,90.0,Team A,Coach E,Participated,0
+2140,Kabir Lee,Female,33,France,FRA,Athletics,100M,2016,Gold,199.0,53.0,Team C,Coach A,Participated,1
+2141,Neha Patel,Female,31,Germany,GER,Tennis,Doubles,2024,No Medal,168.0,47.0,Team C,Coach E,Participated,0
+2142,Mia Lee,Female,32,Germany,GER,Shooting,25M Pistol,2020,No Medal,197.0,56.0,Team C,Coach E,Participated,0
+2143,Mia Brown,Male,32,Germany,GER,Badminton,Doubles,2024,Silver,156.0,74.0,Team C,Coach A,Participated,1
+2144,Ava Lee,Male,36,India,IND,Cycling,Road Race,2016,No Medal,187.0,74.0,Team D,Coach B,Participated,0
+2145,Lucas Khan,Female,23,United Kingdom,GBR,Boxing,Lightweight,2012,No Medal,192.0,45.0,Team A,Coach E,Participated,0
+2146,Ava Lee,Male,36,France,FRA,Cycling,Road Race,2024,Bronze,183.0,65.0,Team A,Coach E,Participated,1
+2147,Noah Khan,Male,19,India,IND,Athletics,200M,2024,No Medal,166.0,84.0,Team A,Coach B,Participated,0
+2148,Vihaan Smith,Male,37,Japan,JPN,Tennis,Singles,2020,No Medal,191.0,64.0,Team B,Coach E,Participated,0
+2149,Ava Khan,Male,36,India,IND,Athletics,200M,2024,No Medal,152.0,61.0,Team A,Coach B,Participated,0
+2150,Emma Smith,Male,33,Australia,AUS,Shooting,25M Pistol,2020,No Medal,150.0,80.0,Team D,Coach B,Participated,0
+2151,Vihaan Wilson,Male,30,India,IND,Wrestling,Greco-Roman,2012,Silver,173.0,80.0,Team B,Coach D,Participated,1
+2152,Chen Khan,Male,34,Brazil,BRA,Tennis,Doubles,2012,Silver,176.0,100.0,Team D,Coach B,Participated,1
+2153,Lucas Smith,Female,27,France,FRA,Hockey,Men,2012,No Medal,180.0,79.0,Team C,Coach A,Participated,0
+2154,Neha Brown,Male,37,Canada,CAN,Gymnastics,Vault,2024,No Medal,163.0,98.0,Team B,Coach E,Participated,0
+2155,Sophia Smith,Female,35,Australia,AUS,Swimming,200M Butterfly,2016,No Medal,199.0,60.0,Team C,Coach C,Participated,0
+2156,Noah Sharma,Male,19,France,FRA,Swimming,100M Freestyle,2020,No Medal,170.0,80.0,Team A,Coach E,Participated,0
+2157,Chen Brown,Male,34,China,CHN,Gymnastics,Vault,2024,Gold,190.0,82.0,Team B,Coach B,Participated,1
+2158,David Khan,Male,29,Germany,GER,Badminton,Singles,2020,Bronze,152.0,64.0,Team D,Coach D,Participated,1
+2159,Aarav Kim,Female,34,France,FRA,Tennis,Doubles,2024,Bronze,190.0,90.0,Team D,Coach B,Participated,1
+2160,Chen Lee,Female,19,Brazil,BRA,Hockey,Men,2016,No Medal,188.0,90.0,Team D,Coach A,Participated,0
+2161,Noah Smith,Female,35,India,IND,Badminton,Doubles,2024,No Medal,178.0,66.0,Team D,Coach E,Participated,0
+2162,Olivia Singh,Male,23,Germany,GER,Swimming,200M Butterfly,2016,No Medal,162.0,73.0,Team B,Coach E,Participated,0
+2163,Chen Singh,Male,37,France,FRA,Boxing,Heavyweight,2020,Silver,173.0,79.0,Team A,Coach E,Participated,1
+2164,Liam Wilson,Male,34,Brazil,BRA,Athletics,200M,2012,No Medal,196.0,78.0,Team C,Coach C,Participated,0
+2165,Sophia Singh,Female,34,United States,USA,Athletics,Marathon,2012,No Medal,163.0,86.0,Team A,Coach C,Participated,0
+2166,Lucas Smith,Female,34,Brazil,BRA,Swimming,200M Butterfly,2024,No Medal,159.0,85.0,Team A,Coach E,Participated,0
+2167,Neha Garcia,Male,31,Canada,CAN,Boxing,Heavyweight,2024,No Medal,185.0,75.0,Team B,Coach A,Participated,0
+2168,Mia Wilson,Male,33,Brazil,BRA,Gymnastics,Floor,2016,No Medal,189.0,96.0,Team D,Coach C,Participated,0
+2169,Arjun Smith,Male,35,Germany,GER,Athletics,Marathon,2012,No Medal,189.0,54.0,Team B,Coach D,Participated,0
+2170,Ava Sharma,Male,27,United Kingdom,GBR,Gymnastics,Floor,2012,No Medal,164.0,100.0,Team B,Coach B,Participated,0
+2171,Chen Kim,Male,20,United States,USA,Wrestling,Freestyle,2020,No Medal,152.0,65.0,Team C,Coach D,Participated,0
+2172,Chen Patel,Female,27,United Kingdom,GBR,Hockey,Women,2012,Silver,199.0,78.0,Team C,Coach D,Participated,1
+2173,Ishaan Smith,Female,29,France,FRA,Tennis,Singles,2020,No Medal,155.0,85.0,Team C,Coach D,Participated,0
+2174,Yuki Sharma,Female,20,Brazil,BRA,Gymnastics,Floor,2020,No Medal,167.0,67.0,Team D,Coach D,Participated,0
+2175,Aarav Brown,Male,36,United Kingdom,GBR,Cycling,Track Sprint,2012,No Medal,194.0,94.0,Team D,Coach C,Participated,0
+2176,Lucas Khan,Male,37,Brazil,BRA,Hockey,Women,2016,Bronze,162.0,84.0,Team A,Coach C,Participated,1
+2177,Liam Wilson,Male,36,France,FRA,Tennis,Singles,2024,No Medal,162.0,55.0,Team D,Coach B,Participated,0
+2178,Riya Lee,Male,34,France,FRA,Badminton,Doubles,2024,No Medal,174.0,62.0,Team C,Coach C,Participated,0
+2179,Mia Brown,Male,27,Canada,CAN,Badminton,Singles,2016,Silver,168.0,53.0,Team D,Coach C,Participated,1
+2180,Aarav Lee,Female,18,Australia,AUS,Boxing,Lightweight,2024,No Medal,191.0,96.0,Team D,Coach B,Participated,0
+2181,David Wilson,Male,18,United Kingdom,GBR,Shooting,25M Pistol,2024,No Medal,166.0,90.0,Team B,Coach D,Participated,0
+2182,Neha Kim,Female,31,Japan,JPN,Badminton,Doubles,2024,Silver,161.0,72.0,Team C,Coach B,Participated,1
+2183,Mia Brown,Male,36,France,FRA,Wrestling,Greco-Roman,2020,No Medal,187.0,56.0,Team B,Coach E,Participated,0
+2184,Emma Singh,Male,31,China,CHN,Swimming,200M Butterfly,2020,Silver,197.0,62.0,Team A,Coach D,Participated,1
+2185,Mia Khan,Female,35,United Kingdom,GBR,Hockey,Men,2024,Bronze,170.0,61.0,Team D,Coach D,Participated,1
+2186,Liam Patel,Male,26,China,CHN,Boxing,Lightweight,2012,No Medal,150.0,74.0,Team A,Coach A,Participated,0
+2187,Arjun Smith,Female,23,United States,USA,Boxing,Lightweight,2012,No Medal,157.0,58.0,Team D,Coach C,Participated,0
+2188,Arjun Garcia,Male,27,Japan,JPN,Wrestling,Freestyle,2024,No Medal,185.0,91.0,Team B,Coach D,Participated,0
+2189,Arjun Lee,Male,32,Brazil,BRA,Wrestling,Greco-Roman,2020,Silver,173.0,72.0,Team C,Coach C,Participated,1
+2190,Sara Khan,Male,27,Australia,AUS,Badminton,Singles,2020,No Medal,199.0,75.0,Team B,Coach C,Participated,0
+2191,Sophia Garcia,Female,22,China,CHN,Tennis,Doubles,2020,Silver,158.0,94.0,Team D,Coach D,Participated,1
+2192,Sophia Garcia,Male,21,United States,USA,Gymnastics,Vault,2024,No Medal,169.0,47.0,Team B,Coach A,Participated,0
+2193,Riya Wilson,Male,28,France,FRA,Swimming,100M Freestyle,2016,No Medal,166.0,90.0,Team D,Coach A,Participated,0
+2194,David Khan,Male,19,United Kingdom,GBR,Badminton,Singles,2016,No Medal,157.0,73.0,Team B,Coach B,Participated,0
+2195,Ava Garcia,Female,35,Canada,CAN,Wrestling,Greco-Roman,2024,Bronze,195.0,49.0,Team D,Coach B,Participated,1
+2196,Ava Singh,Female,36,Germany,GER,Cycling,Track Sprint,2024,Gold,159.0,73.0,Team C,Coach C,Participated,1
+2197,Ananya Brown,Male,31,Australia,AUS,Hockey,Women,2020,No Medal,153.0,87.0,Team C,Coach A,Participated,0
+2198,Yuki Kim,Female,22,Germany,GER,Wrestling,Greco-Roman,2016,No Medal,171.0,91.0,Team D,Coach E,Participated,0
+2199,Neha Brown,Male,31,Canada,CAN,Badminton,Doubles,2016,No Medal,151.0,97.0,Team B,Coach B,Participated,0
+2200,Kabir Singh,Female,30,China,CHN,Badminton,Doubles,2020,No Medal,164.0,82.0,Team D,Coach A,Participated,0
+2201,Neha Sharma,Male,28,Germany,GER,Gymnastics,Floor,2020,No Medal,194.0,57.0,Team A,Coach A,Participated,0
+2202,Ishaan Kim,Female,25,China,CHN,Cycling,Track Sprint,2020,No Medal,172.0,84.0,Team A,Coach C,Participated,0
+2203,Aarav Wilson,Male,19,Canada,CAN,Badminton,Singles,2012,No Medal,156.0,90.0,Team D,Coach A,Participated,0
+2204,Aarav Wilson,Male,30,Japan,JPN,Swimming,100M Freestyle,2020,Bronze,196.0,72.0,Team A,Coach D,Participated,1
+2205,David Smith,Male,20,Canada,CAN,Gymnastics,Vault,2016,No Medal,189.0,67.0,Team C,Coach A,Participated,0
+2206,Yuki Wilson,Female,36,United States,USA,Swimming,100M Freestyle,2020,No Medal,195.0,85.0,Team A,Coach D,Participated,0
+2207,Arjun Khan,Female,26,Germany,GER,Hockey,Men,2016,Gold,159.0,94.0,Team A,Coach D,Participated,1
+2208,Chen Garcia,Male,19,Brazil,BRA,Hockey,Men,2024,No Medal,171.0,84.0,Team A,Coach E,Participated,0
+2209,Arjun Sharma,Male,31,Japan,JPN,Athletics,100M,2020,No Medal,173.0,93.0,Team D,Coach D,Participated,0
+2210,Olivia Smith,Male,32,United Kingdom,GBR,Swimming,100M Freestyle,2012,No Medal,157.0,93.0,Team B,Coach C,Participated,0
+2211,Lucas Kim,Female,28,United Kingdom,GBR,Boxing,Lightweight,2016,Silver,183.0,95.0,Team A,Coach B,Participated,1
+2212,Vihaan Kim,Female,25,Germany,GER,Hockey,Men,2020,Bronze,168.0,89.0,Team D,Coach C,Participated,1
+2213,Chen Sharma,Female,19,Australia,AUS,Shooting,25M Pistol,2024,No Medal,163.0,95.0,Team C,Coach E,Participated,0
+2214,Liam Brown,Male,28,Australia,AUS,Badminton,Singles,2024,Bronze,172.0,68.0,Team B,Coach E,Participated,1
+2215,Kabir Smith,Female,30,Australia,AUS,Shooting,25M Pistol,2012,Silver,168.0,95.0,Team A,Coach D,Participated,1
+2216,Lucas Smith,Male,31,United Kingdom,GBR,Tennis,Singles,2020,Bronze,190.0,78.0,Team A,Coach A,Participated,1
+2217,Sara Wilson,Male,26,Germany,GER,Tennis,Doubles,2024,Bronze,154.0,71.0,Team B,Coach D,Participated,1
+2218,David Sharma,Female,28,Brazil,BRA,Athletics,Marathon,2024,No Medal,180.0,87.0,Team A,Coach C,Participated,0
+2219,Lucas Singh,Male,27,United Kingdom,GBR,Hockey,Women,2016,Gold,164.0,79.0,Team D,Coach B,Participated,1
+2220,Ishaan Brown,Female,24,Australia,AUS,Hockey,Women,2020,No Medal,176.0,50.0,Team A,Coach C,Participated,0
+2221,Kabir Patel,Male,34,Australia,AUS,Swimming,100M Freestyle,2024,Bronze,199.0,79.0,Team B,Coach C,Participated,1
+2222,Chen Brown,Female,21,Germany,GER,Hockey,Women,2016,No Medal,170.0,84.0,Team A,Coach E,Participated,0
+2223,Ava Garcia,Female,18,France,FRA,Gymnastics,Floor,2024,No Medal,170.0,52.0,Team D,Coach C,Participated,0
+2224,Mia Kim,Male,22,Germany,GER,Boxing,Lightweight,2012,No Medal,184.0,72.0,Team A,Coach A,Participated,0
+2225,Chen Garcia,Female,28,United Kingdom,GBR,Athletics,200M,2016,No Medal,187.0,54.0,Team D,Coach A,Participated,0
+2226,Neha Sharma,Male,34,France,FRA,Tennis,Doubles,2024,No Medal,193.0,82.0,Team A,Coach B,Participated,0
+2227,Sara Kim,Male,25,Brazil,BRA,Badminton,Doubles,2020,Gold,179.0,71.0,Team D,Coach E,Participated,1
+2228,Lucas Wilson,Male,37,France,FRA,Gymnastics,Floor,2024,No Medal,164.0,88.0,Team A,Coach D,Participated,0
+2229,Ananya Sharma,Male,18,France,FRA,Swimming,100M Freestyle,2020,Gold,167.0,67.0,Team B,Coach E,Participated,1
+2230,Ava Singh,Female,24,Australia,AUS,Gymnastics,Floor,2012,No Medal,168.0,73.0,Team D,Coach B,Participated,0
+2231,Aarav Lee,Male,23,Australia,AUS,Cycling,Road Race,2012,No Medal,176.0,61.0,Team C,Coach D,Participated,0
+2232,Liam Singh,Male,37,United States,USA,Shooting,10M Air Rifle,2012,Bronze,175.0,60.0,Team B,Coach D,Participated,1
+2233,David Patel,Female,30,Germany,GER,Shooting,10M Air Rifle,2016,No Medal,169.0,50.0,Team A,Coach C,Participated,0
+2234,Arjun Singh,Male,34,United States,USA,Swimming,200M Butterfly,2024,No Medal,194.0,79.0,Team B,Coach E,Participated,0
+2235,Ava Lee,Female,19,Germany,GER,Shooting,10M Air Rifle,2024,Silver,176.0,59.0,Team C,Coach A,Participated,1
+2236,Kabir Garcia,Male,22,India,IND,Boxing,Lightweight,2024,No Medal,174.0,46.0,Team A,Coach E,Participated,0
+2237,Ishaan Patel,Female,35,United Kingdom,GBR,Athletics,Marathon,2016,No Medal,193.0,63.0,Team D,Coach D,Participated,0
+2238,Olivia Lee,Female,21,United States,USA,Athletics,Marathon,2024,No Medal,162.0,80.0,Team D,Coach E,Participated,0
+2239,Yuki Smith,Female,35,Germany,GER,Wrestling,Freestyle,2012,Gold,192.0,87.0,Team D,Coach C,Participated,1
+2240,Sara Khan,Female,27,France,FRA,Swimming,200M Butterfly,2016,No Medal,181.0,88.0,Team A,Coach B,Participated,0
+2241,Ava Lee,Female,28,China,CHN,Boxing,Heavyweight,2012,Silver,195.0,82.0,Team B,Coach E,Participated,1
+2242,Sara Lee,Female,22,Germany,GER,Cycling,Road Race,2020,No Medal,194.0,61.0,Team A,Coach D,Participated,0
+2243,Arjun Wilson,Male,28,France,FRA,Athletics,Marathon,2020,No Medal,155.0,62.0,Team C,Coach E,Participated,0
+2244,Emma Patel,Male,27,China,CHN,Gymnastics,Floor,2024,Silver,172.0,51.0,Team C,Coach C,Participated,1
+2245,Sophia Singh,Male,28,China,CHN,Cycling,Road Race,2012,No Medal,157.0,97.0,Team D,Coach C,Participated,0
+2246,Riya Smith,Female,37,Canada,CAN,Swimming,200M Butterfly,2012,No Medal,198.0,61.0,Team D,Coach B,Participated,0
+2247,Sara Singh,Male,25,China,CHN,Hockey,Women,2024,No Medal,152.0,56.0,Team A,Coach B,Participated,0
+2248,Liam Khan,Male,34,Australia,AUS,Boxing,Heavyweight,2024,No Medal,197.0,63.0,Team A,Coach C,Participated,0
+2249,Kabir Smith,Male,33,France,FRA,Boxing,Heavyweight,2016,Gold,170.0,66.0,Team C,Coach A,Participated,1
+2250,Yuki Wilson,Female,23,Japan,JPN,Athletics,Marathon,2020,No Medal,185.0,97.0,Team B,Coach E,Participated,0
+2251,Ava Wilson,Female,31,United States,USA,Cycling,Road Race,2012,Gold,150.0,54.0,Team B,Coach A,Participated,1
+2252,Vihaan Kim,Male,32,India,IND,Athletics,100M,2020,No Medal,190.0,57.0,Team C,Coach C,Participated,0
+2253,Noah Khan,Female,31,Canada,CAN,Wrestling,Greco-Roman,2012,No Medal,187.0,71.0,Team D,Coach A,Participated,0
+2254,Aarav Khan,Female,23,Brazil,BRA,Badminton,Doubles,2020,Bronze,168.0,97.0,Team A,Coach D,Participated,1
+2255,Ishaan Singh,Male,23,Australia,AUS,Cycling,Track Sprint,2012,No Medal,152.0,82.0,Team D,Coach E,Participated,0
+2256,Emma Patel,Female,36,United Kingdom,GBR,Athletics,100M,2016,Silver,191.0,80.0,Team C,Coach D,Participated,1
+2257,Arjun Brown,Male,34,Canada,CAN,Gymnastics,Floor,2020,No Medal,198.0,63.0,Team A,Coach E,Participated,0
+2258,Aarav Smith,Male,29,Germany,GER,Tennis,Singles,2020,No Medal,189.0,65.0,Team B,Coach E,Participated,0
+2259,Neha Sharma,Male,26,Canada,CAN,Hockey,Men,2016,Silver,193.0,52.0,Team C,Coach C,Participated,1
+2260,Chen Sharma,Female,36,Brazil,BRA,Athletics,200M,2012,No Medal,171.0,55.0,Team A,Coach D,Participated,0
+2261,Mia Garcia,Male,34,Brazil,BRA,Cycling,Track Sprint,2020,No Medal,198.0,66.0,Team D,Coach B,Participated,0
+2262,Neha Sharma,Female,30,United States,USA,Athletics,200M,2012,No Medal,173.0,52.0,Team A,Coach B,Participated,0
+2263,David Sharma,Male,20,United States,USA,Tennis,Singles,2012,No Medal,156.0,60.0,Team A,Coach D,Participated,0
+2264,Ava Sharma,Female,36,France,FRA,Gymnastics,Floor,2024,No Medal,178.0,62.0,Team D,Coach B,Participated,0
+2265,Riya Singh,Male,23,United States,USA,Athletics,100M,2016,Gold,186.0,80.0,Team A,Coach A,Participated,1
+2266,Emma Garcia,Male,25,Germany,GER,Hockey,Women,2012,No Medal,195.0,71.0,Team B,Coach D,Participated,0
+2267,Neha Brown,Female,27,India,IND,Cycling,Road Race,2024,No Medal,196.0,56.0,Team D,Coach D,Participated,0
+2268,Sophia Garcia,Male,23,Japan,JPN,Boxing,Lightweight,2024,No Medal,176.0,82.0,Team D,Coach A,Participated,0
+2269,Lucas Kim,Female,31,United Kingdom,GBR,Wrestling,Freestyle,2024,No Medal,184.0,89.0,Team A,Coach A,Participated,0
+2270,Neha Kim,Male,34,France,FRA,Hockey,Men,2012,No Medal,174.0,96.0,Team D,Coach E,Participated,0
+2271,Ishaan Singh,Male,24,France,FRA,Wrestling,Greco-Roman,2024,Bronze,199.0,46.0,Team C,Coach A,Participated,1
+2272,Olivia Lee,Male,33,France,FRA,Athletics,Marathon,2020,No Medal,183.0,81.0,Team A,Coach D,Participated,0
+2273,Ava Brown,Male,22,Brazil,BRA,Badminton,Doubles,2024,Bronze,152.0,88.0,Team D,Coach B,Participated,1
+2274,Liam Singh,Female,31,Japan,JPN,Cycling,Track Sprint,2016,No Medal,172.0,54.0,Team A,Coach B,Participated,0
+2275,Vihaan Patel,Male,35,China,CHN,Gymnastics,Floor,2016,Silver,176.0,50.0,Team D,Coach E,Participated,1
+2276,Vihaan Khan,Male,25,Germany,GER,Swimming,100M Freestyle,2024,No Medal,172.0,60.0,Team B,Coach A,Participated,0
+2277,Ava Patel,Male,33,Australia,AUS,Gymnastics,Vault,2016,No Medal,176.0,65.0,Team B,Coach A,Participated,0
+2278,Kabir Kim,Male,37,United Kingdom,GBR,Tennis,Doubles,2020,No Medal,159.0,64.0,Team B,Coach B,Participated,0
+2279,Ananya Brown,Male,20,France,FRA,Swimming,200M Butterfly,2024,No Medal,200.0,88.0,Team A,Coach E,Participated,0
+2280,Ishaan Lee,Female,32,France,FRA,Hockey,Men,2016,No Medal,189.0,57.0,Team D,Coach B,Participated,0
+2281,Ava Singh,Male,18,Canada,CAN,Wrestling,Freestyle,2024,No Medal,174.0,53.0,Team A,Coach C,Participated,0
+2282,Chen Smith,Male,36,Canada,CAN,Tennis,Singles,2012,No Medal,170.0,46.0,Team C,Coach E,Participated,0
+2283,Riya Brown,Female,31,France,FRA,Hockey,Women,2012,No Medal,160.0,56.0,Team B,Coach B,Participated,0
+2284,Kabir Singh,Female,21,United Kingdom,GBR,Gymnastics,Vault,2016,No Medal,150.0,48.0,Team C,Coach C,Participated,0
+2285,Riya Sharma,Female,20,United States,USA,Athletics,Marathon,2012,No Medal,171.0,49.0,Team C,Coach E,Participated,0
+2286,Lucas Kim,Female,27,Japan,JPN,Hockey,Men,2012,No Medal,189.0,67.0,Team D,Coach B,Participated,0
+2287,Noah Garcia,Male,22,Brazil,BRA,Hockey,Men,2012,No Medal,185.0,72.0,Team D,Coach D,Participated,0
+2288,Kabir Sharma,Male,37,Germany,GER,Badminton,Doubles,2020,Silver,182.0,82.0,Team B,Coach C,Participated,1
+2289,Emma Lee,Male,18,Australia,AUS,Athletics,Marathon,2024,No Medal,154.0,57.0,Team A,Coach A,Participated,0
+2290,Ananya Smith,Female,28,Germany,GER,Wrestling,Freestyle,2012,No Medal,185.0,65.0,Team D,Coach B,Participated,0
+2291,Yuki Singh,Male,32,China,CHN,Hockey,Women,2016,No Medal,176.0,91.0,Team B,Coach E,Participated,0
+2292,Yuki Brown,Male,37,Japan,JPN,Swimming,100M Freestyle,2020,Silver,199.0,57.0,Team A,Coach A,Participated,1
+2293,Ananya Kim,Male,20,United Kingdom,GBR,Gymnastics,Floor,2012,No Medal,156.0,48.0,Team D,Coach A,Participated,0
+2294,Riya Brown,Female,26,Canada,CAN,Shooting,25M Pistol,2020,No Medal,180.0,84.0,Team D,Coach C,Participated,0
+2295,Vihaan Khan,Male,33,Brazil,BRA,Boxing,Lightweight,2016,No Medal,179.0,92.0,Team A,Coach D,Participated,0
+2296,Olivia Brown,Female,30,United Kingdom,GBR,Shooting,10M Air Rifle,2012,Silver,198.0,89.0,Team A,Coach D,Participated,1
+2297,Vihaan Sharma,Female,20,Japan,JPN,Gymnastics,Floor,2016,No Medal,180.0,82.0,Team A,Coach E,Participated,0
+2298,Ishaan Brown,Female,26,Brazil,BRA,Boxing,Lightweight,2024,Gold,186.0,91.0,Team A,Coach E,Participated,1
+2299,Mia Lee,Male,32,Canada,CAN,Athletics,Marathon,2020,No Medal,177.0,63.0,Team B,Coach E,Participated,0
+2300,Yuki Wilson,Male,34,Australia,AUS,Hockey,Men,2024,No Medal,167.0,91.0,Team C,Coach E,Participated,0
+2301,Kabir Lee,Male,33,China,CHN,Cycling,Track Sprint,2016,No Medal,151.0,46.0,Team B,Coach B,Participated,0
+2302,Aarav Patel,Female,34,Germany,GER,Athletics,200M,2012,No Medal,170.0,65.0,Team C,Coach C,Participated,0
+2303,Emma Garcia,Female,25,United States,USA,Cycling,Track Sprint,2016,No Medal,152.0,85.0,Team C,Coach B,Participated,0
+2304,Olivia Singh,Male,28,Germany,GER,Cycling,Track Sprint,2012,No Medal,196.0,74.0,Team A,Coach C,Participated,0
+2305,Kabir Sharma,Female,29,India,IND,Tennis,Doubles,2020,Gold,180.0,66.0,Team C,Coach E,Participated,1
+2306,Neha Sharma,Male,23,France,FRA,Hockey,Women,2016,No Medal,177.0,51.0,Team D,Coach C,Participated,0
+2307,Noah Khan,Female,23,Australia,AUS,Boxing,Heavyweight,2024,No Medal,183.0,52.0,Team A,Coach A,Participated,0
+2308,Ishaan Khan,Male,22,United States,USA,Hockey,Women,2024,No Medal,157.0,94.0,Team C,Coach C,Participated,0
+2309,Vihaan Khan,Female,36,India,IND,Cycling,Track Sprint,2020,No Medal,152.0,89.0,Team A,Coach B,Participated,0
+2310,Kabir Kim,Female,37,India,IND,Shooting,25M Pistol,2024,No Medal,156.0,97.0,Team D,Coach B,Participated,0
+2311,Emma Smith,Male,29,United States,USA,Gymnastics,Floor,2012,No Medal,185.0,75.0,Team D,Coach A,Participated,0
+2312,Sophia Brown,Male,36,India,IND,Cycling,Track Sprint,2016,No Medal,152.0,61.0,Team B,Coach E,Participated,0
+2313,Olivia Brown,Female,19,United States,USA,Shooting,10M Air Rifle,2024,Gold,185.0,46.0,Team D,Coach D,Participated,1
+2314,Ananya Singh,Male,36,China,CHN,Tennis,Doubles,2012,No Medal,187.0,48.0,Team A,Coach B,Participated,0
+2315,Vihaan Khan,Male,27,Brazil,BRA,Shooting,25M Pistol,2020,No Medal,181.0,65.0,Team A,Coach A,Participated,0
+2316,Vihaan Kim,Female,27,Australia,AUS,Athletics,200M,2012,No Medal,154.0,77.0,Team C,Coach E,Participated,0
+2317,Ananya Khan,Male,19,China,CHN,Swimming,200M Butterfly,2012,No Medal,188.0,65.0,Team C,Coach D,Participated,0
+2318,David Brown,Male,24,Canada,CAN,Tennis,Singles,2024,No Medal,187.0,59.0,Team D,Coach A,Participated,0
+2319,Sophia Smith,Male,37,Canada,CAN,Badminton,Singles,2016,No Medal,192.0,70.0,Team A,Coach D,Participated,0
+2320,Riya Wilson,Male,31,Japan,JPN,Shooting,25M Pistol,2024,Gold,151.0,61.0,Team D,Coach E,Participated,1
+2321,Neha Wilson,Female,35,Canada,CAN,Cycling,Road Race,2016,No Medal,164.0,50.0,Team B,Coach B,Participated,0
+2322,Sophia Singh,Female,19,Australia,AUS,Athletics,Marathon,2020,No Medal,165.0,64.0,Team C,Coach C,Participated,0
+2323,Neha Brown,Female,23,United States,USA,Badminton,Singles,2016,No Medal,179.0,89.0,Team C,Coach C,Participated,0
+2324,Vihaan Kim,Male,25,Brazil,BRA,Hockey,Men,2024,No Medal,176.0,73.0,Team B,Coach D,Participated,0
+2325,Lucas Lee,Female,31,Brazil,BRA,Tennis,Doubles,2016,Silver,199.0,71.0,Team B,Coach D,Participated,1
+2326,Mia Sharma,Male,29,Australia,AUS,Cycling,Track Sprint,2012,No Medal,150.0,80.0,Team A,Coach A,Participated,0
+2327,Olivia Sharma,Male,29,India,IND,Hockey,Men,2012,No Medal,167.0,93.0,Team D,Coach E,Participated,0
+2328,David Khan,Male,22,India,IND,Athletics,200M,2024,No Medal,185.0,97.0,Team C,Coach C,Participated,0
+2329,Vihaan Smith,Female,26,Brazil,BRA,Boxing,Lightweight,2012,No Medal,199.0,91.0,Team B,Coach E,Participated,0
+2330,Liam Wilson,Female,30,China,CHN,Wrestling,Freestyle,2020,No Medal,195.0,79.0,Team C,Coach C,Participated,0
+2331,Vihaan Garcia,Male,28,Brazil,BRA,Swimming,100M Freestyle,2016,No Medal,175.0,89.0,Team B,Coach C,Participated,0
+2332,Emma Patel,Male,30,India,IND,Boxing,Heavyweight,2012,No Medal,181.0,49.0,Team A,Coach D,Participated,0
+2333,Neha Khan,Female,32,Brazil,BRA,Cycling,Track Sprint,2012,No Medal,183.0,63.0,Team B,Coach A,Participated,0
+2334,Sara Garcia,Male,19,France,FRA,Cycling,Road Race,2016,Gold,183.0,51.0,Team A,Coach A,Participated,1
+2335,Ananya Kim,Male,31,China,CHN,Wrestling,Freestyle,2016,Silver,170.0,68.0,Team A,Coach A,Participated,1
+2336,Yuki Singh,Female,29,Japan,JPN,Athletics,Marathon,2016,No Medal,189.0,89.0,Team D,Coach C,Participated,0
+2337,Olivia Khan,Male,36,India,IND,Tennis,Singles,2024,No Medal,193.0,60.0,Team A,Coach C,Participated,0
+2338,Ishaan Patel,Female,33,India,IND,Gymnastics,Floor,2024,No Medal,153.0,56.0,Team A,Coach B,Participated,0
+2339,Riya Singh,Male,19,Germany,GER,Hockey,Men,2012,No Medal,191.0,91.0,Team C,Coach D,Participated,0
+2340,Riya Lee,Female,30,United Kingdom,GBR,Tennis,Singles,2020,Silver,157.0,89.0,Team A,Coach A,Participated,1
+2341,Yuki Garcia,Male,27,China,CHN,Boxing,Lightweight,2016,Gold,180.0,86.0,Team C,Coach A,Participated,1
+2342,Aarav Patel,Male,32,Germany,GER,Badminton,Singles,2012,No Medal,200.0,82.0,Team D,Coach D,Participated,0
+2343,Sara Garcia,Male,29,Germany,GER,Shooting,25M Pistol,2020,No Medal,194.0,88.0,Team A,Coach A,Participated,0
+2344,Aarav Sharma,Male,36,Japan,JPN,Gymnastics,Vault,2012,Bronze,200.0,51.0,Team C,Coach D,Participated,1
+2345,Sophia Lee,Female,19,Canada,CAN,Tennis,Doubles,2024,Bronze,150.0,100.0,Team D,Coach B,Participated,1
+2346,Vihaan Singh,Male,23,Japan,JPN,Badminton,Singles,2024,No Medal,180.0,47.0,Team C,Coach A,Participated,0
+2347,Arjun Patel,Female,31,Canada,CAN,Wrestling,Freestyle,2012,No Medal,168.0,69.0,Team D,Coach B,Participated,0
+2348,Ishaan Sharma,Female,37,China,CHN,Shooting,10M Air Rifle,2020,No Medal,177.0,62.0,Team B,Coach D,Participated,0
+2349,Emma Lee,Female,26,China,CHN,Hockey,Men,2020,Silver,192.0,65.0,Team A,Coach B,Participated,1
+2350,Kabir Patel,Female,33,India,IND,Shooting,10M Air Rifle,2020,No Medal,151.0,51.0,Team D,Coach B,Participated,0
+2351,Noah Khan,Female,20,Australia,AUS,Gymnastics,Floor,2024,No Medal,181.0,98.0,Team D,Coach A,Participated,0
+2352,Chen Wilson,Female,29,India,IND,Athletics,Marathon,2012,Silver,195.0,72.0,Team C,Coach D,Participated,1
+2353,Arjun Kim,Female,26,Brazil,BRA,Athletics,Marathon,2016,Silver,184.0,45.0,Team D,Coach A,Participated,1
+2354,Lucas Wilson,Female,25,Australia,AUS,Cycling,Track Sprint,2012,Bronze,198.0,84.0,Team B,Coach D,Participated,1
+2355,Olivia Garcia,Male,36,India,IND,Shooting,25M Pistol,2012,Bronze,150.0,61.0,Team D,Coach E,Participated,1
+2356,Ananya Brown,Male,30,India,IND,Tennis,Singles,2020,No Medal,167.0,52.0,Team B,Coach E,Participated,0
+2357,Chen Sharma,Male,22,Australia,AUS,Badminton,Doubles,2020,Silver,180.0,84.0,Team D,Coach A,Participated,1
+2358,Ananya Khan,Female,21,Germany,GER,Cycling,Track Sprint,2024,Silver,199.0,84.0,Team A,Coach A,Participated,1
+2359,Ava Garcia,Female,35,Canada,CAN,Hockey,Women,2016,No Medal,192.0,80.0,Team C,Coach A,Participated,0
+2360,Arjun Garcia,Female,31,United States,USA,Boxing,Lightweight,2024,No Medal,190.0,80.0,Team B,Coach A,Participated,0
+2361,Chen Sharma,Female,29,Brazil,BRA,Swimming,100M Freestyle,2024,Bronze,176.0,46.0,Team C,Coach C,Participated,1
+2362,Arjun Wilson,Female,34,France,FRA,Cycling,Track Sprint,2016,No Medal,178.0,48.0,Team B,Coach B,Participated,0
+2363,Ishaan Kim,Female,36,Japan,JPN,Swimming,100M Freestyle,2024,Gold,185.0,91.0,Team B,Coach D,Participated,1
+2364,Mia Wilson,Female,25,Brazil,BRA,Shooting,10M Air Rifle,2012,Gold,176.0,96.0,Team C,Coach B,Participated,1
+2365,Ava Sharma,Male,19,India,IND,Athletics,200M,2024,No Medal,168.0,73.0,Team B,Coach B,Participated,0
+2366,Lucas Wilson,Female,34,India,IND,Badminton,Doubles,2024,No Medal,178.0,51.0,Team A,Coach E,Participated,0
+2367,Vihaan Singh,Female,29,United States,USA,Boxing,Heavyweight,2016,Gold,159.0,91.0,Team D,Coach B,Participated,1
+2368,Yuki Lee,Female,37,Germany,GER,Wrestling,Freestyle,2016,No Medal,160.0,71.0,Team D,Coach A,Participated,0
+2369,Ishaan Kim,Female,21,Australia,AUS,Cycling,Track Sprint,2016,No Medal,162.0,98.0,Team A,Coach C,Participated,0
+2370,Liam Patel,Female,30,United Kingdom,GBR,Tennis,Singles,2020,Bronze,189.0,45.0,Team D,Coach B,Participated,1
+2371,Riya Khan,Female,32,Canada,CAN,Boxing,Heavyweight,2016,Bronze,186.0,71.0,Team C,Coach D,Participated,1
+2372,Yuki Kim,Female,29,China,CHN,Athletics,200M,2020,Silver,159.0,56.0,Team A,Coach E,Participated,1
+2373,Lucas Wilson,Female,26,Brazil,BRA,Shooting,25M Pistol,2020,Silver,156.0,45.0,Team D,Coach D,Participated,1
+2374,Aarav Wilson,Female,25,Canada,CAN,Swimming,100M Freestyle,2024,No Medal,176.0,71.0,Team B,Coach E,Participated,0
+2375,Sophia Khan,Female,36,United Kingdom,GBR,Shooting,25M Pistol,2012,Bronze,165.0,54.0,Team C,Coach A,Participated,1
+2376,Ava Kim,Male,23,France,FRA,Cycling,Track Sprint,2020,No Medal,181.0,71.0,Team C,Coach A,Participated,0
+2377,Neha Kim,Female,31,United Kingdom,GBR,Hockey,Women,2012,Bronze,176.0,94.0,Team C,Coach E,Participated,1
+2378,Ishaan Singh,Female,33,Germany,GER,Athletics,Marathon,2012,No Medal,194.0,64.0,Team C,Coach E,Participated,0
+2379,Chen Kim,Male,35,Australia,AUS,Gymnastics,Vault,2016,No Medal,189.0,61.0,Team C,Coach E,Participated,0
+2380,Neha Smith,Female,20,Brazil,BRA,Badminton,Doubles,2020,No Medal,191.0,69.0,Team B,Coach B,Participated,0
+2381,Olivia Smith,Male,30,Japan,JPN,Swimming,200M Butterfly,2020,No Medal,156.0,71.0,Team C,Coach B,Participated,0
+2382,Mia Brown,Male,27,France,FRA,Gymnastics,Vault,2016,No Medal,187.0,96.0,Team B,Coach E,Participated,0
+2383,Vihaan Lee,Female,27,Canada,CAN,Cycling,Track Sprint,2020,No Medal,174.0,68.0,Team B,Coach E,Participated,0
+2384,Arjun Garcia,Female,34,Japan,JPN,Swimming,200M Butterfly,2024,No Medal,192.0,71.0,Team C,Coach B,Participated,0
+2385,Liam Singh,Female,34,France,FRA,Hockey,Men,2016,No Medal,191.0,62.0,Team D,Coach E,Participated,0
+2386,Mia Kim,Male,18,Australia,AUS,Swimming,200M Butterfly,2012,No Medal,177.0,59.0,Team D,Coach B,Participated,0
+2387,Riya Smith,Female,32,India,IND,Hockey,Women,2012,No Medal,161.0,68.0,Team C,Coach A,Participated,0
+2388,Arjun Sharma,Male,26,Australia,AUS,Badminton,Doubles,2012,No Medal,176.0,47.0,Team C,Coach A,Participated,0
+2389,Sara Sharma,Male,37,France,FRA,Shooting,25M Pistol,2020,No Medal,192.0,49.0,Team C,Coach A,Participated,0
+2390,Olivia Lee,Female,37,Brazil,BRA,Swimming,200M Butterfly,2012,Silver,179.0,82.0,Team A,Coach E,Participated,1
+2391,Lucas Smith,Female,29,India,IND,Gymnastics,Vault,2024,Bronze,186.0,61.0,Team C,Coach C,Participated,1
+2392,Riya Lee,Female,19,Brazil,BRA,Hockey,Men,2016,Gold,160.0,88.0,Team A,Coach A,Participated,1
+2393,Vihaan Brown,Female,23,Germany,GER,Boxing,Heavyweight,2020,No Medal,190.0,85.0,Team D,Coach E,Participated,0
+2394,Chen Patel,Female,27,China,CHN,Gymnastics,Vault,2024,No Medal,180.0,89.0,Team A,Coach E,Participated,0
+2395,Mia Garcia,Male,20,Germany,GER,Shooting,10M Air Rifle,2016,No Medal,183.0,100.0,Team B,Coach A,Participated,0
+2396,Vihaan Smith,Male,31,Brazil,BRA,Boxing,Lightweight,2016,No Medal,164.0,78.0,Team B,Coach B,Participated,0
+2397,Sara Singh,Female,37,India,IND,Athletics,200M,2024,No Medal,184.0,51.0,Team A,Coach E,Participated,0
+2398,David Kim,Male,22,Japan,JPN,Badminton,Doubles,2024,No Medal,156.0,73.0,Team B,Coach D,Participated,0
+2399,Aarav Garcia,Male,37,Brazil,BRA,Shooting,10M Air Rifle,2012,No Medal,197.0,80.0,Team A,Coach C,Participated,0
+2400,Ava Smith,Male,28,France,FRA,Gymnastics,Floor,2016,Gold,159.0,91.0,Team A,Coach A,Participated,1
+2401,Chen Khan,Female,28,France,FRA,Boxing,Heavyweight,2024,No Medal,180.0,71.0,Team B,Coach E,Participated,0
+2402,Emma Khan,Male,27,Brazil,BRA,Boxing,Lightweight,2012,Gold,199.0,48.0,Team C,Coach D,Participated,1
+2403,Kabir Brown,Female,20,India,IND,Swimming,200M Butterfly,2024,Bronze,163.0,71.0,Team A,Coach B,Participated,1
+2404,Mia Smith,Male,30,Brazil,BRA,Swimming,200M Butterfly,2016,No Medal,196.0,77.0,Team A,Coach D,Participated,0
+2405,Liam Kim,Female,34,China,CHN,Boxing,Heavyweight,2024,No Medal,176.0,65.0,Team B,Coach A,Participated,0
+2406,Chen Brown,Female,31,United Kingdom,GBR,Wrestling,Freestyle,2012,No Medal,183.0,58.0,Team A,Coach E,Participated,0
+2407,Neha Singh,Female,20,Australia,AUS,Shooting,25M Pistol,2016,No Medal,174.0,61.0,Team D,Coach D,Participated,0
+2408,Mia Patel,Male,20,Brazil,BRA,Shooting,10M Air Rifle,2016,No Medal,185.0,78.0,Team B,Coach E,Participated,0
+2409,Noah Smith,Male,20,United Kingdom,GBR,Boxing,Lightweight,2024,Silver,184.0,61.0,Team B,Coach A,Participated,1
+2410,Liam Sharma,Male,33,France,FRA,Boxing,Lightweight,2020,No Medal,191.0,62.0,Team C,Coach D,Participated,0
+2411,Lucas Garcia,Female,24,India,IND,Hockey,Men,2020,No Medal,194.0,97.0,Team C,Coach C,Participated,0
+2412,David Sharma,Male,19,Australia,AUS,Badminton,Doubles,2020,No Medal,187.0,96.0,Team B,Coach D,Participated,0
+2413,Ishaan Brown,Male,28,United States,USA,Hockey,Women,2012,No Medal,166.0,99.0,Team A,Coach C,Participated,0
+2414,Yuki Singh,Female,23,Germany,GER,Wrestling,Greco-Roman,2012,Bronze,174.0,77.0,Team B,Coach A,Participated,1
+2415,Sara Smith,Female,27,Canada,CAN,Boxing,Heavyweight,2020,No Medal,158.0,64.0,Team B,Coach C,Participated,0
+2416,Noah Patel,Female,19,India,IND,Badminton,Doubles,2024,Silver,195.0,77.0,Team A,Coach B,Participated,1
+2417,Yuki Smith,Male,32,Brazil,BRA,Boxing,Lightweight,2020,No Medal,173.0,98.0,Team A,Coach B,Participated,0
+2418,Emma Khan,Female,35,France,FRA,Swimming,200M Butterfly,2020,No Medal,185.0,59.0,Team B,Coach A,Participated,0
+2419,Olivia Wilson,Female,20,Germany,GER,Shooting,10M Air Rifle,2012,No Medal,176.0,69.0,Team D,Coach B,Participated,0
+2420,Aarav Patel,Female,30,Australia,AUS,Boxing,Lightweight,2020,No Medal,163.0,66.0,Team A,Coach D,Participated,0
+2421,Sophia Sharma,Female,36,France,FRA,Cycling,Track Sprint,2016,Silver,182.0,78.0,Team C,Coach A,Participated,1
+2422,Olivia Wilson,Female,29,United States,USA,Shooting,10M Air Rifle,2016,No Medal,196.0,97.0,Team A,Coach B,Participated,0
+2423,Ava Kim,Male,18,Germany,GER,Gymnastics,Floor,2012,Bronze,181.0,62.0,Team A,Coach C,Participated,1
+2424,Ananya Wilson,Male,31,Germany,GER,Cycling,Track Sprint,2024,Gold,198.0,70.0,Team B,Coach A,Participated,1
+2425,Aarav Garcia,Male,37,Canada,CAN,Cycling,Track Sprint,2016,No Medal,186.0,60.0,Team B,Coach C,Participated,0
+2426,Ishaan Sharma,Female,26,Germany,GER,Wrestling,Freestyle,2020,No Medal,165.0,47.0,Team D,Coach E,Participated,0
+2427,Mia Garcia,Female,32,United Kingdom,GBR,Cycling,Track Sprint,2020,No Medal,177.0,46.0,Team A,Coach B,Participated,0
+2428,Yuki Brown,Female,36,Germany,GER,Badminton,Singles,2020,No Medal,184.0,72.0,Team A,Coach A,Participated,0
+2429,Ananya Wilson,Male,27,France,FRA,Shooting,10M Air Rifle,2016,No Medal,172.0,67.0,Team B,Coach D,Participated,0
+2430,Kabir Kim,Male,19,France,FRA,Tennis,Singles,2020,No Medal,161.0,71.0,Team A,Coach C,Participated,0
+2431,Arjun Khan,Male,37,United States,USA,Badminton,Singles,2024,Gold,162.0,60.0,Team B,Coach E,Participated,1
+2432,Arjun Singh,Male,33,India,IND,Boxing,Heavyweight,2016,Gold,174.0,75.0,Team A,Coach B,Participated,1
+2433,Riya Lee,Female,20,China,CHN,Shooting,10M Air Rifle,2020,Gold,185.0,85.0,Team B,Coach A,Participated,1
+2434,Mia Lee,Female,32,Japan,JPN,Shooting,25M Pistol,2020,No Medal,156.0,87.0,Team B,Coach D,Participated,0
+2435,Kabir Singh,Male,23,United Kingdom,GBR,Wrestling,Greco-Roman,2020,No Medal,166.0,93.0,Team D,Coach A,Participated,0
+2436,Olivia Patel,Male,33,Canada,CAN,Boxing,Heavyweight,2016,No Medal,199.0,65.0,Team B,Coach A,Participated,0
+2437,Yuki Wilson,Female,28,Germany,GER,Wrestling,Freestyle,2016,No Medal,197.0,52.0,Team D,Coach E,Participated,0
+2438,Liam Sharma,Male,32,China,CHN,Tennis,Doubles,2012,No Medal,158.0,74.0,Team A,Coach C,Participated,0
+2439,Chen Wilson,Male,24,China,CHN,Athletics,100M,2020,Bronze,174.0,79.0,Team C,Coach C,Participated,1
+2440,Chen Patel,Male,19,Brazil,BRA,Tennis,Singles,2020,No Medal,164.0,85.0,Team A,Coach B,Participated,0
+2441,Ananya Khan,Female,32,United States,USA,Boxing,Lightweight,2016,No Medal,164.0,65.0,Team B,Coach E,Participated,0
+2442,Arjun Lee,Male,18,Germany,GER,Cycling,Track Sprint,2024,Silver,187.0,60.0,Team D,Coach B,Participated,1
+2443,Ananya Garcia,Female,18,United States,USA,Tennis,Doubles,2020,No Medal,189.0,53.0,Team B,Coach B,Participated,0
+2444,Emma Wilson,Male,37,France,FRA,Tennis,Doubles,2020,Bronze,160.0,65.0,Team B,Coach C,Participated,1
+2445,Riya Brown,Female,34,Japan,JPN,Swimming,200M Butterfly,2012,No Medal,150.0,85.0,Team C,Coach D,Participated,0
+2446,Yuki Smith,Male,25,Australia,AUS,Shooting,25M Pistol,2020,No Medal,176.0,92.0,Team B,Coach C,Participated,0
+2447,Emma Singh,Female,32,France,FRA,Cycling,Track Sprint,2016,No Medal,175.0,57.0,Team D,Coach D,Participated,0
+2448,Ananya Lee,Female,19,Japan,JPN,Hockey,Women,2024,No Medal,172.0,65.0,Team B,Coach C,Participated,0
+2449,Vihaan Smith,Female,19,Canada,CAN,Boxing,Lightweight,2012,No Medal,200.0,65.0,Team B,Coach E,Participated,0
+2450,Neha Brown,Male,28,Germany,GER,Hockey,Women,2020,No Medal,186.0,85.0,Team B,Coach E,Participated,0
+2451,Ava Khan,Male,20,China,CHN,Boxing,Heavyweight,2020,No Medal,184.0,51.0,Team A,Coach E,Participated,0
+2452,Vihaan Smith,Female,27,Brazil,BRA,Cycling,Track Sprint,2012,No Medal,150.0,77.0,Team B,Coach A,Participated,0
+2453,Ishaan Singh,Female,28,United States,USA,Cycling,Track Sprint,2020,No Medal,196.0,98.0,Team C,Coach D,Participated,0
+2454,Olivia Patel,Female,22,Brazil,BRA,Gymnastics,Floor,2024,No Medal,181.0,47.0,Team A,Coach A,Participated,0
+2455,Noah Garcia,Male,26,United States,USA,Athletics,200M,2020,Bronze,194.0,92.0,Team B,Coach E,Participated,1
+2456,Liam Wilson,Male,31,Brazil,BRA,Swimming,100M Freestyle,2016,Bronze,153.0,49.0,Team C,Coach C,Participated,1
+2457,Chen Khan,Female,28,Canada,CAN,Gymnastics,Floor,2012,No Medal,177.0,71.0,Team B,Coach C,Participated,0
+2458,Kabir Khan,Male,36,Australia,AUS,Tennis,Singles,2024,Gold,178.0,60.0,Team D,Coach E,Participated,1
+2459,Riya Wilson,Female,26,France,FRA,Wrestling,Greco-Roman,2016,No Medal,169.0,76.0,Team A,Coach B,Participated,0
+2460,Vihaan Smith,Female,21,India,IND,Boxing,Lightweight,2024,No Medal,180.0,71.0,Team B,Coach B,Participated,0
+2461,Chen Patel,Male,36,Canada,CAN,Cycling,Road Race,2020,No Medal,188.0,99.0,Team B,Coach D,Participated,0
+2462,Kabir Lee,Female,24,Australia,AUS,Boxing,Lightweight,2016,No Medal,195.0,88.0,Team D,Coach C,Participated,0
+2463,Kabir Kim,Female,37,United States,USA,Cycling,Road Race,2020,No Medal,175.0,53.0,Team C,Coach E,Participated,0
+2464,Vihaan Garcia,Male,28,Australia,AUS,Gymnastics,Vault,2012,No Medal,163.0,62.0,Team A,Coach B,Participated,0
+2465,Sara Lee,Female,29,United Kingdom,GBR,Athletics,200M,2020,Bronze,155.0,96.0,Team B,Coach C,Participated,1
+2466,Olivia Sharma,Male,20,India,IND,Hockey,Men,2024,No Medal,171.0,74.0,Team A,Coach B,Participated,0
+2467,Arjun Garcia,Female,33,Brazil,BRA,Boxing,Heavyweight,2020,Silver,185.0,93.0,Team D,Coach B,Participated,1
+2468,Noah Kim,Female,24,United States,USA,Swimming,200M Butterfly,2012,No Medal,193.0,95.0,Team C,Coach A,Participated,0
+2469,Sara Wilson,Female,28,India,IND,Badminton,Doubles,2016,No Medal,186.0,53.0,Team C,Coach B,Participated,0
+2470,Yuki Kim,Female,23,Japan,JPN,Badminton,Singles,2020,No Medal,166.0,51.0,Team B,Coach D,Participated,0
+2471,Lucas Kim,Male,20,France,FRA,Wrestling,Greco-Roman,2016,No Medal,187.0,95.0,Team A,Coach A,Participated,0
+2472,Arjun Patel,Male,30,Canada,CAN,Hockey,Women,2020,No Medal,173.0,65.0,Team D,Coach C,Participated,0
+2473,Aarav Wilson,Male,30,United States,USA,Boxing,Lightweight,2020,No Medal,176.0,64.0,Team A,Coach D,Participated,0
+2474,Mia Wilson,Male,18,Australia,AUS,Wrestling,Greco-Roman,2016,Silver,199.0,55.0,Team D,Coach B,Participated,1
+2475,Yuki Sharma,Male,35,India,IND,Shooting,25M Pistol,2012,No Medal,189.0,64.0,Team C,Coach B,Participated,0
+2476,Ava Garcia,Female,29,United Kingdom,GBR,Wrestling,Freestyle,2020,Bronze,198.0,71.0,Team C,Coach A,Participated,1
+2477,Olivia Brown,Male,29,Australia,AUS,Cycling,Road Race,2020,Silver,173.0,59.0,Team A,Coach A,Participated,1
+2478,Chen Smith,Female,18,India,IND,Badminton,Doubles,2020,No Medal,179.0,50.0,Team C,Coach D,Participated,0
+2479,Mia Kim,Female,20,Japan,JPN,Swimming,100M Freestyle,2020,No Medal,193.0,87.0,Team D,Coach E,Participated,0
+2480,Vihaan Smith,Male,24,Canada,CAN,Boxing,Heavyweight,2012,No Medal,176.0,80.0,Team D,Coach D,Participated,0
+2481,Chen Singh,Male,36,United States,USA,Boxing,Heavyweight,2016,Bronze,155.0,65.0,Team A,Coach B,Participated,1
+2482,Lucas Sharma,Female,19,United Kingdom,GBR,Swimming,100M Freestyle,2016,Silver,154.0,63.0,Team C,Coach D,Participated,1
+2483,Ananya Patel,Male,36,China,CHN,Hockey,Men,2012,No Medal,176.0,92.0,Team A,Coach A,Participated,0
+2484,Liam Garcia,Female,24,United States,USA,Gymnastics,Vault,2020,No Medal,198.0,89.0,Team C,Coach D,Participated,0
+2485,Ava Patel,Male,19,India,IND,Tennis,Singles,2024,Gold,185.0,48.0,Team B,Coach B,Participated,1
+2486,Sara Sharma,Female,28,France,FRA,Swimming,200M Butterfly,2020,No Medal,176.0,93.0,Team D,Coach B,Participated,0
+2487,Neha Lee,Female,23,United States,USA,Badminton,Singles,2024,Bronze,186.0,52.0,Team B,Coach D,Participated,1
+2488,Yuki Kim,Male,18,Germany,GER,Wrestling,Greco-Roman,2012,Bronze,183.0,64.0,Team B,Coach D,Participated,1
+2489,Sara Singh,Female,25,Japan,JPN,Hockey,Men,2024,No Medal,151.0,87.0,Team C,Coach C,Participated,0
+2490,Liam Lee,Male,18,Brazil,BRA,Shooting,10M Air Rifle,2016,No Medal,152.0,73.0,Team C,Coach B,Participated,0
+2491,Ananya Garcia,Male,37,France,FRA,Shooting,25M Pistol,2012,Gold,156.0,90.0,Team C,Coach E,Participated,1
+2492,Aarav Khan,Male,19,Canada,CAN,Boxing,Heavyweight,2012,No Medal,193.0,71.0,Team A,Coach C,Participated,0
+2493,Arjun Sharma,Female,28,China,CHN,Gymnastics,Floor,2016,No Medal,200.0,46.0,Team D,Coach B,Participated,0
+2494,Vihaan Sharma,Male,26,India,IND,Shooting,25M Pistol,2024,No Medal,161.0,71.0,Team A,Coach E,Participated,0
+2495,Olivia Singh,Female,29,Brazil,BRA,Cycling,Track Sprint,2020,No Medal,176.0,68.0,Team D,Coach A,Participated,0
+2496,Yuki Patel,Female,32,China,CHN,Gymnastics,Floor,2020,Bronze,182.0,100.0,Team C,Coach E,Participated,1
+2497,Arjun Smith,Female,29,France,FRA,Swimming,200M Butterfly,2024,Bronze,168.0,81.0,Team D,Coach C,Participated,1
+2498,Olivia Lee,Female,19,Germany,GER,Swimming,100M Freestyle,2024,No Medal,157.0,80.0,Team C,Coach E,Participated,0
+2499,Ishaan Khan,Male,25,France,FRA,Gymnastics,Vault,2020,No Medal,178.0,46.0,Team C,Coach B,Participated,0
+2500,David Sharma,Male,27,United States,USA,Shooting,10M Air Rifle,2024,No Medal,198.0,69.0,Team D,Coach E,Participated,0
